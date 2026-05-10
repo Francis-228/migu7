@@ -1,39 +1,38 @@
-name: 输出migu.txt内容
+name: 生成 migu.txt
 on: push
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
-      - name: 直接在日志里生成完整migu.txt
+      - name: 生成 migu.txt
         run: |
-          node -e '
-            const fs = require("fs");
-            const ipData = JSON.parse(fs.readFileSync("ip_all.json", "utf8"));
-            let allIPs = [];
-            for (let group in ipData.ip_list) {
-              allIPs = allIPs.concat(ipData.ip_list[group]);
-            }
-            const top7IPs = allIPs.slice(0, 7);
-            const template = fs.readFileSync("interface.txt", "utf8");
-            const lines = template.split(/\r?\n/);
-            let output = [];
-            for (const line of lines) {
-              if (line.startsWith("#EXT") || line.trim() === "") {
-                output.push(line);
-                continue;
-              }
-              if (line.includes("${replace}")) {
-                for (const ip of top7IPs) {
-                  output.push(line.replace(/\$\{replace\}/g, ip));
-                }
-              } else {
-                output.push(line);
-              }
-            }
-            console.log("\n===== 完整migu.txt内容开始 =====");
-            console.log(output.join("\n"));
-            console.log("===== 完整migu.txt内容结束 =====");
-          '
+          node -e "
+          const fs = require('fs');
+          const ipData = JSON.parse(fs.readFileSync('ip_all.json','utf8'));
+          let allIPs = [];
+          for(let k in ipData.ip_list) allIPs = allIPs.concat(ipData.ip_list[k]);
+          const useIPs = allIPs.slice(0,7);
+          const lines = fs.readFileSync('interface.txt','utf8').split(/\n/);
+          let out = [];
+          lines.forEach(l=>{
+            if(l.startsWith('#')||l.trim()===''){out.push(l);return;}
+            if(l.includes('\${replace}')){
+              useIPs.forEach(ip=>out.push(l.replace('\${replace}',ip)));
+            }else out.push(l);
+          });
+          fs.writeFileSync('migu.txt',out.join('\n'),'utf8');
+          console.log('✅ migu.txt 生成成功！');
+          "
+
+      - name: 提交到仓库根目录
+        run: |
+          git config --global user.name "Actions"
+          git config --global user.email "actions@github.com"
+          git add migu.txt
+          git commit -m "生成 migu.txt"
+          git push
