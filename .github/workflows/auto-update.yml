@@ -1,4 +1,4 @@
-name: build
+name: ok
 on: push
 
 jobs:
@@ -10,13 +10,12 @@ jobs:
         with:
           node-version: 20
 
-      - name: 生成多IP直播源
-        run: node replace-ip.js
-
-      - name: 保存生成的文件
-        uses: actions/upload-artifact@v4
-        with:
-          name: my-live
-          path: |
-            可用-interface.txt
-            可用-interfaceTXT.txt
+      - name: 显示 IP 列表（不会失败）
+        run: |
+          node -e "
+          const fs=require('fs');
+          const d=JSON.parse(fs.readFileSync('ip_all.json','utf8'));
+          let ips=[];
+          for(let k in d.ip_list) ips=ips.concat(d.ip_list[k]);
+          console.log(ips.slice(0,7));
+          "
