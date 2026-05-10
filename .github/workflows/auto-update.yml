@@ -1,17 +1,9 @@
-name: build
-on:
-  push:
-  schedule:
-    - cron: '0 */3 * * *'
+name: OK
+on: push
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with: {node-version: 20}
       - run: node replace-ip.js
-      - uses: EndBug/add-and-commit@v9
-        with:
-          message: update
