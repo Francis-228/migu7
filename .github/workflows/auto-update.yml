@@ -9,10 +9,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: 生成 1台7线路 真实IP
+      - name: 生成 1台7线路 真实IP（适配ES Module）
         run: |
-          cat > run.js << 'EOF'
-          const fs = require('fs');
+          cat > run.mjs << 'EOF'
+          import fs from 'fs';
           const ipData = JSON.parse(fs.readFileSync('ip_all.json', 'utf8'));
           let ips = [];
           for (let k in ipData.ip_list) ips = ips.concat(ipData.ip_list[k]);
@@ -38,7 +38,7 @@ jobs:
           fs.writeFileSync('migu.txt', out.join('\n'), 'utf8');
           EOF
 
-          node run.js
+          node run.mjs
 
       - name: 保存文件
         run: |
