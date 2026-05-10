@@ -1,8 +1,8 @@
-name: 生成 migu.txt
+name: 生成migu7线路
 on: push
 
 jobs:
-  build:
+  run:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -12,13 +12,13 @@ jobs:
         with:
           node-version: 20
 
-      - name: 运行替换脚本
-        run: node replace.js
+      - name: 执行生成脚本
+        run: node build.js
 
-      - name: 提交
+      - name: 提交migu.txt到仓库
         run: |
-          git config --global user.name "Actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.name "Bot"
+          git config --global user.email "bot@github.com"
           git add migu.txt
-          git commit -m "ok"
+          git commit -m "生成 单台7IP线路"
           git push
