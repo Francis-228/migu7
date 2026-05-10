@@ -8,24 +8,17 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
 
-      - name: 全局替换变量为真实IP
-        run: |
-          node -e "
-          const fs = require('fs');
-          const ipData = JSON.parse(fs.readFileSync('ip_all.json','utf8'));
-          let allIPs = [];
-          for(let key in ipData.ip_list) allIPs = allIPs.concat(ipData.ip_list[key]);
-          const ip = allIPs[0]; // 取第一个IP
-          let content = fs.readFileSync('interface.txt','utf8');
-          content = content.replace(/\$\{replace\}/g, ip);
-          fs.writeFileSync('migu.txt', content, 'utf8');
-          "
+      - name: 运行替换脚本
+        run: node replace.js
 
-      - name: 提交文件
+      - name: 提交
         run: |
           git config --global user.name "Actions"
           git config --global user.email "actions@github.com"
           git add migu.txt
-          git commit -m "生成成功"
+          git commit -m "ok"
           git push
