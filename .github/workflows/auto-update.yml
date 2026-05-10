@@ -1,24 +1,49 @@
-name: 生成migu7线路
+name: 生成 migu.txt
 on: push
 
 jobs:
-  run:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
 
-      - name: 执行生成脚本
-        run: node build.js
-
-      - name: 提交migu.txt到仓库
+      - name: 生成 1台7线路 真实IP
         run: |
-          git config --global user.name "Bot"
-          git config --global user.email "bot@github.com"
+          cat > run.js << 'EOF'
+          const fs = require('fs');
+          const ipData = JSON.parse(fs.readFileSync('ip_all.json', 'utf8'));
+          let ips = [];
+          for (let k in ipData.ip_list) ips = ips.concat(ipData.ip_list[k]);
+          const useIPs = ips.slice(0,7);
+
+          const tpl = fs.readFileSync('interface.txt', 'utf8').split(/\r?\n/);
+          let out = [];
+          let extLine = '';
+
+          for (let line of tpl) {
+            if (line.startsWith('#EXTM3U')) {
+              out.push(line.replace(/\$\{replace\}/g, useIPs[0]));
+            } else if (line.startsWith('#EXTINF')) {
+              extLine = line;
+            } else if (line.includes('${replace}') && extLine) {
+              useIPs.forEach(ip => {
+                out.push(extLine);
+                out.push(line.replace(/\$\{replace\}/g, ip));
+              });
+            }
+          }
+
+          fs.writeFileSync('migu.txt', out.join('\n'), 'utf8');
+          EOF
+
+          node run.js
+
+      - name: 保存文件
+        run: |
+          git config user.name "actions"
+          git config user.email "actions@github.com"
           git add migu.txt
-          git commit -m "生成 单台7IP线路"
+          git commit -m "生成 1台7线路"
           git push
