@@ -1,21 +1,41 @@
-name: ok
+name: 生成 migu.txt
 on: push
 
 jobs:
-  run:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
 
-      - name: 显示 IP 列表（不会失败）
+      - name: 生成最终直播源 migu.txt
         run: |
-          node -e "
-          const fs=require('fs');
-          const d=JSON.parse(fs.readFileSync('ip_all.json','utf8'));
-          let ips=[];
-          for(let k in d.ip_list) ips=ips.concat(d.ip_list[k]);
-          console.log(ips.slice(0,7));
-          "
+          cat > generate.js << 'EOF'
+          const fs = require('fs');
+          const data = JSON.parse(fs.readFileSync('ip_all.json','utf8'));
+          let ips = [];
+          for (let k in data.ip_list) ips = ips.concat(data.ip_list[k]);
+          const use = ips.slice(0,7);
+          const lines = fs.readFileSync('interface.txt','utf8').split(/\r?\n/);
+          let out = [];
+          lines.forEach(l => {
+            if (l.startsWith('#') || l.trim() === '') {
+              out.push(l);
+              return;
+            }
+            if (l.includes('${replace}')) {
+              use.forEach(ip => out.push(l.replace(/\$\{replace\}/g, ip)));
+            } else {
+              out.push(l);
+            }
+          });
+          fs.writeFileSync('migu.txt', out.join('\n'), 'utf8');
+          EOF
+
+          node generate.js
+          cat migu.txt
+
+      - name: 下载生成好的 migu.txt
+        uses: actions/upload-artifact@v4
+        with:
+          name: migu
+          path: migu.txt
