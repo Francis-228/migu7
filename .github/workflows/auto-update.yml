@@ -1,4 +1,4 @@
-name: 生成 migu.txt
+name: 输出migu.txt内容
 on: push
 
 jobs:
@@ -7,35 +7,33 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: 生成最终直播源 migu.txt
+      - name: 直接在日志里生成完整migu.txt
         run: |
-          cat > generate.js << 'EOF'
-          const fs = require('fs');
-          const data = JSON.parse(fs.readFileSync('ip_all.json','utf8'));
-          let ips = [];
-          for (let k in data.ip_list) ips = ips.concat(data.ip_list[k]);
-          const use = ips.slice(0,7);
-          const lines = fs.readFileSync('interface.txt','utf8').split(/\r?\n/);
-          let out = [];
-          lines.forEach(l => {
-            if (l.startsWith('#') || l.trim() === '') {
-              out.push(l);
-              return;
+          node -e '
+            const fs = require("fs");
+            const ipData = JSON.parse(fs.readFileSync("ip_all.json", "utf8"));
+            let allIPs = [];
+            for (let group in ipData.ip_list) {
+              allIPs = allIPs.concat(ipData.ip_list[group]);
             }
-            if (l.includes('${replace}')) {
-              use.forEach(ip => out.push(l.replace(/\$\{replace\}/g, ip)));
-            } else {
-              out.push(l);
+            const top7IPs = allIPs.slice(0, 7);
+            const template = fs.readFileSync("interface.txt", "utf8");
+            const lines = template.split(/\r?\n/);
+            let output = [];
+            for (const line of lines) {
+              if (line.startsWith("#EXT") || line.trim() === "") {
+                output.push(line);
+                continue;
+              }
+              if (line.includes("${replace}")) {
+                for (const ip of top7IPs) {
+                  output.push(line.replace(/\$\{replace\}/g, ip));
+                }
+              } else {
+                output.push(line);
+              }
             }
-          });
-          fs.writeFileSync('migu.txt', out.join('\n'), 'utf8');
-          EOF
-
-          node generate.js
-          cat migu.txt
-
-      - name: 下载生成好的 migu.txt
-        uses: actions/upload-artifact@v4
-        with:
-          name: migu
-          path: migu.txt
+            console.log("\n===== 完整migu.txt内容开始 =====");
+            console.log(output.join("\n"));
+            console.log("===== 完整migu.txt内容结束 =====");
+          '
