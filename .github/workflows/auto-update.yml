@@ -1,17 +1,22 @@
-name: debug
+name: build
 on: push
 
 jobs:
-  test:
+  run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      - name: 查看当前目录所有文件
-        run: ls -la
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
 
-      - name: 查看 Node 版本
-        run: node -v
+      - name: 生成多IP直播源
+        run: node replace-ip.js
 
-      - name: 查看 ip_all.json 是否存在
-        run: cat ip_all.json
+      - name: 保存生成的文件
+        uses: actions/upload-artifact@v4
+        with:
+          name: my-live
+          path: |
+            可用-interface.txt
+            可用-interfaceTXT.txt
