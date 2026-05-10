@@ -1,0 +1,19 @@
+name: 自动测速生成7IP直播源
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 */3 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: node replace-ip.js
+      - name: 提交更新
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: '自动测速生成7IP直播源'
+          committer_name: Actions
+          committer_email: actions@github.com
