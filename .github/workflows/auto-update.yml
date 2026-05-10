@@ -1,4 +1,4 @@
-name: 生成可播放 migu.txt
+name: 生成HTTPS版 migu.txt
 on: push
 
 jobs:
@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: 生成带 http 可播放格式
+      - name: 生成HTTPS可播放格式
         run: |
           cat > run.mjs << 'EOF'
           import fs from 'fs';
@@ -24,13 +24,13 @@ jobs:
 
           for (let line of tpl) {
             if (line.startsWith('#EXTM3U')) {
-              out.push(line.replace(/\$\{replace\}/g, 'http://'+useIPs[0]));
+              out.push(line.replace(/\$\{replace\}/g, 'https://'+useIPs[0]));
             } else if (line.startsWith('#EXTINF')) {
               extLine = line;
             } else if (line.includes('${replace}') && extLine) {
               useIPs.forEach(ip => {
                 out.push(extLine);
-                out.push(line.replace(/\$\{replace\}/g, 'http://'+ip));
+                out.push(line.replace(/\$\{replace\}/g, 'https://'+ip));
               });
             }
           }
@@ -45,5 +45,5 @@ jobs:
           git config user.name "actions"
           git config user.email "actions@github.com"
           git add migu.txt
-          git commit -m "生成可播放版"
+          git commit -m "生成HTTPS可播放版"
           git push
