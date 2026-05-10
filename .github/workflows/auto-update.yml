@@ -9,42 +9,36 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: 生成 migu.txt
+      - name: 只替换变量 生成 migu.txt
         run: |
           node -e "
           const fs = require('fs');
+          
+          // 读取IP
           const ipData = JSON.parse(fs.readFileSync('ip_all.json','utf8'));
-          let allIPs = [];
-          for(let k in ipData.ip_list) allIPs = allIPs.concat(ipData.ip_list[k]);
-          const useIPs = allIPs.slice(0,7);
+          let ips = [];
+          for(let k in ipData.ip_list) ips = ips.concat(ipData.ip_list[k]);
+          const ipList = ips.slice(0,7);
 
-          let template = fs.readFileSync('interface.txt','utf8');
-          let output = [];
+          // 读取模板
+          let tpl = fs.readFileSync('interface.txt','utf8');
+          let result = '';
 
-          const lines = template.split(/\r?\n/);
-          let currentInfo = '';
+          // 循环7个IP，每个IP生成一套完整频道
+          ipList.forEach(ip => {
+            let content = tpl.replace(/\$\{replace\}/g, ip);
+            result += content + '\n';
+          });
 
-          for (let line of lines) {
-            if (line.startsWith('#EXTINF')) {
-              currentInfo = line;
-            } else if (line.includes('${replace}') && currentInfo) {
-              useIPs.forEach(ip => {
-                output.push(currentInfo);
-                output.push(line.replace(/\$\{replace\}/g, ip));
-              });
-            } else if (line.startsWith('#EXTM3U')) {
-              output.push(line.replace(/\$\{replace\}/g, useIPs[0]));
-            }
-          }
-
-          fs.writeFileSync('migu.txt', output.join('\n'), 'utf8');
-          console.log('✅ 生成成功！');
+          // 写入文件
+          fs.writeFileSync('migu.txt', result, 'utf8');
+          console.log('✅ 生成成功！全部是真实IP！无变量！');
           "
 
-      - name: 提交文件
+      - name: 提交到仓库
         run: |
           git config --global user.name "Actions"
           git config --global user.email "actions@github.com"
           git add migu.txt
-          git commit -m "update"
+          git commit -m "生成完整IP版"
           git push
