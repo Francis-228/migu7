@@ -1,4 +1,4 @@
-name: 生成HTTPS版 migu.txt
+name: 生成可播放 migu.txt
 on: push
 
 jobs:
@@ -9,41 +9,43 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: 生成HTTPS可播放格式
+      - name: 生成纯净播放源
         run: |
           cat > run.mjs << 'EOF'
           import fs from 'fs';
+
+          // 读取IP
           const ipData = JSON.parse(fs.readFileSync('ip_all.json', 'utf8'));
           let ips = [];
           for (let k in ipData.ip_list) ips = ips.concat(ipData.ip_list[k]);
-          const useIPs = ips.slice(0,7);
+          const useIPs = ips.slice(0, 7);
 
+          // 读取模板
           const tpl = fs.readFileSync('interface.txt', 'utf8').split(/\r?\n/);
-          let out = [];
-          let extLine = '';
+          let output = ['#EXTM3U']; // 纯净头部
+          let currentInfo = '';
 
           for (let line of tpl) {
-            if (line.startsWith('#EXTM3U')) {
-              out.push(line.replace(/\$\{replace\}/g, 'https://'+useIPs[0]));
-            } else if (line.startsWith('#EXTINF')) {
-              extLine = line;
-            } else if (line.includes('${replace}') && extLine) {
+            if (line.startsWith('#EXTINF')) {
+              currentInfo = line;
+            }
+            else if (line.includes('${replace}') && currentInfo) {
               useIPs.forEach(ip => {
-                out.push(extLine);
-                out.push(line.replace(/\$\{replace\}/g, 'https://'+ip));
+                output.push(currentInfo);
+                output.push('http://' + ip + line.replace('${replace}', ''));
               });
             }
           }
 
-          fs.writeFileSync('migu.txt', out.join('\n'), 'utf8');
+          fs.writeFileSync('migu.txt', output.join('\n'), 'utf8');
           EOF
 
           node run.mjs
 
       - name: 提交文件
         run: |
-          git config user.name "actions"
-          git config user.email "actions@github.com"
+          git config user.name "AutoBuild"
+          git config user.email "auto@github.com"
           git add migu.txt
-          git commit -m "生成HTTPS可播放版"
+          git commit -m "生成纯净可播放源"
           git push
