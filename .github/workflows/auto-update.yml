@@ -9,11 +9,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - run: node replace-ip.js
+      - name: 拉取代码
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false # 避免权限问题
+
+      - name: 安装 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 运行脚本
+        run: node replace-ip.js
+
       - name: 提交更新
         uses: EndBug/add-and-commit@v9
         with:
           message: '自动测速生成7IP直播源'
-          committer_name: Actions
+          committer_name: GitHub Actions
           committer_email: actions@github.com
+          add: '.'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
