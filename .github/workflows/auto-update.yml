@@ -1,9 +1,15 @@
-name: OK
-on: push
+name: 生成直播源
+on:
+  push:
+    branches: [ main ]
 
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: ls -la  # 先看一下文件列表，确认文件都在
       - run: node replace-ip.js
