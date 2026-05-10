@@ -16,7 +16,7 @@ jobs:
           const ipData = JSON.parse(fs.readFileSync('ip_all.json','utf8'));
           let allIPs = [];
           for(let k in ipData.ip_list) allIPs = allIPs.concat(ipData.ip_list[k]);
-          const useIPs = allIPs.slice(0,7);
+          const useIPs = allIPs.slice(0,1);
           const lines = fs.readFileSync('interface.txt','utf8').split(/\n/);
           let out = [];
           lines.forEach(l=>{
