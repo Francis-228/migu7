@@ -1,11 +1,17 @@
-name: test
+name: debug
 on: push
+
 jobs:
-  run:
+  test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-      - run: node test.js
+      
+      - name: 查看当前目录所有文件
+        run: ls -la
+
+      - name: 查看 Node 版本
+        run: node -v
+
+      - name: 查看 ip_all.json 是否存在
+        run: cat ip_all.json
