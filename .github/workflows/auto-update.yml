@@ -2,7 +2,7 @@ name: 生成可播放 migu.txt
 on:
   push:
   schedule:
-    - cron: '0 */6 * * *'  # 每6小时自动跑一次
+    - cron: '0 */6 * * *'  # 每6小时自动更新一次
 
 jobs:
   build:
@@ -19,48 +19,78 @@ jobs:
         with:
           node-version: 20
 
-      - name: 生成纯净播放源
+      - name: 生成纯净播放源（自动筛选可用IP）
         run: |
           cat > run.mjs << 'EOF'
           import fs from 'fs';
-          import path from 'path';
+          import http from 'http';
 
-          try {
-            const ipData = JSON.parse(fs.readFileSync('ip_all.json', 'utf8'));
-            let ips = [];
-            for (let k in ipData.ip_list) ips = ips.concat(ipData.ip_list[k]);
-            const useIPs = ips.slice(0, 7);
+          // 读取IP
+          const ipData = JSON.parse(fs.readFileSync('ip_all.json', 'utf8'));
+          let ips = [];
+          for (let k in ipData.ip_list) ips = ips.concat(ipData.ip_list[k]);
 
-            const tpl = fs.readFileSync('interface.txt', 'utf8').split(/\r?\n/);
-            let output = ['#EXTM3U'];
-            let currentInfo = '';
+          // 读取模板
+          const tpl = fs.readFileSync('interface.txt', 'utf8').split(/\r?\n/);
+          let output = ['#EXTM3U'];
+          let currentInfo = '';
 
+          // 超时时间（毫秒）
+          const timeout = 2500;
+
+          // 测试IP是否可用
+          async function testIP(ip) {
+            return new Promise(resolve => {
+              const testUrl = `http://${ip}/`;
+              const req = http.get(testUrl, res => {
+                if (res.statusCode >= 200 && res.statusCode < 500) resolve(true);
+                else resolve(false);
+              }).on('error', () => resolve(false));
+              req.setTimeout(timeout, () => {
+                req.destroy();
+                resolve(false);
+              });
+            });
+          }
+
+          // 筛选可用IP
+          async function filterIPs() {
+            console.log("🔍 正在筛选可用IP...");
+            let usableIPs = [];
+            for (const ip of ips.slice(0, 15)) {
+              const ok = await testIP(ip);
+              if (ok) usableIPs.push(ip);
+            }
+            console.log("✅ 可用IP：", usableIPs.length + " 个");
+            return usableIPs.slice(0, 7);
+          }
+
+          // 生成播放列表
+          filterIPs().then(useIPs => {
             for (let line of tpl) {
               if (line.startsWith('#EXTINF')) {
                 currentInfo = line;
-              }
-              else if (line.includes('${replace}') && currentInfo) {
+              } else if (line.includes('${replace}') && currentInfo) {
                 useIPs.forEach(ip => {
                   output.push(currentInfo);
                   output.push('http://' + ip + line.replace('${replace}', ''));
                 });
               }
             }
-
             fs.writeFileSync('migu.txt', output.join('\n'), 'utf8');
-            console.log("✅ migu.txt 生成成功");
-          } catch (err) {
-            console.error("❌ 生成失败：", err);
+            console.log("✅ migu.txt 生成完成，只保留可连通IP！");
+          }).catch(err => {
+            console.error("❌ 错误：", err);
             process.exit(1);
-          }
+          });
           EOF
 
           node run.mjs
 
-      - name: 提交并推送文件
+      - name: 提交并推送
         run: |
           git config user.name "AutoBuild"
           git config user.email "auto@github.com"
           git add migu.txt
-          git commit -m "Auto: 每6小时更新migu播放源" || echo "无变更无需提交"
+          git commit -m "Auto: 已筛选可用IP" || echo "无变更"
           git push
