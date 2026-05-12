@@ -355,10 +355,10 @@ ${replace}/964733196
 ${replace}/964733211
 #EXTINF:-1 tvg-id="骑士VS活塞" tvg-name="NBA 骑士VS活塞 全场回放（庄宁宇、张兆旭、徐咏、魏欣怡） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 骑士VS活塞 全场回放（庄宁宇、张兆旭、徐咏、魏欣怡） 07:55
 ${replace}/964736521
+#EXTINF:-1 tvg-id="骑士VS活塞" tvg-name="NBA 骑士VS活塞 全场回放（大史） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 骑士VS活塞 全场回放（大史） 07:55
+${replace}/964736920
 #EXTINF:-1 tvg-id="骑士VS活塞" tvg-name="NBA 骑士VS活塞 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 骑士VS活塞 全场回放（英文原声） 07:55
 ${replace}/964736483
-#EXTINF:-1 tvg-id="高光不断！全能与单项决赛陆续开战" tvg-name="全国艺术体操锦标赛 高光不断！全能与单项决赛陆续开战 3D全真视频 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/7/1000000004341068cc7a.png" group-title="体育-今天",全国艺术体操锦标赛 高光不断！全能与单项决赛陆续开战 3D全真视频 09:00
-${replace}/964632937
 #EXTINF:-1 tvg-id="吴安仪、白雨露首日亮相" tvg-name="斯诺克 吴安仪、白雨露首日亮相 1号桌 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 吴安仪、白雨露首日亮相 1号桌 09:30
 ${replace}/964728739
 #EXTINF:-1 tvg-id="吴安仪、白雨露首日亮相" tvg-name="斯诺克 吴安仪、白雨露首日亮相 2号桌 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 吴安仪、白雨露首日亮相 2号桌 09:30
@@ -367,30 +367,24 @@ ${replace}/964728776
 ${replace}/964728807
 #EXTINF:-1 tvg-id="吴安仪、白雨露首日亮相" tvg-name="斯诺克 吴安仪、白雨露首日亮相 4号桌 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 吴安仪、白雨露首日亮相 4号桌 09:30
 ${replace}/964728841
-#EXTINF:-1 tvg-id="董天尧冲击正赛！新组合揭幕战亮相" tvg-name="BWF 董天尧冲击正赛！新组合揭幕战亮相 2号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 董天尧冲击正赛！新组合揭幕战亮相 2号场地 10:00
-${replace}/964693150
-#EXTINF:-1 tvg-id="董天尧冲击正赛！新组合揭幕战亮相" tvg-name="BWF 董天尧冲击正赛！新组合揭幕战亮相 4号场地 10:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 董天尧冲击正赛！新组合揭幕战亮相 4号场地 10:10
-${replace}/964693203
-#EXTINF:-1 tvg-id="董天尧冲击正赛！新组合揭幕战亮相" tvg-name="BWF 董天尧冲击正赛！新组合揭幕战亮相 3号场地 10:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 董天尧冲击正赛！新组合揭幕战亮相 3号场地 10:10
+#EXTINF:-1 tvg-id="全力冲击正赛！新组合揭幕战亮相" tvg-name="BWF 全力冲击正赛！新组合揭幕战亮相 3号场地 10:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全力冲击正赛！新组合揭幕战亮相 3号场地 10:10
 ${replace}/964693188
-#EXTINF:-1 tvg-id="董天尧冲击正赛！新组合揭幕战亮相" tvg-name="BWF 董天尧冲击正赛！新组合揭幕战亮相 1号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 董天尧冲击正赛！新组合揭幕战亮相 1号场地 10:00
+#EXTINF:-1 tvg-id="全力冲击正赛！新组合揭幕战亮相" tvg-name="BWF 全力冲击正赛！新组合揭幕战亮相 1号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全力冲击正赛！新组合揭幕战亮相 1号场地 10:00
 ${replace}/964693121
-#EXTINF:-1 tvg-id="湖人VS雷霆" tvg-name="NBA 湖人VS雷霆 杨健 曾令旭 李根 10:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS雷霆 杨健 曾令旭 李根 10:10
-${replace}/964609084
-#EXTINF:-1 tvg-id="湖人VS雷霆" tvg-name="NBA 湖人VS雷霆 郑泽鹏 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS雷霆 郑泽鹏 10:25
-${replace}/964609071
-#EXTINF:-1 tvg-id="湖人VS雷霆" tvg-name="NBA 湖人VS雷霆 莫俊祺 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS雷霆 莫俊祺 10:25
-${replace}/964609043
-#EXTINF:-1 tvg-id="湖人VS雷霆" tvg-name="NBA 湖人VS雷霆 洪荒 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS雷霆 洪荒 10:25
-${replace}/964609035
-#EXTINF:-1 tvg-id="湖人VS雷霆" tvg-name="NBA 湖人VS雷霆 英文原声 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS雷霆 英文原声 10:25
-${replace}/964609000
-#EXTINF:-1 tvg-id="湖人VS雷霆" tvg-name="NBA 湖人VS雷霆 智能字幕 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS雷霆 智能字幕 10:25
-${replace}/964608969
+#EXTINF:-1 tvg-id="全力冲击正赛！新组合揭幕战亮相" tvg-name="BWF 全力冲击正赛！新组合揭幕战亮相 2号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全力冲击正赛！新组合揭幕战亮相 2号场地 10:00
+${replace}/964693150
+#EXTINF:-1 tvg-id="全力冲击正赛！新组合揭幕战亮相" tvg-name="BWF 全力冲击正赛！新组合揭幕战亮相 4号场地 10:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全力冲击正赛！新组合揭幕战亮相 4号场地 10:10
+${replace}/964693203
+#EXTINF:-1 tvg-id="湖人VS雷霆" tvg-name="NBA 湖人VS雷霆 全场回放（郑泽鹏） 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS雷霆 全场回放（郑泽鹏） 10:25
+${replace}/964739263
+#EXTINF:-1 tvg-id="湖人VS雷霆" tvg-name="NBA 湖人VS雷霆 全场回放（莫俊祺） 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS雷霆 全场回放（莫俊祺） 10:25
+${replace}/964739359
 #EXTINF:-1 tvg-id="长沙勇胜vs广东宏远" tvg-name="全国青年篮球联赛 长沙勇胜vs广东宏远 清流播出 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 长沙勇胜vs广东宏远 清流播出 13:30
 ${replace}/964666188
 #EXTINF:-1 tvg-id="苏科雄狮vs四川锦城" tvg-name="全国青年篮球联赛 苏科雄狮vs四川锦城 清流播出 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 苏科雄狮vs四川锦城 清流播出 13:30
 ${replace}/964666122
+#EXTINF:-1 tvg-id="全国艺术体操锦标赛Day5" tvg-name="全国艺术体操锦标赛 全国艺术体操锦标赛Day5 3D全真视频 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/7/1000000004341068cc7a.png" group-title="体育-今天",全国艺术体操锦标赛 全国艺术体操锦标赛Day5 3D全真视频 15:00
+${replace}/964632943
 #EXTINF:-1 tvg-id="浙江稠州银行vs江苏肯帝亚" tvg-name="全国青年篮球联赛 浙江稠州银行vs江苏肯帝亚 清流播出 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 浙江稠州银行vs江苏肯帝亚 清流播出 15:30
 ${replace}/964666190
 #EXTINF:-1 tvg-id="浙江广厦vs深圳新世纪" tvg-name="全国青年篮球联赛 浙江广厦vs深圳新世纪 清流播出 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 浙江广厦vs深圳新世纪 清流播出 15:30
