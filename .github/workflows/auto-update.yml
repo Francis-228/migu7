@@ -1,5 +1,8 @@
 name: 生成可播放 migu.txt
-on: push
+on:
+  push:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时自动跑一次
 
 jobs:
   build:
@@ -8,44 +11,56 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: 安装 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
 
       - name: 生成纯净播放源
         run: |
           cat > run.mjs << 'EOF'
           import fs from 'fs';
+          import path from 'path';
 
-          // 读取IP
-          const ipData = JSON.parse(fs.readFileSync('ip_all.json', 'utf8'));
-          let ips = [];
-          for (let k in ipData.ip_list) ips = ips.concat(ipData.ip_list[k]);
-          const useIPs = ips.slice(0, 7);
+          try {
+            const ipData = JSON.parse(fs.readFileSync('ip_all.json', 'utf8'));
+            let ips = [];
+            for (let k in ipData.ip_list) ips = ips.concat(ipData.ip_list[k]);
+            const useIPs = ips.slice(0, 7);
 
-          // 读取模板
-          const tpl = fs.readFileSync('interface.txt', 'utf8').split(/\r?\n/);
-          let output = ['#EXTM3U']; // 纯净头部
-          let currentInfo = '';
+            const tpl = fs.readFileSync('interface.txt', 'utf8').split(/\r?\n/);
+            let output = ['#EXTM3U'];
+            let currentInfo = '';
 
-          for (let line of tpl) {
-            if (line.startsWith('#EXTINF')) {
-              currentInfo = line;
+            for (let line of tpl) {
+              if (line.startsWith('#EXTINF')) {
+                currentInfo = line;
+              }
+              else if (line.includes('${replace}') && currentInfo) {
+                useIPs.forEach(ip => {
+                  output.push(currentInfo);
+                  output.push('http://' + ip + line.replace('${replace}', ''));
+                });
+              }
             }
-            else if (line.includes('${replace}') && currentInfo) {
-              useIPs.forEach(ip => {
-                output.push(currentInfo);
-                output.push('http://' + ip + line.replace('${replace}', ''));
-              });
-            }
+
+            fs.writeFileSync('migu.txt', output.join('\n'), 'utf8');
+            console.log("✅ migu.txt 生成成功");
+          } catch (err) {
+            console.error("❌ 生成失败：", err);
+            process.exit(1);
           }
-
-          fs.writeFileSync('migu.txt', output.join('\n'), 'utf8');
           EOF
 
           node run.mjs
 
-      - name: 提交文件
+      - name: 提交并推送文件
         run: |
           git config user.name "AutoBuild"
           git config user.email "auto@github.com"
           git add migu.txt
-          git commit -m "生成纯净可播放源"
+          git commit -m "Auto: 每6小时更新migu播放源" || echo "无变更无需提交"
           git push
