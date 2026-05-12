@@ -13,6 +13,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 1
+          persist-credentials: false  # 修复git push权限问题
 
       - name: 安装 Node.js
         uses: actions/setup-node@v4
@@ -57,26 +58,37 @@ jobs:
           async function filterIPs() {
             console.log("🔍 正在筛选可用IP...");
             let usableIPs = [];
-            for (const ip of ips.slice(0, 15)) {
-              const ok = await testIP(ip);
-              if (ok) usableIPs.push(ip);
+            // 限制测试数量，避免超时
+            const testLimit = Math.min(ips.length, 15);
+            for (let i = 0; i < testLimit; i++) {
+              const ok = await testIP(ips[i]);
+              if (ok) usableIPs.push(ips[i]);
             }
             console.log("✅ 可用IP：", usableIPs.length + " 个");
+            // 最多保留7个可用IP
             return usableIPs.slice(0, 7);
           }
 
           // 生成播放列表
           filterIPs().then(useIPs => {
+            if (useIPs.length === 0) {
+              console.log("⚠️ 未检测到可用IP，使用原始模板生成");
+              useIPs = [ips[0]]; // 无可用IP时保底
+            }
+            
             for (let line of tpl) {
-              if (line.startsWith('#EXTINF')) {
-                currentInfo = line;
-              } else if (line.includes('${replace}') && currentInfo) {
+              const trimLine = line.trim();
+              if (trimLine.startsWith('#EXTINF')) {
+                currentInfo = trimLine;
+              } else if (trimLine.includes('${replace}') && currentInfo) {
                 useIPs.forEach(ip => {
                   output.push(currentInfo);
-                  output.push('http://' + ip + line.replace('${replace}', ''));
+                  output.push('http://' + ip + trimLine.replace('${replace}', ''));
                 });
+                currentInfo = '';
               }
             }
+            
             fs.writeFileSync('migu.txt', output.join('\n'), 'utf8');
             console.log("✅ migu.txt 生成完成，只保留可连通IP！");
           }).catch(err => {
@@ -87,10 +99,10 @@ jobs:
 
           node run.mjs
 
-      - name: 提交并推送
-        run: |
-          git config user.name "AutoBuild"
-          git config user.email "auto@github.com"
-          git add migu.txt
-          git commit -m "Auto: 已筛选可用IP" || echo "无变更"
-          git push
+      - name: 提交并推送变更
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.head_ref || github.ref_name }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: "Auto: 已筛选可用IP"
+          force: false
