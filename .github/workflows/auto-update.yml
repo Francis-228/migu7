@@ -8,12 +8,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write  # 必须开启写权限
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 1
-          persist-credentials: false  # 修复git push权限问题
+          persist-credentials: false  # 禁用默认凭证，避免冲突
 
       - name: 安装 Node.js
         uses: actions/setup-node@v4
@@ -99,10 +99,16 @@ jobs:
 
           node run.mjs
 
-      - name: 提交并推送变更
+      # 必须先 git add + commit，再 push
+      - name: 提交变更
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add migu.txt
+          git commit -m "Auto: 已筛选可用IP" || echo "无文件变更，无需提交"
+
+      - name: 推送变更到仓库
         uses: ad-m/github-push-action@master
         with:
-          branch: ${{ github.head_ref || github.ref_name }}
+          branch: ${{ github.ref_name }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          message: "Auto: 已筛选可用IP"
-          force: false
