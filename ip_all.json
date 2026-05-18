@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/5/19 05:10:59",
+  "update_time": "2026/5/19 06:59:22",
   "statistics": {
     "total_processed": 9539,
-    "valid_ip_count": 58,
-    "duplicate_ip_count": 8286
+    "valid_ip_count": 57,
+    "duplicate_ip_count": 8159
   },
   "ip_list": {
     "jsct": [
@@ -69,7 +69,6 @@
       "223.198.241.63:4000"
     ],
     "scct": [
-      "171.213.152.180:8188",
       "171.213.154.246:8188",
       "171.213.222.68:4022"
     ],
