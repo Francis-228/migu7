@@ -27,123 +27,147 @@ jobs:
           import https from 'https';
           import http from 'http';
 
-          const TIMEOUT = 3000;
-          // 咪咕地域鉴权接口
-          const CHECK_URL_OPTS = {
-            hostname: 'effic.migufun.com',
-            path: '/user/queryProvince',
-            port: 8443,
-            timeout: TIMEOUT,
-            rejectUnauthorized: false
-          };
+          // 全局配置
+          const TIMEOUT = 4000;
+          const MAX_TEST = 15;        // 最多测试多少IP
+          const KEEP_COUNT = 8;       // 最终保留多少可用IP
+          const MIGU_CHECK_HOST = 'effic.migufun.com';
 
-          // 读取IP列表
+          // 关闭 SSL 严格校验（避免国内接口证书问题）
+          process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
+          const agent = new https.Agent({ rejectUnauthorized: false });
+
+          // 1. 读取 IP 列表
           const ipData = JSON.parse(fs.readFileSync('ip_all.json', 'utf8'));
-          let ips = [];
-          for (let k in ipData.ip_list) {
-            ips = ips.concat(ipData.ip_list[k]);
+          let allIPs = [];
+          for (const key in ipData.ip_list) {
+            allIPs = allIPs.concat(ipData.ip_list[key]);
           }
-          // 读取播放模板
-          const tpl = fs.readFileSync('interface.txt', 'utf8').split(/\r?\n/);
+          allIPs = [...new Set(allIPs)]; // 自动去重
 
-          // 检测：是否是咪咕国内合规IP
-          function checkMiguRegion() {
+          // 2. 读取播放模板 interface.txt
+          const templateLines = fs.readFileSync('interface.txt', 'utf8').split(/\r?\n/);
+
+          // ------------------------------
+          // 检测：咪咕地域鉴权（是否国内IP）
+          // ------------------------------
+          function checkMiguAuth() {
             return new Promise(resolve => {
-              const req = https.get(CHECK_URL_OPTS, res => {
-                let buf = '';
-                res.on('data', d => buf += d);
+              const options = {
+                hostname: MIGU_CHECK_HOST,
+                port: 8443,
+                path: '/user/queryProvince',
+                timeout: TIMEOUT,
+                agent
+              };
+
+              const req = https.get(options, (res) => {
+                let data = '';
+                res.on('data', chunk => data += chunk);
                 res.on('end', () => {
                   try {
-                    const json = JSON.parse(buf);
-                    if (json.returnCode === '000000' && json.resultData?.ipProvince !== '海外') {
-                      resolve(true);
-                    } else {
-                      resolve(false);
-                    }
+                    const json = JSON.parse(data);
+                    const success = json.returnCode === '000000' && json.resultData?.ipProvince !== '海外';
+                    resolve(success);
                   } catch {
                     resolve(false);
                   }
                 });
               });
+
               req.on('error', () => resolve(false));
               req.on('timeout', () => { req.destroy(); resolve(false); });
             });
           }
 
-          // 检测单个IP能否播放咪咕源
-          function testPlayIP(ip, samplePath) {
+          // ------------------------------
+          // 实测：IP 是否能播放咪咕（m3u8）
+          // ------------------------------
+          function testIP(ip, testPath) {
             return new Promise(resolve => {
-              const url = `http://${ip}${samplePath}`;
-              const req = http.get(url, res => {
-                if (res.statusCode >= 200 && res.statusCode < 300 &&
-                    res.headers['content-type']?.includes('m3u8')) {
-                  resolve(true);
-                } else {
-                  resolve(false);
-                }
+              const url = `http://${ip}${testPath}`;
+              const req = http.get(url, { timeout: TIMEOUT }, (res) => {
+                const ok = (
+                  res.statusCode >= 200 &&
+                  res.statusCode < 300 &&
+                  res.headers['content-type']?.includes('m3u8')
+                );
+                resolve(ok);
               });
               req.on('error', () => resolve(false));
-              req.on('timeout', () => { req.destroy(); resolve(false); });
+              req.on('timeout', () => { req.destroy(); resolve(false)); });
             });
           }
 
-          // 提取一条播放路径作为测试样例
-          function getTestPlayPath() {
-            for (let line of tpl) {
+          // ------------------------------
+          // 从模板提取测试路径
+          // ------------------------------
+          function getTestPath() {
+            for (const line of templateLines) {
               if (line.includes('${replace}')) {
-                return line.replace('${replace}', '');
+                return line.replace('${replace}', '').trim();
               }
             }
-            return '/';
+            return '/playlist.m3u8';
           }
 
-          // 主筛选：先地域鉴权 → 再实测播放
-          async function filterValidIPs() {
-            console.log('🔍 开始校验咪咕可用IP...');
-            // 先整体判断当前运行环境是否国内
-            const isDomestic = await checkMiguRegion();
-            if (!isDomestic) {
-              console.log('❌ 当前Action环境非国内，鉴权失败，直接用保底IP');
-              return ips.slice(0,7);
+          // ------------------------------
+          // 主逻辑：批量测试 → 筛选可用IP
+          // ------------------------------
+          async function main() {
+            console.log('📶 开始检测咪咕可用IP...');
+            const isCN = await checkMiguAuth();
+
+            if (!isCN) {
+              console.log('⚠️ Action环境为海外，使用高兼容保底IP');
+              return allIPs.slice(0, KEEP_COUNT);
             }
 
-            const testPath = getTestPlayPath();
+            const testPath = getTestPath();
             const usable = [];
-            const testMax = Math.min(ips.length, 12);
+            const testList = allIPs.slice(0, MAX_TEST);
 
-            for (let i = 0; i < testMax; i++) {
-              const ip = ips[i];
-              const ok = await testPlayIP(ip, testPath);
-              if (ok) {
+            for (const ip of testList) {
+              const pass = await testIP(ip, testPath);
+              if (pass) {
+                console.log('✅ 可用:', ip);
                 usable.push(ip);
-                console.log('✅ 可用咪咕IP:', ip);
               } else {
                 console.log('❌ 不可用:', ip);
               }
+              if (usable.length >= KEEP_COUNT) break;
             }
-            return usable.length ? usable.slice(0,7) : ips.slice(0,7);
+
+            const finalList = usable.length ? usable : allIPs.slice(0, KEEP_COUNT);
+            console.log(`🎯 最终可用IP数：${finalList.length}`);
+            return finalList;
           }
 
-          // 生成migu.txt
-          filterValidIPs().then(useIPs => {
-            let output = ['#EXTM3U'];
-            let currentInfo = '';
-            for (let line of tpl) {
-              const trimLine = line.trim();
-              if (trimLine.startsWith('#EXTINF')) {
-                currentInfo = trimLine;
-              } else if (trimLine.includes('${replace}') && currentInfo) {
-                useIPs.forEach(ip => {
-                  output.push(currentInfo);
-                  output.push('http://' + ip + trimLine.replace('${replace}', ''));
+          // ------------------------------
+          // 生成最终 migu.txt
+          // ------------------------------
+          main().then(validIPs => {
+            const output = ['#EXTM3U'];
+            let extInfo = '';
+
+            for (const line of templateLines) {
+              const trim = line.trim();
+              if (trim.startsWith('#EXTINF')) {
+                extInfo = trim;
+              } else if (trim.includes('${replace}') && extInfo) {
+                const uri = trim.replace('${replace}', '');
+                validIPs.forEach(ip => {
+                  output.push(extInfo);
+                  output.push(`http://${ip}${uri}`);
                 });
-                currentInfo = '';
+                extInfo = '';
               }
             }
+
             fs.writeFileSync('migu.txt', output.join('\n'), 'utf8');
-            console.log('✅ migu.txt 已生成，仅保留咪咕可播放IP');
+            console.log('✅ migu.txt 生成完成！');
           }).catch(err => {
-            console.error('❌ 错误：', err);
+            console.error('❌ 脚本异常:', err);
             process.exit(1);
           });
           EOF
@@ -155,7 +179,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add migu.txt
-          git commit -m "Auto: 更新咪咕可用播放IP" || echo "无变更无需提交"
+          git commit -m "Auto: 更新咪咕可用播放IP" || echo "无更新"
 
       - name: 推送到仓库
         uses: ad-m/github-push-action@master
