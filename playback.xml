@@ -1365,19 +1365,19 @@
     <programme channel="CCTV13新闻" start="20260529193235 +0800" stop="20260529193750 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260529193750 +0800" stop="20260529210000 +0800">
+    <programme channel="CCTV13新闻" start="20260529193750 +0800" stop="20260529211000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260529210000 +0800" stop="20260529213000 +0800">
+    <programme channel="CCTV13新闻" start="20260529211000 +0800" stop="20260529214000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260529213000 +0800" stop="20260529220000 +0800">
+    <programme channel="CCTV13新闻" start="20260529214000 +0800" stop="20260529221000 +0800">
         <title lang="zh">高端访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260529220000 +0800" stop="20260529223000 +0800">
+    <programme channel="CCTV13新闻" start="20260529221000 +0800" stop="20260529224000 +0800">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260529223000 +0800" stop="20260529230000 +0800">
+    <programme channel="CCTV13新闻" start="20260529224000 +0800" stop="20260529230000 +0800">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260529230000 +0800" stop="20260529235900 +0800">
