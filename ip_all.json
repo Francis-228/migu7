@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/5/31 15:43:38",
+  "update_time": "2026/5/31 18:13:18",
   "statistics": {
     "total_processed": 10222,
-    "valid_ip_count": 58,
-    "duplicate_ip_count": 8237
+    "valid_ip_count": 59,
+    "duplicate_ip_count": 8334
   },
   "ip_list": {
     "sdcu": [
@@ -74,6 +74,9 @@
     ],
     "jxct": [
       "220.176.218.240:9000"
+    ],
+    "sxct": [
+      "110.178.145.195:8188"
     ],
     "gzct": [
       "218.86.184.18:8188"
