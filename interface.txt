@@ -325,10 +325,10 @@ ${replace}/965193837
 ${replace}/965194063
 #EXTINF:-1 tvg-id="JCK战觉城王者系列014：赛前称重仪式" tvg-name="JCK JCK战觉城王者系列014：赛前称重仪式 JCK战觉城王者系列014赛前称重仪式全场回放（赛场原声） 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000103110616c76.png" group-title="体育-昨天",JCK JCK战觉城王者系列014：赛前称重仪式 JCK战觉城王者系列014赛前称重仪式全场回放（赛场原声） 16:00
 ${replace}/965189340
-#EXTINF:-1 tvg-id="林仲勋/吴晙诚3-1胜 倪夏莲混双止步" tvg-name="WTT 林仲勋/吴晙诚3-1胜 倪夏莲混双止步 2026WTT斯科普里常规挑战赛Day5晚间场一号桌全场回放（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 林仲勋/吴晙诚3-1胜 倪夏莲混双止步 2026WTT斯科普里常规挑战赛Day5晚间场一号桌全场回放（赛场原声） 17:00
-${replace}/965201293
 #EXTINF:-1 tvg-id="林仲勋/吴晙诚3-1胜 倪夏莲混双止步" tvg-name="WTT 林仲勋/吴晙诚3-1胜 倪夏莲混双止步 全场回放（凌维康） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 林仲勋/吴晙诚3-1胜 倪夏莲混双止步 全场回放（凌维康） 17:00
 ${replace}/965195513
+#EXTINF:-1 tvg-id="林仲勋/吴晙诚3-1胜 倪夏莲混双止步" tvg-name="WTT 林仲勋/吴晙诚3-1胜 倪夏莲混双止步 全场回放（一号桌） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 林仲勋/吴晙诚3-1胜 倪夏莲混双止步 全场回放（一号桌） 17:00
+${replace}/965201293
 #EXTINF:-1 tvg-id="林仲勋/吴晙诚3-1胜 倪夏莲混双止步" tvg-name="WTT 林仲勋/吴晙诚3-1胜 倪夏莲混双止步 全场回放（二号桌） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 林仲勋/吴晙诚3-1胜 倪夏莲混双止步 全场回放（二号桌） 17:00
 ${replace}/965198912
 #EXTINF:-1 tvg-id="林仲勋/吴晙诚3-1胜 倪夏莲混双止步" tvg-name="WTT 林仲勋/吴晙诚3-1胜 倪夏莲混双止步 全场回放（三号桌） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 林仲勋/吴晙诚3-1胜 倪夏莲混双止步 全场回放（三号桌） 17:00
@@ -347,14 +347,16 @@ ${replace}/965200259
 ${replace}/965199633
 #EXTINF:-1 tvg-id="哥伦比亚U19VS中国U19" tvg-name="土伦杯 哥伦比亚U19VS中国U19 全场回放（张昊泽、王宇） 20:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10000000006610601684.png" group-title="体育-昨天",土伦杯 哥伦比亚U19VS中国U19 全场回放（张昊泽、王宇） 20:45
 ${replace}/965199607
-#EXTINF:-1 tvg-id="大藤沙月3-1柳是宇 达科横扫晋级" tvg-name="WTT 大藤沙月3-1柳是宇 达科横扫晋级 1号桌 23:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 大藤沙月3-1柳是宇 达科横扫晋级 1号桌 23:30
-${replace}/965105985
-#EXTINF:-1 tvg-id="大藤沙月3-1柳是宇 达科横扫晋级" tvg-name="WTT 大藤沙月3-1柳是宇 达科横扫晋级 2号桌 23:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 大藤沙月3-1柳是宇 达科横扫晋级 2号桌 23:30
-${replace}/965106002
-#EXTINF:-1 tvg-id="沙特阿拉伯U21VS突尼斯U23" tvg-name="土伦杯 沙特阿拉伯U21VS突尼斯U23 乔迁 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10000000006610601684.png" group-title="体育-今天",土伦杯 沙特阿拉伯U21VS突尼斯U23 乔迁 00:15
-${replace}/965163812
-#EXTINF:-1 tvg-id="沙特阿拉伯U21VS突尼斯U23" tvg-name="土伦杯 沙特阿拉伯U21VS突尼斯U23 赛场原声 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10000000006610601684.png" group-title="体育-今天",土伦杯 沙特阿拉伯U21VS突尼斯U23 赛场原声 00:15
-${replace}/965163855
+#EXTINF:-1 tvg-id="大藤沙月3-1柳是宇 达科横扫晋级" tvg-name="WTT 大藤沙月3-1柳是宇 达科横扫晋级 全场回放（一号桌） 23:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 大藤沙月3-1柳是宇 达科横扫晋级 全场回放（一号桌） 23:30
+${replace}/965201698
+#EXTINF:-1 tvg-id="大藤沙月3-1柳是宇 达科横扫晋级" tvg-name="WTT 大藤沙月3-1柳是宇 达科横扫晋级 全场回放（二号桌） 23:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 大藤沙月3-1柳是宇 达科横扫晋级 全场回放（二号桌） 23:30
+${replace}/965201637
+#EXTINF:-1 tvg-id="世界跆拳道大奖赛罗马站第一日" tvg-name="世界跆拳道大奖赛 世界跆拳道大奖赛罗马站第一日 2026世界跆拳道大奖赛罗马站Day1全场回放（官方解说） 23:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/2/100000001476106697fd.png" group-title="体育-昨天",世界跆拳道大奖赛 世界跆拳道大奖赛罗马站第一日 2026世界跆拳道大奖赛罗马站Day1全场回放（官方解说） 23:25
+${replace}/965201670
+#EXTINF:-1 tvg-id="沙特阿拉伯U21VS突尼斯U23" tvg-name="土伦杯 沙特阿拉伯U21VS突尼斯U23 全场回放 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10000000006610601684.png" group-title="体育-今天",土伦杯 沙特阿拉伯U21VS突尼斯U23 全场回放 00:15
+${replace}/965201656
+#EXTINF:-1 tvg-id="沙特阿拉伯U21VS突尼斯U23" tvg-name="土伦杯 沙特阿拉伯U21VS突尼斯U23 全场回放（乔迁） 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10000000006610601684.png" group-title="体育-今天",土伦杯 沙特阿拉伯U21VS突尼斯U23 全场回放（乔迁） 00:15
+${replace}/965201623
 #EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第132期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 咪咕体育日报 第132期 08:00
 ${replace}/965030527
 #EXTINF:-1 tvg-id="马刺VS尼克斯" tvg-name="NBA 马刺VS尼克斯 杨健 周琦 陈正昊 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS尼克斯 杨健 周琦 陈正昊 08:00
@@ -441,11 +443,11 @@ ${replace}/965109139
 ${replace}/965181385
 #EXTINF:-1 tvg-id="巴彦淖尔队VS呼伦贝尔队" tvg-name="蒙超联赛 巴彦淖尔队VS呼伦贝尔队 2026赛季内蒙古足球超级联赛小组赛第4轮: 巴彦淖尔市vs呼伦贝尔市 16:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001463106bf9dd.png" group-title="体育-今天",蒙超联赛 巴彦淖尔队VS呼伦贝尔队 2026赛季内蒙古足球超级联赛小组赛第4轮: 巴彦淖尔市vs呼伦贝尔市 16:50
 ${replace}/965109151
-#EXTINF:-1 tvg-id="男女单打1/4决赛、双打半决赛" tvg-name="WTT 男女单打1/4决赛、双打半决赛 凌维康 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 男女单打1/4决赛、双打半决赛 凌维康 17:00
+#EXTINF:-1 tvg-id="汉娜·高达率先冲4强 大藤/横井咲樱争决赛" tvg-name="WTT 汉娜·高达率先冲4强 大藤/横井咲樱争决赛 凌维康 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 汉娜·高达率先冲4强 大藤/横井咲樱争决赛 凌维康 17:00
 ${replace}/965048269
-#EXTINF:-1 tvg-id="男女单打1/4决赛、双打半决赛" tvg-name="WTT 男女单打1/4决赛、双打半决赛 1号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 男女单打1/4决赛、双打半决赛 1号桌 17:00
+#EXTINF:-1 tvg-id="汉娜·高达率先冲4强 大藤/横井咲樱争决赛" tvg-name="WTT 汉娜·高达率先冲4强 大藤/横井咲樱争决赛 1号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 汉娜·高达率先冲4强 大藤/横井咲樱争决赛 1号桌 17:00
 ${replace}/965048245
-#EXTINF:-1 tvg-id="男女单打1/4决赛、双打半决赛" tvg-name="WTT 男女单打1/4决赛、双打半决赛 2号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 男女单打1/4决赛、双打半决赛 2号桌 17:00
+#EXTINF:-1 tvg-id="汉娜·高达率先冲4强 大藤/横井咲樱争决赛" tvg-name="WTT 汉娜·高达率先冲4强 大藤/横井咲樱争决赛 2号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 汉娜·高达率先冲4强 大藤/横井咲樱争决赛 2号桌 17:00
 ${replace}/965048256
 #EXTINF:-1 tvg-id="武汉引力空间VSCHA海外仓" tvg-name="城超 武汉引力空间VSCHA海外仓 2026赛季武汉篮球城市超级联赛淘汰赛8进4: 武汉引力空间vsCHA海外仓 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/22/1000000014551060d471.png" group-title="体育-今天",城超 武汉引力空间VSCHA海外仓 2026赛季武汉篮球城市超级联赛淘汰赛8进4: 武汉引力空间vsCHA海外仓 17:00
 ${replace}/965110900
