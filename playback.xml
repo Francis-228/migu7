@@ -865,7 +865,7 @@
         <title lang="zh">悬案第6集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260708221940 +0800" stop="20260708222140 +0800">
-        <title lang="zh">本集提要-岁月有情时-5/30</title>
+        <title lang="zh">本集提要-岁月有情时-第5集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260708222140 +0800" stop="20260708231140 +0800">
         <title lang="zh">岁月有情时第5集</title>
@@ -1065,20 +1065,17 @@
     <programme channel="CCTV10科教" start="20260708193200 +0800" stop="20260708203200 +0800">
         <title lang="zh">自然传奇-2026-189</title>
     </programme>
-    <programme channel="CCTV10科教" start="20260708203200 +0800" stop="20260708212030 +0800">
+    <programme channel="CCTV10科教" start="20260708203200 +0800" stop="20260708211630 +0800">
+        <title lang="zh">人物故事-2026-152</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20260708211630 +0800" stop="20260708220600 +0800">
         <title lang="zh">探索·发现-2026-189</title>
     </programme>
-    <programme channel="CCTV10科教" start="20260708212030 +0800" stop="20260708214800 +0800">
+    <programme channel="CCTV10科教" start="20260708220600 +0800" stop="20260708222800 +0800">
         <title lang="zh">创新进行时-2026-135</title>
     </programme>
-    <programme channel="CCTV10科教" start="20260708214800 +0800" stop="20260708224000 +0800">
+    <programme channel="CCTV10科教" start="20260708222800 +0800" stop="20260708232530 +0800">
         <title lang="zh">2026大千世界-70</title>
-    </programme>
-    <programme channel="CCTV10科教" start="20260708224000 +0800" stop="20260708231200 +0800">
-        <title lang="zh">地理·中国-2026-189</title>
-    </programme>
-    <programme channel="CCTV10科教" start="20260708231200 +0800" stop="20260708232530 +0800">
-        <title lang="zh">时尚科技秀-2026-189</title>
     </programme>
     <programme channel="CCTV10科教" start="20260708232530 +0800" stop="20260708235900 +0800">
         <title lang="zh">解码科技史-2026-54</title>
@@ -4569,7 +4566,7 @@
     <programme channel="河北卫视" start="20260708233000 +0800" stop="20260708233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260708233300 +0800" stop="20260709000000 +0800">
+    <programme channel="河北卫视" start="20260708233300 +0800" stop="20260709000800 +0800">
         <title lang="zh">纪录片：纪录</title>
     </programme>
     <channel id="江西卫视">
