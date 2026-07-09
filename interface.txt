@@ -289,14 +289,28 @@ ${replace}/966068494
 ${replace}/966069023
 #EXTINF:-1 tvg-id="法国VS摩洛哥" tvg-name="世界杯 法国VS摩洛哥 女声：兰子非 林梦鸽 03:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS摩洛哥 女声：兰子非 林梦鸽 03:45
 ${replace}/966069045
+#EXTINF:-1 tvg-id="法国VS摩洛哥" tvg-name="世界杯 法国VS摩洛哥 法国队球星视角 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS摩洛哥 法国队球星视角 03:00
+${replace}/966068665
+#EXTINF:-1 tvg-id="法国VS摩洛哥" tvg-name="世界杯 法国VS摩洛哥 摩洛哥队球星视角 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS摩洛哥 摩洛哥队球星视角 03:00
+${replace}/966068618
 #EXTINF:-1 tvg-id="法国VS摩洛哥" tvg-name="世界杯 法国VS摩洛哥 新声代：刘一臻 盛斌 03:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS摩洛哥 新声代：刘一臻 盛斌 03:45
 ${replace}/966068944
+#EXTINF:-1 tvg-id="法国VS摩洛哥" tvg-name="世界杯 法国VS摩洛哥 CCTV5 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS摩洛哥 CCTV5 03:00
+${replace}/966071760
+#EXTINF:-1 tvg-id="法国VS摩洛哥" tvg-name="世界杯 法国VS摩洛哥 赛场原声 03:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS摩洛哥 赛场原声 03:45
+${replace}/966068926
 #EXTINF:-1 tvg-id="法国VS摩洛哥" tvg-name="世界杯 法国VS摩洛哥 闽南语：洪荒 03:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS摩洛哥 闽南语：洪荒 03:45
 ${replace}/966069014
 #EXTINF:-1 tvg-id="法国VS摩洛哥" tvg-name="世界杯 法国VS摩洛哥 沪语：陈渤胄 03:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS摩洛哥 沪语：陈渤胄 03:45
 ${replace}/966068952
-#EXTINF:-1 tvg-id="法国VS摩洛哥" tvg-name="世界杯 法国VS摩洛哥 赛场原声 03:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS摩洛哥 赛场原声 03:45
-${replace}/966068926
+#EXTINF:-1 tvg-id="法国VS摩洛哥" tvg-name="世界杯 法国VS摩洛哥 法国队主帅视角 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS摩洛哥 法国队主帅视角 03:00
+${replace}/966068895
+#EXTINF:-1 tvg-id="法国VS摩洛哥" tvg-name="世界杯 法国VS摩洛哥 摩洛哥队主帅视角 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS摩洛哥 摩洛哥队主帅视角 03:00
+${replace}/966068738
+#EXTINF:-1 tvg-id="法国VS摩洛哥" tvg-name="世界杯 法国VS摩洛哥 最佳观赛位 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS摩洛哥 最佳观赛位 03:00
+${replace}/966068651
+#EXTINF:-1 tvg-id="法国VS摩洛哥" tvg-name="世界杯 法国VS摩洛哥 开天眼了！ 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS摩洛哥 开天眼了！ 03:00
+${replace}/966068607
 #EXTINF:-1 tvg-id="法国VS摩洛哥" tvg-name="世界杯 法国VS摩洛哥 为了听不见的你 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS摩洛哥 为了听不见的你 03:00
 ${replace}/966068561
 #EXTINF:-1 tvg-id="法国VS摩洛哥" tvg-name="世界杯 法国VS摩洛哥 闽南语智能字幕 03:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS摩洛哥 闽南语智能字幕 03:45
