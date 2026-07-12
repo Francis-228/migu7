@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/7/13 04:41:50",
+  "update_time": "2026/7/13 06:43:37",
   "statistics": {
     "total_processed": 9832,
-    "valid_ip_count": 57,
-    "duplicate_ip_count": 8004
+    "valid_ip_count": 58,
+    "duplicate_ip_count": 8083
   },
   "ip_list": {
     "jsct": [
@@ -109,7 +109,8 @@
       "27.154.99.234:3386"
     ],
     "hbct": [
-      "27.18.76.91:9100"
+      "27.18.76.91:9100",
+      "59.174.163.20:4022"
     ],
     "fjcu": [
       "112.109.206.216:9999"
