@@ -103,12 +103,15 @@
         <title lang="zh">前情提要-种墨园-第32集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260717210530 +0800" stop="20260717220000 +0800">
-        <title lang="zh">种墨园32/34</title>
+        <title lang="zh">种墨园第32集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260717220000 +0800" stop="20260717223545 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260717223545 +0800" stop="20260717235900 +0800">
+    <programme channel="CCTV1综合" start="20260717223545 +0800" stop="20260717232630 +0800">
+        <title lang="zh">礼乐东方-1</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260717232630 +0800" stop="20260717235900 +0800">
         <title lang="zh">宗师列传·大宋词人传-周邦彦</title>
     </programme>
     <channel id="CCTV2财经">
@@ -871,13 +874,13 @@
         <title lang="zh">本集提要-小芳-第9集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260717212940 +0800" stop="20260717221940 +0800">
-        <title lang="zh">小芳9/18</title>
+        <title lang="zh">小芳第9集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260717221940 +0800" stop="20260717222140 +0800">
-        <title lang="zh">本集提要-小芳-10/18</title>
+        <title lang="zh">本集提要-小芳-第10集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260717222140 +0800" stop="20260717231140 +0800">
-        <title lang="zh">小芳10/18</title>
+        <title lang="zh">小芳第10集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260717231140 +0800" stop="20260717235740 +0800">
         <title lang="zh">岁月有情时第17集</title>
