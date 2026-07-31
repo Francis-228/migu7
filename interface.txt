@@ -343,6 +343,14 @@ ${replace}/966493780
 ${replace}/966495168
 #EXTINF:-1 tvg-id="周天成、林俊易晋级半决赛" tvg-name="BWF 周天成、林俊易晋级半决赛 【全场回放】三号场地（赛场原声） 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 周天成、林俊易晋级半决赛 【全场回放】三号场地（赛场原声） 16:00
 ${replace}/966496496
+#EXTINF:-1 tvg-id="周天成、林俊易晋级半决赛" tvg-name="BWF 周天成、林俊易晋级半决赛 2026BWF中国台北羽毛球公开赛Day4一号场地全场回放（赛场原声） 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 周天成、林俊易晋级半决赛 2026BWF中国台北羽毛球公开赛Day4一号场地全场回放（赛场原声） 16:00
+${replace}/966499393
+#EXTINF:-1 tvg-id="周天成、林俊易晋级半决赛" tvg-name="BWF 周天成、林俊易晋级半决赛 2026BWF中国台北羽毛球公开赛Day4四号场地全场回放（赛场原声） 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 周天成、林俊易晋级半决赛 2026BWF中国台北羽毛球公开赛Day4四号场地全场回放（赛场原声） 16:00
+${replace}/966496453
+#EXTINF:-1 tvg-id="周天成、林俊易晋级半决赛" tvg-name="BWF 周天成、林俊易晋级半决赛 2026BWF中国台北羽毛球公开赛男双1/4决赛回放：谢定峰/戴伟钦2-1李哲辉/杨博轩（张婕） 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 周天成、林俊易晋级半决赛 2026BWF中国台北羽毛球公开赛男双1/4决赛回放：谢定峰/戴伟钦2-1李哲辉/杨博轩（张婕） 16:00
+${replace}/966494733
+#EXTINF:-1 tvg-id="周天成、林俊易晋级半决赛" tvg-name="BWF 周天成、林俊易晋级半决赛 2026BWF中国台北羽毛球公开赛Day4二号场地全场回放（赛场原声）（一） 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 周天成、林俊易晋级半决赛 2026BWF中国台北羽毛球公开赛Day4二号场地全场回放（赛场原声）（一） 16:00
+${replace}/966497508
 #EXTINF:-1 tvg-id="NBA精彩重播：火箭vs勇士" tvg-name="NBA经典赛事 NBA精彩重播：火箭vs勇士 全场回放（杨健、曾令旭、小七） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-昨天",NBA经典赛事 NBA精彩重播：火箭vs勇士 全场回放（杨健、曾令旭、小七） 18:00
 ${replace}/960734861
 #EXTINF:-1 tvg-id="惠安村唱大舞台" tvg-name="惠安洄岸季户外系列赛事 惠安村唱大舞台 惠安村唱大舞台全场回放 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/27/10000000150210613f0f.png" group-title="体育-昨天",惠安洄岸季户外系列赛事 惠安村唱大舞台 惠安村唱大舞台全场回放 19:00
@@ -379,15 +387,19 @@ ${replace}/966495580
 ${replace}/966497812
 #EXTINF:-1 tvg-id="娄底队VS湘潭队" tvg-name="湘超 娄底队VS湘潭队 全场回放 19:38" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/22/100000001316106d1913.png" group-title="体育-昨天",湘超 娄底队VS湘潭队 全场回放 19:38
 ${replace}/966498285
+#EXTINF:-1 tvg-id="“九九杯”海南（文昌）乡镇排球联赛  Day 4" tvg-name="海南“村VA” “九九杯”海南（文昌）乡镇排球联赛  Day 4 2026年“九九杯”海南（文昌）乡镇排球联赛Day4全场回放（官方解说） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/10/100000001507106004a0.png" group-title="体育-昨天",海南“村VA” “九九杯”海南（文昌）乡镇排球联赛  Day 4 2026年“九九杯”海南（文昌）乡镇排球联赛Day4全场回放（官方解说） 20:00
+${replace}/966499554
 #EXTINF:-1 tvg-id="哈米迪战胜KO狂人瓦查拉蓬 阿松诺伊拿下铁下巴农凯勒" tvg-name="ONE冠军赛 哈米迪战胜KO狂人瓦查拉蓬 阿松诺伊拿下铁下巴农凯勒 全场回放（李威蓄） 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-昨天",ONE冠军赛 哈米迪战胜KO狂人瓦查拉蓬 阿松诺伊拿下铁下巴农凯勒 全场回放（李威蓄） 21:30
 ${replace}/966498812
-#EXTINF:-1 tvg-id="大坂直美冲四强 佩古拉晋级" tvg-name="WTA 大坂直美冲四强 佩古拉晋级 赛场原声 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 大坂直美冲四强 佩古拉晋级 赛场原声 00:00
+#EXTINF:-1 tvg-id="哈米迪战胜KO狂人瓦查拉蓬 阿松诺伊拿下铁下巴农凯勒" tvg-name="ONE冠军赛 哈米迪战胜KO狂人瓦查拉蓬 阿松诺伊拿下铁下巴农凯勒 ONE周五格斗夜164全场回放（英文原声） 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-昨天",ONE冠军赛 哈米迪战胜KO狂人瓦查拉蓬 阿松诺伊拿下铁下巴农凯勒 ONE周五格斗夜164全场回放（英文原声） 21:30
+${replace}/966499461
+#EXTINF:-1 tvg-id="伊埃拉出战 佩古拉、大坂晋级四强" tvg-name="WTA 伊埃拉出战 佩古拉、大坂晋级四强 赛场原声 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 伊埃拉出战 佩古拉、大坂晋级四强 赛场原声 00:00
 ${replace}/966341055
-#EXTINF:-1 tvg-id="大坂直美冲四强 佩古拉晋级" tvg-name="WTA 大坂直美冲四强 佩古拉晋级 英文原声 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 大坂直美冲四强 佩古拉晋级 英文原声 00:00
+#EXTINF:-1 tvg-id="伊埃拉出战 佩古拉、大坂晋级四强" tvg-name="WTA 伊埃拉出战 佩古拉、大坂晋级四强 英文原声 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 伊埃拉出战 佩古拉、大坂晋级四强 英文原声 00:00
 ${replace}/966341061
-#EXTINF:-1 tvg-id="16岁小将柳托娃PK麦克纳莉" tvg-name="WTA 16岁小将柳托娃PK麦克纳莉 赛场原声 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 16岁小将柳托娃PK麦克纳莉 赛场原声 00:00
+#EXTINF:-1 tvg-id="斯特恩斯出战 柳托娃晋级四强" tvg-name="WTA 斯特恩斯出战 柳托娃晋级四强 赛场原声 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 斯特恩斯出战 柳托娃晋级四强 赛场原声 00:00
 ${replace}/966425793
-#EXTINF:-1 tvg-id="16岁小将柳托娃PK麦克纳莉" tvg-name="WTA 16岁小将柳托娃PK麦克纳莉 英文原声 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 16岁小将柳托娃PK麦克纳莉 英文原声 00:00
+#EXTINF:-1 tvg-id="斯特恩斯出战 柳托娃晋级四强" tvg-name="WTA 斯特恩斯出战 柳托娃晋级四强 英文原声 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 斯特恩斯出战 柳托娃晋级四强 英文原声 00:00
 ${replace}/966425804
 #EXTINF:-1 tvg-id="PFL纽约：努尔马戈梅多夫VS科尔根" tvg-name="PFL PFL纽约：努尔马戈梅多夫VS科尔根 汪乐 04:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-今天",PFL PFL纽约：努尔马戈梅多夫VS科尔根 汪乐 04:00
 ${replace}/966448528
