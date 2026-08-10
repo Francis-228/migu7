@@ -94,10 +94,10 @@
         <title lang="zh">前情提要-江海潮生-第29集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260810200300 +0800" stop="20260810205335 +0800">
-        <title lang="zh">江海潮生29/30</title>
+        <title lang="zh">江海潮生第29集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260810205335 +0800" stop="20260810205705 +0800">
-        <title lang="zh">前情提要-江海潮生-30/30</title>
+        <title lang="zh">前情提要-江海潮生-第30集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260810205705 +0800" stop="20260810214510 +0800">
         <title lang="zh">江海潮生30/30</title>
@@ -874,7 +874,7 @@
         <title lang="zh">星推荐-2026年8月-10</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260810192605 +0800" stop="20260810193000 +0800">
-        <title lang="zh">本集提要-重器-1/33</title>
+        <title lang="zh">本集提要-重器-第1集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260810193000 +0800" stop="20260810202540 +0800">
         <title lang="zh">重器1/33</title>
@@ -889,13 +889,13 @@
         <title lang="zh">本集提要-米良与麦青-第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260810212940 +0800" stop="20260810221940 +0800">
-        <title lang="zh">米良与麦青19/26</title>
+        <title lang="zh">米良与麦青第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260810221940 +0800" stop="20260810222140 +0800">
         <title lang="zh">本集提要-米良与麦青-第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260810222140 +0800" stop="20260810231140 +0800">
-        <title lang="zh">米良与麦青20/26</title>
+        <title lang="zh">米良与麦青第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260810231140 +0800" stop="20260810235740 +0800">
         <title lang="zh">玫瑰的故事第14集</title>
@@ -10398,104 +10398,122 @@
     <channel id="CETV4">
         <display-name lang="zh">CETV4</display-name>
     </channel>
-    <programme channel="CETV4" start="20260809233000 +0800" stop="20260810011000 +0800">
+    <programme channel="CETV4" start="20260809233000 +0800" stop="20260810001500 +0800">
         <title lang="zh">家长朋友圈:让孩子们跑起来(2)</title>
     </programme>
+    <programme channel="CETV4" start="20260810001500 +0800" stop="20260810004000 +0800">
+        <title lang="zh">安全动起来2(8)</title>
+    </programme>
+    <programme channel="CETV4" start="20260810004000 +0800" stop="20260810011000 +0800">
+        <title lang="zh">体育大思政课精编版(3)</title>
+    </programme>
     <programme channel="CETV4" start="20260810011000 +0800" stop="20260810013000 +0800">
-        <title lang="zh">闪耀职教</title>
+        <title lang="zh">闪耀职教3(1)</title>
     </programme>
-    <programme channel="CETV4" start="20260810013000 +0800" stop="20260810020000 +0800">
-        <title lang="zh">冠军厨房</title>
+    <programme channel="CETV4" start="20260810013000 +0800" stop="20260810015500 +0800">
+        <title lang="zh">冠军食堂3(22)</title>
     </programme>
-    <programme channel="CETV4" start="20260810020000 +0800" stop="20260810024500 +0800">
-        <title lang="zh">职教中国</title>
+    <programme channel="CETV4" start="20260810015500 +0800" stop="20260810020500 +0800">
+        <title lang="zh">国宝时刻(43):摹顾恺之洛神赋图</title>
     </programme>
-    <programme channel="CETV4" start="20260810024500 +0800" stop="20260810031500 +0800">
-        <title lang="zh">疾风少年</title>
+    <programme channel="CETV4" start="20260810020500 +0800" stop="20260810025000 +0800">
+        <title lang="zh">职教中国(31)</title>
+    </programme>
+    <programme channel="CETV4" start="20260810025000 +0800" stop="20260810031500 +0800">
+        <title lang="zh">家长朋友圈</title>
     </programme>
     <programme channel="CETV4" start="20260810031500 +0800" stop="20260810034500 +0800">
-        <title lang="zh">安全动起来</title>
+        <title lang="zh">安全动起来2(8)</title>
     </programme>
-    <programme channel="CETV4" start="20260810034500 +0800" stop="20260810044000 +0800">
-        <title lang="zh">探索</title>
+    <programme channel="CETV4" start="20260810034500 +0800" stop="20260810043000 +0800">
+        <title lang="zh">一职为你(31)</title>
+    </programme>
+    <programme channel="CETV4" start="20260810043000 +0800" stop="20260810044000 +0800">
+        <title lang="zh">国宝时刻(15):T形帛画</title>
     </programme>
     <programme channel="CETV4" start="20260810044000 +0800" stop="20260810051000 +0800">
-        <title lang="zh">冠军食堂</title>
+        <title lang="zh">冠军食堂3(22)</title>
     </programme>
-    <programme channel="CETV4" start="20260810051000 +0800" stop="20260810060000 +0800">
-        <title lang="zh">职教中国</title>
+    <programme channel="CETV4" start="20260810051000 +0800" stop="20260810055000 +0800">
+        <title lang="zh">职教中国(32)</title>
+    </programme>
+    <programme channel="CETV4" start="20260810055000 +0800" stop="20260810060000 +0800">
+        <title lang="zh">国宝时刻(50):大克鼎</title>
     </programme>
     <programme channel="CETV4" start="20260810060000 +0800" stop="20260810062000 +0800">
-        <title lang="zh">金牌体育课</title>
+        <title lang="zh">金牌体育课(10)</title>
     </programme>
     <programme channel="CETV4" start="20260810062000 +0800" stop="20260810070000 +0800">
-        <title lang="zh">职教中国</title>
+        <title lang="zh">职教中国(31)</title>
     </programme>
     <programme channel="CETV4" start="20260810070000 +0800" stop="20260810073000 +0800">
-        <title lang="zh">疾风少年</title>
+        <title lang="zh">闪亮的职教(1)</title>
     </programme>
     <programme channel="CETV4" start="20260810073000 +0800" stop="20260810080000 +0800">
-        <title lang="zh">体谈</title>
+        <title lang="zh">体谈2(19)</title>
     </programme>
     <programme channel="CETV4" start="20260810080000 +0800" stop="20260810083000 +0800">
-        <title lang="zh">国医名师课</title>
+        <title lang="zh">风驰电掣(11)</title>
     </programme>
     <programme channel="CETV4" start="20260810083000 +0800" stop="20260810091500 +0800">
-        <title lang="zh">一职为你</title>
+        <title lang="zh">一职为你(32)</title>
     </programme>
     <programme channel="CETV4" start="20260810091500 +0800" stop="20260810093000 +0800">
-        <title lang="zh">墨香</title>
+        <title lang="zh">墨香(126)</title>
     </programme>
     <programme channel="CETV4" start="20260810093000 +0800" stop="20260810100000 +0800">
-        <title lang="zh">冠军说</title>
+        <title lang="zh">冠军说5(13)</title>
     </programme>
     <programme channel="CETV4" start="20260810100000 +0800" stop="20260810110000 +0800">
-        <title lang="zh">等着我</title>
+        <title lang="zh">等着我(102)</title>
     </programme>
     <programme channel="CETV4" start="20260810110000 +0800" stop="20260810120000 +0800">
-        <title lang="zh">等着我</title>
+        <title lang="zh">等着我(105)</title>
     </programme>
     <programme channel="CETV4" start="20260810120000 +0800" stop="20260810130000 +0800">
-        <title lang="zh">等着我</title>
+        <title lang="zh">等着我(107)</title>
     </programme>
     <programme channel="CETV4" start="20260810130000 +0800" stop="20260810140000 +0800">
-        <title lang="zh">田径风云</title>
+        <title lang="zh">田径风云(21)</title>
     </programme>
     <programme channel="CETV4" start="20260810140000 +0800" stop="20260810150000 +0800">
-        <title lang="zh">等着我</title>
+        <title lang="zh">等着我(108)</title>
     </programme>
     <programme channel="CETV4" start="20260810150000 +0800" stop="20260810160000 +0800">
-        <title lang="zh">等着我</title>
+        <title lang="zh">等着我(109)</title>
     </programme>
     <programme channel="CETV4" start="20260810160000 +0800" stop="20260810170000 +0800">
-        <title lang="zh">等着我</title>
+        <title lang="zh">等着我(110)</title>
     </programme>
     <programme channel="CETV4" start="20260810170000 +0800" stop="20260810180000 +0800">
-        <title lang="zh">等着我</title>
+        <title lang="zh">等着我(111)</title>
     </programme>
     <programme channel="CETV4" start="20260810180000 +0800" stop="20260810190000 +0800">
-        <title lang="zh">等着我</title>
+        <title lang="zh">等着我(113)</title>
     </programme>
     <programme channel="CETV4" start="20260810190000 +0800" stop="20260810193000 +0800">
         <title lang="zh">e体资讯</title>
     </programme>
-    <programme channel="CETV4" start="20260810193000 +0800" stop="20260810220000 +0800">
-        <title lang="zh">青春训练营</title>
+    <programme channel="CETV4" start="20260810193000 +0800" stop="20260810203000 +0800">
+        <title lang="zh">青春训练营(上)</title>
+    </programme>
+    <programme channel="CETV4" start="20260810203000 +0800" stop="20260810213000 +0800">
+        <title lang="zh">青春训练营(中)</title>
+    </programme>
+    <programme channel="CETV4" start="20260810213000 +0800" stop="20260810220000 +0800">
+        <title lang="zh">青春训练营(下)</title>
     </programme>
     <programme channel="CETV4" start="20260810220000 +0800" stop="20260810223000 +0800">
-        <title lang="zh">冠军说</title>
+        <title lang="zh">等着我(114)</title>
     </programme>
     <programme channel="CETV4" start="20260810223000 +0800" stop="20260810230000 +0800">
-        <title lang="zh">动起来一起闪亮</title>
+        <title lang="zh">美丽人生</title>
     </programme>
-    <programme channel="CETV4" start="20260810230000 +0800" stop="20260810231500 +0800">
-        <title lang="zh">夏天说体育</title>
+    <programme channel="CETV4" start="20260810230000 +0800" stop="20260810233000 +0800">
+        <title lang="zh">球缘天下(13)</title>
     </programme>
-    <programme channel="CETV4" start="20260810231500 +0800" stop="20260810234000 +0800">
-        <title lang="zh">体谈</title>
-    </programme>
-    <programme channel="CETV4" start="20260810234000 +0800" stop="20260811001000 +0800">
-        <title lang="zh">疾风少年</title>
+    <programme channel="CETV4" start="20260810233000 +0800" stop="20260811001000 +0800">
+        <title lang="zh">动起来一起闪亮(6)</title>
     </programme>
     <channel id="山东教育">
         <display-name lang="zh">山东教育</display-name>
