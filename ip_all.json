@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/8/15 12:26:31",
+  "update_time": "2026/8/15 14:32:17",
   "statistics": {
     "total_processed": 9053,
-    "valid_ip_count": 56,
-    "duplicate_ip_count": 7834
+    "valid_ip_count": 57,
+    "duplicate_ip_count": 7913
   },
   "ip_list": {
     "ahct": [
@@ -88,6 +88,9 @@
     ],
     "gzct": [
       "61.159.135.85:4022"
+    ],
+    "hbct": [
+      "59.174.161.216:4022"
     ],
     "jlct": [
       "36.49.50.4:8800"
