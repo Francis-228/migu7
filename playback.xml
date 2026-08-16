@@ -570,14 +570,17 @@
     <channel id="CCTV6电影">
         <display-name lang="zh">CCTV6电影</display-name>
     </channel>
-    <programme channel="CCTV6电影" start="20260816000000 +0800" stop="20260816012110 +0800">
+    <programme channel="CCTV6电影" start="20260816000000 +0800" stop="20260816010705 +0800">
         <title lang="zh">九龙城寨之围城（下）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260816012110 +0800" stop="20260816031717 +0800">
+    <programme channel="CCTV6电影" start="20260816010705 +0800" stop="20260816030312 +0800">
         <title lang="zh">武者</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260816031717 +0800" stop="20260816065353 +0800">
+    <programme channel="CCTV6电影" start="20260816030312 +0800" stop="20260816045231 +0800">
         <title lang="zh">反转人生</title>
+    </programme>
+    <programme channel="CCTV6电影" start="20260816045231 +0800" stop="20260816065353 +0800">
+        <title lang="zh">不列颠之战</title>
     </programme>
     <programme channel="CCTV6电影" start="20260816065353 +0800" stop="20260816083718 +0800">
         <title lang="zh">九纹龙史进之除恶史家村</title>
