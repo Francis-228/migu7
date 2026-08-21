@@ -383,8 +383,10 @@ ${replace}/966891040
 ${replace}/966891143
 #EXTINF:-1 tvg-id="斯瓦泰克VS莱巴金娜" tvg-name="WTA 斯瓦泰克VS莱巴金娜 【回放】斯瓦泰克0-0莱巴金娜（退赛）（英文原声） 01:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 斯瓦泰克VS莱巴金娜 【回放】斯瓦泰克0-0莱巴金娜（退赛）（英文原声） 01:00
 ${replace}/966891147
-#EXTINF:-1 tvg-id="UFC巴西柔术大赛第10期：塔克特VS格雷西" tvg-name="UFC BJJ UFC巴西柔术大赛第10期：塔克特VS格雷西 王琰博 郝俊 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000013991064d8b5.png" group-title="体育-今天",UFC BJJ UFC巴西柔术大赛第10期：塔克特VS格雷西 王琰博 郝俊 07:55
-${replace}/966853709
+#EXTINF:-1 tvg-id="UFC巴西柔术大赛第10期：塔克特VS格雷西" tvg-name="UFC BJJ UFC巴西柔术大赛第10期：塔克特VS格雷西 【回放】（王琰博、郝俊） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000013991064d8b5.png" group-title="体育-今天",UFC BJJ UFC巴西柔术大赛第10期：塔克特VS格雷西 【回放】（王琰博、郝俊） 07:55
+${replace}/966893517
+#EXTINF:-1 tvg-id="UFC巴西柔术大赛第10期：塔克特VS格雷西" tvg-name="UFC BJJ UFC巴西柔术大赛第10期：塔克特VS格雷西 【回放】（赛场原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000013991064d8b5.png" group-title="体育-今天",UFC BJJ UFC巴西柔术大赛第10期：塔克特VS格雷西 【回放】（赛场原声） 07:55
+${replace}/966894236
 #EXTINF:-1 tvg-id="单打第一、二阶段" tvg-name="中国乒协会员联赛 单打第一、二阶段 赛场原声 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png" group-title="体育-今天",中国乒协会员联赛 单打第一、二阶段 赛场原声 08:30
 ${replace}/966870407
 #EXTINF:-1 tvg-id="PPA斯凯奇深圳公开赛  Day 2" tvg-name="PPA亚洲职业匹克球巡回赛 PPA斯凯奇深圳公开赛  Day 2 清流播出 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/19/100000001492106224ee.jpg" group-title="体育-今天",PPA亚洲职业匹克球巡回赛 PPA斯凯奇深圳公开赛  Day 2 清流播出 09:00
@@ -401,30 +403,6 @@ ${replace}/966778881
 ${replace}/966778895
 #EXTINF:-1 tvg-id="国羽德比！凤凰大战星驰组合" tvg-name="BWF 国羽德比！凤凰大战星驰组合 智能字幕 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽德比！凤凰大战星驰组合 智能字幕 13:00
 ${replace}/966804432
-#EXTINF:-1 tvg-id="国羽德比！凤凰大战星驰组合" tvg-name="BWF 国羽德比！凤凰大战星驰组合 鸿昆 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽德比！凤凰大战星驰组合 鸿昆 15:50
-${replace}/966891628
-#EXTINF:-1 tvg-id="国羽德比！凤凰大战星驰组合" tvg-name="BWF 国羽德比！凤凰大战星驰组合 鸿昆 17:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽德比！凤凰大战星驰组合 鸿昆 17:30
-${replace}/966891633
-#EXTINF:-1 tvg-id="国羽德比！凤凰大战星驰组合" tvg-name="BWF 国羽德比！凤凰大战星驰组合 鸿昆 18:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽德比！凤凰大战星驰组合 鸿昆 18:20
-${replace}/966891643
-#EXTINF:-1 tvg-id="国羽德比！凤凰大战星驰组合" tvg-name="BWF 国羽德比！凤凰大战星驰组合 鸿昆 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽德比！凤凰大战星驰组合 鸿昆 20:00
-${replace}/966891653
-#EXTINF:-1 tvg-id="国羽德比！凤凰大战星驰组合" tvg-name="BWF 国羽德比！凤凰大战星驰组合 朱胤丞 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽德比！凤凰大战星驰组合 朱胤丞 13:00
-${replace}/966891664
-#EXTINF:-1 tvg-id="国羽德比！凤凰大战星驰组合" tvg-name="BWF 国羽德比！凤凰大战星驰组合 孙宁智 14:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽德比！凤凰大战星驰组合 孙宁智 14:10
-${replace}/966891673
-#EXTINF:-1 tvg-id="国羽德比！凤凰大战星驰组合" tvg-name="BWF 国羽德比！凤凰大战星驰组合 朱胤丞 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽德比！凤凰大战星驰组合 朱胤丞 13:30
-${replace}/966891688
-#EXTINF:-1 tvg-id="国羽德比！凤凰大战星驰组合" tvg-name="BWF 国羽德比！凤凰大战星驰组合 余博洋 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽德比！凤凰大战星驰组合 余博洋 15:00
-${replace}/966891711
-#EXTINF:-1 tvg-id="国羽德比！凤凰大战星驰组合" tvg-name="BWF 国羽德比！凤凰大战星驰组合 余昌瑞 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽德比！凤凰大战星驰组合 余昌瑞 15:50
-${replace}/966891717
-#EXTINF:-1 tvg-id="国羽德比！凤凰大战星驰组合" tvg-name="BWF 国羽德比！凤凰大战星驰组合 余昌瑞 16:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽德比！凤凰大战星驰组合 余昌瑞 16:40
-${replace}/966891720
-#EXTINF:-1 tvg-id="国羽德比！凤凰大战星驰组合" tvg-name="BWF 国羽德比！凤凰大战星驰组合 余博洋 17:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽德比！凤凰大战星驰组合 余博洋 17:30
-${replace}/966891735
-#EXTINF:-1 tvg-id="国羽德比！凤凰大战星驰组合" tvg-name="BWF 国羽德比！凤凰大战星驰组合 张婕 18:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽德比！凤凰大战星驰组合 张婕 18:20
-${replace}/966891746
 #EXTINF:-1 tvg-id="厦门环东文旅VS武汉盛帆黄鹤" tvg-name="全国女子篮球锦标赛 厦门环东文旅VS武汉盛帆黄鹤 清流播出 13:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-今天",全国女子篮球锦标赛 厦门环东文旅VS武汉盛帆黄鹤 清流播出 13:50
 ${replace}/966832579
 #EXTINF:-1 tvg-id="陕西榆林天泽VS辽宁大连体产" tvg-name="全国女子篮球锦标赛 陕西榆林天泽VS辽宁大连体产 清流播出 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-今天",全国女子篮球锦标赛 陕西榆林天泽VS辽宁大连体产 清流播出 15:50
@@ -437,17 +415,19 @@ ${replace}/966323620
 ${replace}/966832598
 #EXTINF:-1 tvg-id="长沙旺旺VS上海虎鲸" tvg-name="CPB中国棒球城市联赛 长沙旺旺VS上海虎鲸 清流播出 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png" group-title="体育-今天",CPB中国棒球城市联赛 长沙旺旺VS上海虎鲸 清流播出 18:30
 ${replace}/966701895
-#EXTINF:-1 tvg-id="篮球公园丨中国队积极备战世界大赛" tvg-name="CBA 篮球公园丨中国队积极备战世界大赛 CCTV5 18:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 篮球公园丨中国队积极备战世界大赛 CCTV5 18:35
+#EXTINF:-1 tvg-id="篮球公园丨中国男女篮备战世界大赛" tvg-name="CBA 篮球公园丨中国男女篮备战世界大赛 CCTV5 18:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 篮球公园丨中国男女篮备战世界大赛 CCTV5 18:35
 ${replace}/966868343
+#EXTINF:-1 tvg-id="夏窗风起云涌！各豪门新寒季命运大猜想" tvg-name="绿茵狂想：联赛季 夏窗风起云涌！各豪门新寒季命运大猜想 詹俊 张路 杨晨 杨茗茗 19:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVD4MV77K9.png" group-title="体育-今天",绿茵狂想：联赛季 夏窗风起云涌！各豪门新寒季命运大猜想 詹俊 张路 杨晨 杨茗茗 19:00
+${replace}/966891372
 #EXTINF:-1 tvg-id="上海交通大学VS山西竹叶青酒" tvg-name="全国女子篮球锦标赛 上海交通大学VS山西竹叶青酒 清流播出 19:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-今天",全国女子篮球锦标赛 上海交通大学VS山西竹叶青酒 清流播出 19:50
 ${replace}/966832613
 #EXTINF:-1 tvg-id="ONE周五格斗夜167：德杜安莱克VS康苏克" tvg-name="ONE冠军赛 ONE周五格斗夜167：德杜安莱克VS康苏克 陈瑞阳 21:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-今天",ONE冠军赛 ONE周五格斗夜167：德杜安莱克VS康苏克 陈瑞阳 21:25
 ${replace}/966853281
 #EXTINF:-1 tvg-id="ONE周五格斗夜167：德杜安莱克VS康苏克" tvg-name="ONE冠军赛 ONE周五格斗夜167：德杜安莱克VS康苏克 英文原声 21:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-今天",ONE冠军赛 ONE周五格斗夜167：德杜安莱克VS康苏克 英文原声 21:25
 ${replace}/966853331
-#EXTINF:-1 tvg-id="女单半决赛" tvg-name="WTA 女单半决赛 赛场原声 01:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-明天",WTA 女单半决赛 赛场原声 01:00
+#EXTINF:-1 tvg-id="贝莱克VS凯斯" tvg-name="WTA 贝莱克VS凯斯 赛场原声 01:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-明天",WTA 贝莱克VS凯斯 赛场原声 01:00
 ${replace}/966702143
-#EXTINF:-1 tvg-id="女单半决赛" tvg-name="WTA 女单半决赛 英文原声 01:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-明天",WTA 女单半决赛 英文原声 01:00
+#EXTINF:-1 tvg-id="贝莱克VS凯斯" tvg-name="WTA 贝莱克VS凯斯 英文原声 01:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-明天",WTA 贝莱克VS凯斯 英文原声 01:00
 ${replace}/966702158
 #EXTINF:-1 tvg-id="马赛VS斯特拉斯堡" tvg-name="法甲 马赛VS斯特拉斯堡 刘一臻 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-明天",法甲 马赛VS斯特拉斯堡 刘一臻 02:30
 ${replace}/966869113
@@ -595,10 +575,14 @@ ${replace}/966871570
 ${replace}/966871612
 #EXTINF:-1 tvg-id="赫尔城VS曼联" tvg-name="英超 赫尔城VS曼联 4K赛场原声 19:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-明天",英超 赫尔城VS曼联 4K赛场原声 19:15
 ${replace}/966871656
-#EXTINF:-1 tvg-id="汕尾VS肇庆" tvg-name="粤超 汕尾VS肇庆 赛场原声 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/16/100000001449106bbb98.png" group-title="体育-明天",粤超 汕尾VS肇庆 赛场原声 19:30
+#EXTINF:-1 tvg-id="汕尾VS肇庆" tvg-name="粤超 汕尾VS肇庆 普通话 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/16/100000001449106bbb98.png" group-title="体育-明天",粤超 汕尾VS肇庆 普通话 19:30
 ${replace}/966567284
-#EXTINF:-1 tvg-id="阳江VS东莞" tvg-name="粤超 阳江VS东莞 赛场原声 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/16/100000001449106bbb98.png" group-title="体育-明天",粤超 阳江VS东莞 赛场原声 19:30
+#EXTINF:-1 tvg-id="汕尾VS肇庆" tvg-name="粤超 汕尾VS肇庆 粤语 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/16/100000001449106bbb98.png" group-title="体育-明天",粤超 汕尾VS肇庆 粤语 19:30
+${replace}/966893764
+#EXTINF:-1 tvg-id="阳江VS东莞" tvg-name="粤超 阳江VS东莞 普通话 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/16/100000001449106bbb98.png" group-title="体育-明天",粤超 阳江VS东莞 普通话 19:30
 ${replace}/966567288
+#EXTINF:-1 tvg-id="阳江VS东莞" tvg-name="粤超 阳江VS东莞 粤语 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/16/100000001449106bbb98.png" group-title="体育-明天",粤超 阳江VS东莞 粤语 19:30
+${replace}/966893701
 #EXTINF:-1 tvg-id="河池市VS南宁市" tvg-name="桂BA 河池市VS南宁市 赛场原声 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/16/10000000149110630d4b.png" group-title="体育-明天",桂BA 河池市VS南宁市 赛场原声 19:30
 ${replace}/966689992
 #EXTINF:-1 tvg-id="北海市VS桂林市" tvg-name="桂BA 北海市VS桂林市 赛场原声 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/16/10000000149110630d4b.png" group-title="体育-明天",桂BA 北海市VS桂林市 赛场原声 19:30
@@ -669,8 +653,10 @@ ${replace}/966831277
 ${replace}/966831283
 #EXTINF:-1 tvg-id="上饶队VS景德镇队" tvg-name="赣超 上饶队VS景德镇队 赛场原声 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/27/100000001290106c83f6.png" group-title="体育-明天",赣超 上饶队VS景德镇队 赛场原声 20:00
 ${replace}/966831294
-#EXTINF:-1 tvg-id="揭阳VS佛山" tvg-name="粤超 揭阳VS佛山 赛场原声 20:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/16/100000001449106bbb98.png" group-title="体育-明天",粤超 揭阳VS佛山 赛场原声 20:30
+#EXTINF:-1 tvg-id="揭阳VS佛山" tvg-name="粤超 揭阳VS佛山 普通话 20:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/16/100000001449106bbb98.png" group-title="体育-明天",粤超 揭阳VS佛山 普通话 20:30
 ${replace}/966567294
+#EXTINF:-1 tvg-id="揭阳VS佛山" tvg-name="粤超 揭阳VS佛山 潮汕话 20:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/16/100000001449106bbb98.png" group-title="体育-明天",粤超 揭阳VS佛山 潮汕话 20:30
+${replace}/966893725
 #EXTINF:-1 tvg-id="诺丁汉森林VS利兹联" tvg-name="英超 诺丁汉森林VS利兹联 郭灿亮 21:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-明天",英超 诺丁汉森林VS利兹联 郭灿亮 21:45
 ${replace}/966871746
 #EXTINF:-1 tvg-id="诺丁汉森林VS利兹联" tvg-name="英超 诺丁汉森林VS利兹联 赛场原声 21:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-明天",英超 诺丁汉森林VS利兹联 赛场原声 21:45
