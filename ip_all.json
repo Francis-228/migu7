@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/8/21 16:36:22",
+  "update_time": "2026/8/21 18:26:25",
   "statistics": {
-    "total_processed": 8762,
+    "total_processed": 8633,
     "valid_ip_count": 58,
-    "duplicate_ip_count": 7880
+    "duplicate_ip_count": 7752
   },
   "ip_list": {
     "gdct": [
