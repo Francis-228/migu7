@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/8/24 16:43:44",
+  "update_time": "2026/8/24 18:33:50",
   "statistics": {
     "total_processed": 7506,
     "valid_ip_count": 52,
-    "duplicate_ip_count": 6636
+    "duplicate_ip_count": 6508
   },
   "ip_list": {
     "lncu": [
@@ -79,7 +79,7 @@
     ],
     "gzct": [
       "218.86.187.9:8188",
-      "61.159.134.74:4022"
+      "61.159.134.186:4022"
     ],
     "hbct": [
       "27.18.144.38:9100"
