@@ -551,20 +551,32 @@ ${replace}/966993467
 ${replace}/966994248
 #EXTINF:-1 tvg-id="媒体日：宋亚东、闫晓楠、苏木出席" tvg-name="UFC格斗之夜 媒体日：宋亚东、闫晓楠、苏木出席 全场回放 11:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000002391064d391.png" group-title="体育-今天",UFC格斗之夜 媒体日：宋亚东、闫晓楠、苏木出席 全场回放 11:50
 ${replace}/966998312
-#EXTINF:-1 tvg-id="合肥文旅VS四川蜀道远达" tvg-name="全国女子篮球锦标赛 合肥文旅VS四川蜀道远达 全场回放 13:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-今天",全国女子篮球锦标赛 合肥文旅VS四川蜀道远达 全场回放 13:20
+#EXTINF:-1 tvg-id="合肥文旅VS四川蜀道远达" tvg-name="全国女子篮球锦标赛 合肥文旅VS四川蜀道远达 全场回放（赛场原声） 13:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-今天",全国女子篮球锦标赛 合肥文旅VS四川蜀道远达 全场回放（赛场原声） 13:20
 ${replace}/966999141
-#EXTINF:-1 tvg-id="小特5-1斯佳辉 奥沙利文常冰玉晋级" tvg-name="斯诺克 小特5-1斯佳辉 奥沙利文常冰玉晋级 3号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 小特5-1斯佳辉 奥沙利文常冰玉晋级 3号桌 14:00
-${replace}/966819912
-#EXTINF:-1 tvg-id="山东高速赤水河酒女篮VS上海浦发银行" tvg-name="全国女子篮球锦标赛 山东高速赤水河酒女篮VS上海浦发银行 清流播出 15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-今天",全国女子篮球锦标赛 山东高速赤水河酒女篮VS上海浦发银行 清流播出 15:20
-${replace}/966832881
-#EXTINF:-1 tvg-id="厦门环东文旅VS上海交通大学" tvg-name="全国女子篮球锦标赛 厦门环东文旅VS上海交通大学 清流播出 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-今天",全国女子篮球锦标赛 厦门环东文旅VS上海交通大学 清流播出 15:50
-${replace}/966979841
-#EXTINF:-1 tvg-id="石家庄英励VS黑龙江女子成年队" tvg-name="全国女子篮球锦标赛 石家庄英励VS黑龙江女子成年队 清流播出 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-今天",全国女子篮球锦标赛 石家庄英励VS黑龙江女子成年队 清流播出 17:20
-${replace}/966832887
+#EXTINF:-1 tvg-id="塞尔比5-4庞俊旭 奥沙利文常冰玉晋级" tvg-name="斯诺克 塞尔比5-4庞俊旭 奥沙利文常冰玉晋级 26/27赛季斯诺克武汉公开赛第四轮回放：阿里·卡特2-5常冰玉（陶哲铭） 4:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 塞尔比5-4庞俊旭 奥沙利文常冰玉晋级 26/27赛季斯诺克武汉公开赛第四轮回放：阿里·卡特2-5常冰玉（陶哲铭） 4:00
+${replace}/966999373
+#EXTINF:-1 tvg-id="塞尔比5-4庞俊旭 奥沙利文常冰玉晋级" tvg-name="斯诺克 塞尔比5-4庞俊旭 奥沙利文常冰玉晋级 26/27赛季斯诺克武汉公开赛第四轮回放：罗尼·奥沙利文5-2斯蒂芬·马奎尔（孙嘉星） 4:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 塞尔比5-4庞俊旭 奥沙利文常冰玉晋级 26/27赛季斯诺克武汉公开赛第四轮回放：罗尼·奥沙利文5-2斯蒂芬·马奎尔（孙嘉星） 4:00
+${replace}/966999466
+#EXTINF:-1 tvg-id="塞尔比5-4庞俊旭 奥沙利文常冰玉晋级" tvg-name="斯诺克 塞尔比5-4庞俊旭 奥沙利文常冰玉晋级 26/27赛季斯诺克武汉公开赛第四轮回放：贾德·特鲁姆普5-1斯佳辉（朱峰立） 4:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 塞尔比5-4庞俊旭 奥沙利文常冰玉晋级 26/27赛季斯诺克武汉公开赛第四轮回放：贾德·特鲁姆普5-1斯佳辉（朱峰立） 4:00
+${replace}/966999754
+#EXTINF:-1 tvg-id="塞尔比5-4庞俊旭 奥沙利文常冰玉晋级" tvg-name="斯诺克 塞尔比5-4庞俊旭 奥沙利文常冰玉晋级 26/27赛季斯诺克武汉公开赛第四轮回放：罗尼·奥沙利文5-2斯蒂芬·马奎尔（赛场原声） 4:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 塞尔比5-4庞俊旭 奥沙利文常冰玉晋级 26/27赛季斯诺克武汉公开赛第四轮回放：罗尼·奥沙利文5-2斯蒂芬·马奎尔（赛场原声） 4:00
+${replace}/967000394
+#EXTINF:-1 tvg-id="塞尔比5-4庞俊旭 奥沙利文常冰玉晋级" tvg-name="斯诺克 塞尔比5-4庞俊旭 奥沙利文常冰玉晋级 26/27赛季斯诺克武汉公开赛第四轮回放：贾德·特鲁姆普5-1斯佳辉（赛场原声） 4:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 塞尔比5-4庞俊旭 奥沙利文常冰玉晋级 26/27赛季斯诺克武汉公开赛第四轮回放：贾德·特鲁姆普5-1斯佳辉（赛场原声） 4:00
+${replace}/967000602
+#EXTINF:-1 tvg-id="塞尔比5-4庞俊旭 奥沙利文常冰玉晋级" tvg-name="斯诺克 塞尔比5-4庞俊旭 奥沙利文常冰玉晋级 26/27赛季斯诺克武汉公开赛第四轮回放：阿里·卡特2-5常冰玉（赛场原声） 4:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 塞尔比5-4庞俊旭 奥沙利文常冰玉晋级 26/27赛季斯诺克武汉公开赛第四轮回放：阿里·卡特2-5常冰玉（赛场原声） 4:00
+${replace}/967000645
+#EXTINF:-1 tvg-id="塞尔比5-4庞俊旭 奥沙利文常冰玉晋级" tvg-name="斯诺克 塞尔比5-4庞俊旭 奥沙利文常冰玉晋级 26/27赛季斯诺克武汉公开赛第四轮回放：庞俊旭4-5马克·塞尔比（赛场原声） 4:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 塞尔比5-4庞俊旭 奥沙利文常冰玉晋级 26/27赛季斯诺克武汉公开赛第四轮回放：庞俊旭4-5马克·塞尔比（赛场原声） 4:00
+${replace}/967002662
+#EXTINF:-1 tvg-id="山东高速赤水河酒女篮VS上海浦发银行" tvg-name="全国女子篮球锦标赛 山东高速赤水河酒女篮VS上海浦发银行 全场回放（赛场原声） 15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-今天",全国女子篮球锦标赛 山东高速赤水河酒女篮VS上海浦发银行 全场回放（赛场原声） 15:20
+${replace}/967001396
+#EXTINF:-1 tvg-id="厦门环东文旅VS上海交通大学" tvg-name="全国女子篮球锦标赛 厦门环东文旅VS上海交通大学 全场回放（赛场原声） 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-今天",全国女子篮球锦标赛 厦门环东文旅VS上海交通大学 全场回放（赛场原声） 15:50
+${replace}/967001554
+#EXTINF:-1 tvg-id="石家庄英励VS黑龙江女子成年队" tvg-name="全国女子篮球锦标赛 石家庄英励VS黑龙江女子成年队 全场回放 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-今天",全国女子篮球锦标赛 石家庄英励VS黑龙江女子成年队 全场回放 17:20
+${replace}/967002675
 #EXTINF:-1 tvg-id="NBA精彩重播：勇士vs太阳" tvg-name="NBA经典赛事 NBA精彩重播：勇士vs太阳 杨健 马布里 曾令旭 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA精彩重播：勇士vs太阳 杨健 马布里 曾令旭 18:00
 ${replace}/966323678
-#EXTINF:-1 tvg-id="北京师范大学VS浙江稠州银行" tvg-name="全国女子篮球锦标赛 北京师范大学VS浙江稠州银行 清流播出 17:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-今天",全国女子篮球锦标赛 北京师范大学VS浙江稠州银行 清流播出 17:50
-${replace}/966832900
+#EXTINF:-1 tvg-id="北京师范大学VS浙江稠州银行" tvg-name="全国女子篮球锦标赛 北京师范大学VS浙江稠州银行 全场回放 17:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-今天",全国女子篮球锦标赛 北京师范大学VS浙江稠州银行 全场回放 17:50
+${replace}/967003077
 #EXTINF:-1 tvg-id="北京正大龙VS长沙旺旺" tvg-name="CPB中国棒球城市联赛 北京正大龙VS长沙旺旺 清流播出 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png" group-title="体育-今天",CPB中国棒球城市联赛 北京正大龙VS长沙旺旺 清流播出 18:00
 ${replace}/966940923
 #EXTINF:-1 tvg-id="公开训练+粉丝见面会：宋亚东、闫晓楠、石铭、乌尔伯格等选手出席" tvg-name="UFC格斗之夜 公开训练+粉丝见面会：宋亚东、闫晓楠、石铭、乌尔伯格等选手出席 现场原声 18:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000002391064d391.png" group-title="体育-今天",UFC格斗之夜 公开训练+粉丝见面会：宋亚东、闫晓楠、石铭、乌尔伯格等选手出席 现场原声 18:50
@@ -623,10 +635,10 @@ ${replace}/966835342
 ${replace}/966835358
 #EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 国际信号 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 国际信号 23:00
 ${replace}/966868972
-#EXTINF:-1 tvg-id="郑钦文VS布蕾尔" tvg-name="美国网球公开赛 郑钦文VS布蕾尔 赛场原声 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 郑钦文VS布蕾尔 赛场原声 23:00
-${replace}/966996486
 #EXTINF:-1 tvg-id="郑钦文VS布蕾尔" tvg-name="美国网球公开赛 郑钦文VS布蕾尔 李宁 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 郑钦文VS布蕾尔 李宁 23:00
 ${replace}/966996490
+#EXTINF:-1 tvg-id="郑钦文VS布蕾尔" tvg-name="美国网球公开赛 郑钦文VS布蕾尔 赛场原声 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 郑钦文VS布蕾尔 赛场原声 23:00
+${replace}/966996486
 #EXTINF:-1 tvg-id="黄泽林VS诺伊迈尔" tvg-name="美国网球公开赛 黄泽林VS诺伊迈尔 赛场原声 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-明天",美国网球公开赛 黄泽林VS诺伊迈尔 赛场原声 00:30
 ${replace}/966996503
 #EXTINF:-1 tvg-id="黄泽林VS诺伊迈尔" tvg-name="美国网球公开赛 黄泽林VS诺伊迈尔 单文强 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-明天",美国网球公开赛 黄泽林VS诺伊迈尔 单文强 00:30
@@ -651,17 +663,17 @@ ${replace}/966996837
 ${replace}/966490237
 #EXTINF:-1 tvg-id="精英之路第五季半决赛称重仪式" tvg-name="UFC精英之路 精英之路第五季半决赛称重仪式 陈瑞阳 张波 08:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000024010601c56.png" group-title="体育-明天",UFC精英之路 精英之路第五季半决赛称重仪式 陈瑞阳 张波 08:50
 ${replace}/966985108
-#EXTINF:-1 tvg-id="斯诺克武汉公开赛1/4决赛" tvg-name="斯诺克 斯诺克武汉公开赛1/4决赛 1号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 斯诺克武汉公开赛1/4决赛 1号桌 14:00
+#EXTINF:-1 tvg-id="特鲁姆普VS常冰玉" tvg-name="斯诺克 特鲁姆普VS常冰玉 1号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 特鲁姆普VS常冰玉 1号桌 14:00
 ${replace}/966820064
-#EXTINF:-1 tvg-id="斯诺克武汉公开赛1/4决赛" tvg-name="斯诺克 斯诺克武汉公开赛1/4决赛 2号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 斯诺克武汉公开赛1/4决赛 2号桌 14:00
+#EXTINF:-1 tvg-id="特鲁姆普VS常冰玉" tvg-name="斯诺克 特鲁姆普VS常冰玉 2号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 特鲁姆普VS常冰玉 2号桌 14:00
 ${replace}/966820075
-#EXTINF:-1 tvg-id="斯诺克武汉公开赛1/4决赛" tvg-name="斯诺克 斯诺克武汉公开赛1/4决赛 乔迁 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 斯诺克武汉公开赛1/4决赛 乔迁 14:00
+#EXTINF:-1 tvg-id="特鲁姆普VS常冰玉" tvg-name="斯诺克 特鲁姆普VS常冰玉 秦正 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 特鲁姆普VS常冰玉 秦正 14:00
 ${replace}/966852547
-#EXTINF:-1 tvg-id="斯诺克武汉公开赛1/4决赛" tvg-name="斯诺克 斯诺克武汉公开赛1/4决赛 朱峰立 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 斯诺克武汉公开赛1/4决赛 朱峰立 14:00
+#EXTINF:-1 tvg-id="特鲁姆普VS常冰玉" tvg-name="斯诺克 特鲁姆普VS常冰玉 朱峰立 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 特鲁姆普VS常冰玉 朱峰立 14:00
 ${replace}/966852551
-#EXTINF:-1 tvg-id="斯诺克武汉公开赛1/4决赛" tvg-name="斯诺克 斯诺克武汉公开赛1/4决赛 2号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 斯诺克武汉公开赛1/4决赛 2号桌 14:00
+#EXTINF:-1 tvg-id="奥沙利文VS塞尔比" tvg-name="斯诺克 奥沙利文VS塞尔比 2号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 奥沙利文VS塞尔比 2号桌 14:00
 ${replace}/966820075
-#EXTINF:-1 tvg-id="斯诺克武汉公开赛1/4决赛" tvg-name="斯诺克 斯诺克武汉公开赛1/4决赛 朱峰立 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 斯诺克武汉公开赛1/4决赛 朱峰立 14:00
+#EXTINF:-1 tvg-id="奥沙利文VS塞尔比" tvg-name="斯诺克 奥沙利文VS塞尔比 朱峰立 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 奥沙利文VS塞尔比 朱峰立 14:00
 ${replace}/966852551
 #EXTINF:-1 tvg-id="NBA精彩重播：勇士vs湖人" tvg-name="NBA经典赛事 NBA精彩重播：勇士vs湖人 杨健 周琦 曾令旭 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-明天",NBA经典赛事 NBA精彩重播：勇士vs湖人 杨健 周琦 曾令旭 18:00
 ${replace}/966323700
@@ -673,7 +685,7 @@ ${replace}/966737939
 ${replace}/966820085
 #EXTINF:-1 tvg-id="斯诺克武汉公开赛1/4决赛" tvg-name="斯诺克 斯诺克武汉公开赛1/4决赛 2号桌 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 斯诺克武汉公开赛1/4决赛 2号桌 19:30
 ${replace}/966820101
-#EXTINF:-1 tvg-id="斯诺克武汉公开赛1/4决赛" tvg-name="斯诺克 斯诺克武汉公开赛1/4决赛 秦正 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 斯诺克武汉公开赛1/4决赛 秦正 19:30
+#EXTINF:-1 tvg-id="斯诺克武汉公开赛1/4决赛" tvg-name="斯诺克 斯诺克武汉公开赛1/4决赛 乔迁 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 斯诺克武汉公开赛1/4决赛 乔迁 19:30
 ${replace}/966852568
 #EXTINF:-1 tvg-id="斯诺克武汉公开赛1/4决赛" tvg-name="斯诺克 斯诺克武汉公开赛1/4决赛 朱峰立 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 斯诺克武汉公开赛1/4决赛 朱峰立 19:30
 ${replace}/966852583
