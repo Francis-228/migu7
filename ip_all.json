@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/8/26 16:38:50",
+  "update_time": "2026/8/26 18:31:56",
   "statistics": {
-    "total_processed": 8190,
-    "valid_ip_count": 54,
-    "duplicate_ip_count": 7445
+    "total_processed": 8319,
+    "valid_ip_count": 55,
+    "duplicate_ip_count": 7572
   },
   "ip_list": {
     "sdcu": [
@@ -55,6 +55,7 @@
     ],
     "scct": [
       "171.213.155.22:8188",
+      "171.213.155.239:8188",
       "171.213.238.7:8188"
     ],
     "hnct": [
