@@ -341,75 +341,71 @@ ${replace}/967009827
 ${replace}/967004758
 #EXTINF:-1 tvg-id="北京首钢园VS江苏南钢" tvg-name="全国女子篮球锦标赛 北京首钢园VS江苏南钢 全场回放 19:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-昨天",全国女子篮球锦标赛 北京首钢园VS江苏南钢 全场回放 19:50
 ${replace}/967005552
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 黄泽林 vs 诺伊迈尔(单文强) 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 黄泽林 vs 诺伊迈尔(单文强) 00:30
-${replace}/966996831
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 17号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 17号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 阿瑟・阿什球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 阿瑟・阿什球场 23:00
+${replace}/966834755
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 17号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 17号球场 23:00
 ${replace}/966834784
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 4号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 4号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 4号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 4号球场 23:00
 ${replace}/966834808
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 5号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 5号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 5号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 5号球场 23:00
 ${replace}/966834825
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 6号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 6号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 6号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 6号球场 23:00
 ${replace}/966835001
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 7号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 7号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 7号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 7号球场 23:00
 ${replace}/966835021
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 8号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 8号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 8号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 8号球场 23:00
 ${replace}/966835037
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 9号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 9号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 9号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 9号球场 23:00
 ${replace}/966835059
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 10号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 10号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 10号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 10号球场 23:00
 ${replace}/966835112
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 12号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 12号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 12号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 12号球场 23:00
 ${replace}/966835294
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 11号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 11号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 11号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 11号球场 23:00
 ${replace}/966835274
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 13号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 13号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 13号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 13号球场 23:00
 ${replace}/966835323
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 14号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 14号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 14号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 14号球场 23:00
 ${replace}/966835336
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 15号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 15号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 15号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 15号球场 23:00
 ${replace}/966835342
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 16号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 16号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 16号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 16号球场 23:00
 ${replace}/966835358
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛第二轮 清晨混双开战" tvg-name="美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 国际信号 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛第二轮 清晨混双开战 国际信号 23:00
+#EXTINF:-1 tvg-id="郑钦文晋级美网资格赛决胜轮" tvg-name="美国网球公开赛 郑钦文晋级美网资格赛决胜轮 国际信号 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文晋级美网资格赛决胜轮 国际信号 23:00
 ${replace}/966868972
-#EXTINF:-1 tvg-id="郑钦文VS布蕾尔" tvg-name="美国网球公开赛 郑钦文VS布蕾尔 李宁 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文VS布蕾尔 李宁 23:00
-${replace}/966996490
-#EXTINF:-1 tvg-id="郑钦文VS布蕾尔" tvg-name="美国网球公开赛 郑钦文VS布蕾尔 赛场原声 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文VS布蕾尔 赛场原声 23:00
-${replace}/966996486
-#EXTINF:-1 tvg-id="黄泽林VS诺伊迈尔" tvg-name="美国网球公开赛 黄泽林VS诺伊迈尔 单文强 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 黄泽林VS诺伊迈尔 单文强 00:30
-${replace}/966996831
-#EXTINF:-1 tvg-id="黄泽林VS诺伊迈尔" tvg-name="美国网球公开赛 黄泽林VS诺伊迈尔 赛场原声 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 黄泽林VS诺伊迈尔 赛场原声 00:30
-${replace}/966996503
-#EXTINF:-1 tvg-id="皇家马德里VS皇家社会" tvg-name="西甲 皇家马德里VS皇家社会 林梦鸽 孙雷 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 皇家马德里VS皇家社会 林梦鸽 孙雷 02:45
-${replace}/966869519
-#EXTINF:-1 tvg-id="皇家马德里VS皇家社会" tvg-name="西甲 皇家马德里VS皇家社会 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 皇家马德里VS皇家社会 赛场原声 02:45
-${replace}/966869500
-#EXTINF:-1 tvg-id="袁悦VS阿芙蒂耶娃" tvg-name="美国网球公开赛 袁悦VS阿芙蒂耶娃 赛场原声 03:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 袁悦VS阿芙蒂耶娃 赛场原声 03:30
-${replace}/966996833
-#EXTINF:-1 tvg-id="袁悦VS阿芙蒂耶娃" tvg-name="美国网球公开赛 袁悦VS阿芙蒂耶娃 房朕 03:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 袁悦VS阿芙蒂耶娃 房朕 03:30
-${replace}/966996839
-#EXTINF:-1 tvg-id="亚历山德洛娃、李吉妮领衔出战" tvg-name="WTA 亚历山德洛娃、李吉妮领衔出战 赛场原声 05:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 亚历山德洛娃、李吉妮领衔出战 赛场原声 05:00
+#EXTINF:-1 tvg-id="郑钦文VS布蕾尔" tvg-name="美国网球公开赛 郑钦文VS布蕾尔 全场回放（李宁） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文VS布蕾尔 全场回放（李宁） 23:00
+${replace}/967014315
+#EXTINF:-1 tvg-id="郑钦文VS布蕾尔" tvg-name="美国网球公开赛 郑钦文VS布蕾尔 全场回放 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文VS布蕾尔 全场回放 23:00
+${replace}/967015264
+#EXTINF:-1 tvg-id="黄泽林VS诺伊迈尔" tvg-name="美国网球公开赛 黄泽林VS诺伊迈尔 全场回放 00:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 黄泽林VS诺伊迈尔 全场回放 00:40
+${replace}/967013808
+#EXTINF:-1 tvg-id="黄泽林VS诺伊迈尔" tvg-name="美国网球公开赛 黄泽林VS诺伊迈尔 全场回放（单文强） 00:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 黄泽林VS诺伊迈尔 全场回放（单文强） 00:40
+${replace}/967014167
+#EXTINF:-1 tvg-id="皇家马德里VS皇家社会" tvg-name="西甲 皇家马德里VS皇家社会 全场回放（AI观赛） 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 皇家马德里VS皇家社会 全场回放（AI观赛） 02:45
+${replace}/967018988
+#EXTINF:-1 tvg-id="皇家马德里VS皇家社会" tvg-name="西甲 皇家马德里VS皇家社会 全场回放（林梦鸽、孙雷） 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 皇家马德里VS皇家社会 全场回放（林梦鸽、孙雷） 02:45
+${replace}/967019485
+#EXTINF:-1 tvg-id="袁悦VS阿芙蒂耶娃" tvg-name="美国网球公开赛 袁悦VS阿芙蒂耶娃 全场回放（房朕） 03:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 袁悦VS阿芙蒂耶娃 全场回放（房朕） 03:30
+${replace}/967018815
+#EXTINF:-1 tvg-id="袁悦VS阿芙蒂耶娃" tvg-name="美国网球公开赛 袁悦VS阿芙蒂耶娃 全场回放 03:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 袁悦VS阿芙蒂耶娃 全场回放 03:30
+${replace}/967019373
+#EXTINF:-1 tvg-id="亚历山德洛娃、梅尔滕斯衔出战" tvg-name="WTA 亚历山德洛娃、梅尔滕斯衔出战 赛场原声 05:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 亚历山德洛娃、梅尔滕斯衔出战 赛场原声 05:00
 ${replace}/966892607
-#EXTINF:-1 tvg-id="亚历山德洛娃、李吉妮领衔出战" tvg-name="WTA 亚历山德洛娃、李吉妮领衔出战 英文原声 05:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 亚历山德洛娃、李吉妮领衔出战 英文原声 05:00
+#EXTINF:-1 tvg-id="亚历山德洛娃、梅尔滕斯衔出战" tvg-name="WTA 亚历山德洛娃、梅尔滕斯衔出战 英文原声 05:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 亚历山德洛娃、梅尔滕斯衔出战 英文原声 05:00
 ${replace}/966892720
-#EXTINF:-1 tvg-id="布云朝克特VS戈约" tvg-name="美国网球公开赛 布云朝克特VS戈约 赛场原声 05:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 布云朝克特VS戈约 赛场原声 05:00
-${replace}/966996835
-#EXTINF:-1 tvg-id="布云朝克特VS戈约" tvg-name="美国网球公开赛 布云朝克特VS戈约 邱超 05:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 布云朝克特VS戈约 邱超 05:00
-${replace}/966996837
 #EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第162期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 咪咕体育日报 第162期 08:00
 ${replace}/966490237
 #EXTINF:-1 tvg-id="称重对视：马合沙特、扎提领衔登场称重" tvg-name="UFC精英之路 称重对视：马合沙特、扎提领衔登场称重 陈瑞阳 张波 08:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000024010601c56.png" group-title="体育-今天",UFC精英之路 称重对视：马合沙特、扎提领衔登场称重 陈瑞阳 张波 08:50
 ${replace}/966985108
 #EXTINF:-1 tvg-id="特鲁姆普VS常冰玉" tvg-name="斯诺克 特鲁姆普VS常冰玉 秦正 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 特鲁姆普VS常冰玉 秦正 14:00
 ${replace}/966852547
-#EXTINF:-1 tvg-id="特鲁姆普VS常冰玉" tvg-name="斯诺克 特鲁姆普VS常冰玉 1号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 特鲁姆普VS常冰玉 1号桌 14:00
+#EXTINF:-1 tvg-id="特鲁姆普VS常冰玉" tvg-name="斯诺克 特鲁姆普VS常冰玉 特鲁姆普vs常冰玉 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 特鲁姆普VS常冰玉 特鲁姆普vs常冰玉 14:00
 ${replace}/966820064
 #EXTINF:-1 tvg-id="奥沙利文VS塞尔比" tvg-name="斯诺克 奥沙利文VS塞尔比 朱峰立 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 奥沙利文VS塞尔比 朱峰立 14:00
 ${replace}/966852551
-#EXTINF:-1 tvg-id="奥沙利文VS塞尔比" tvg-name="斯诺克 奥沙利文VS塞尔比 2号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 奥沙利文VS塞尔比 2号桌 14:00
+#EXTINF:-1 tvg-id="奥沙利文VS塞尔比" tvg-name="斯诺克 奥沙利文VS塞尔比 奥沙利文vs塞尔比 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 奥沙利文VS塞尔比 奥沙利文vs塞尔比 14:00
 ${replace}/966820075
-#EXTINF:-1 tvg-id="奥沙利文VS塞尔比" tvg-name="斯诺克 奥沙利文VS塞尔比 1号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 奥沙利文VS塞尔比 1号桌 14:00
+#EXTINF:-1 tvg-id="奥沙利文VS塞尔比" tvg-name="斯诺克 奥沙利文VS塞尔比 特鲁姆普vs常冰玉 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 奥沙利文VS塞尔比 特鲁姆普vs常冰玉 14:00
 ${replace}/966820064
 #EXTINF:-1 tvg-id="NBA精彩重播：勇士vs湖人" tvg-name="NBA经典赛事 NBA精彩重播：勇士vs湖人 杨健 周琦 曾令旭 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA精彩重播：勇士vs湖人 杨健 周琦 曾令旭 18:00
 ${replace}/966323700
@@ -419,12 +415,14 @@ ${replace}/966985219
 ${replace}/966737939
 #EXTINF:-1 tvg-id="赵心童VS尼尔·罗伯逊" tvg-name="斯诺克 赵心童VS尼尔·罗伯逊 乔迁 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 赵心童VS尼尔·罗伯逊 乔迁 19:30
 ${replace}/966852568
-#EXTINF:-1 tvg-id="赵心童VS尼尔·罗伯逊" tvg-name="斯诺克 赵心童VS尼尔·罗伯逊 1号桌 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 赵心童VS尼尔·罗伯逊 1号桌 19:30
+#EXTINF:-1 tvg-id="赵心童VS尼尔·罗伯逊" tvg-name="斯诺克 赵心童VS尼尔·罗伯逊 赵心童vs尼尔·罗伯逊 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 赵心童VS尼尔·罗伯逊 赵心童vs尼尔·罗伯逊 19:30
 ${replace}/966820085
-#EXTINF:-1 tvg-id="肖国栋VS马克·威廉姆斯" tvg-name="斯诺克 肖国栋VS马克·威廉姆斯 2号桌 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 肖国栋VS马克·威廉姆斯 2号桌 19:30
-${replace}/966820101
 #EXTINF:-1 tvg-id="肖国栋VS马克·威廉姆斯" tvg-name="斯诺克 肖国栋VS马克·威廉姆斯 朱峰立 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 肖国栋VS马克·威廉姆斯 朱峰立 19:30
 ${replace}/966852583
+#EXTINF:-1 tvg-id="肖国栋VS马克·威廉姆斯" tvg-name="斯诺克 肖国栋VS马克·威廉姆斯 肖国栋vs马克·威廉姆斯 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 肖国栋VS马克·威廉姆斯 肖国栋vs马克·威廉姆斯 19:30
+${replace}/966820101
+#EXTINF:-1 tvg-id="肖国栋VS马克·威廉姆斯" tvg-name="斯诺克 肖国栋VS马克·威廉姆斯 赵心童vs尼尔·罗伯逊 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 肖国栋VS马克·威廉姆斯 赵心童vs尼尔·罗伯逊 19:30
+${replace}/966820085
 #EXTINF:-1 tvg-id="几内亚VS南苏丹" tvg-name="男篮世预赛 几内亚VS南苏丹 赛场原声 19:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 几内亚VS南苏丹 赛场原声 19:50
 ${replace}/966984207
 #EXTINF:-1 tvg-id="安哥拉VS刚果共和国" tvg-name="男篮世预赛 安哥拉VS刚果共和国 赛场原声 20:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 安哥拉VS刚果共和国 赛场原声 20:20
