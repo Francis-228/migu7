@@ -267,22 +267,22 @@ ${replace}/967175518
 ${replace}/967177029
 #EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】肖国栋4-2江俊（朱峰立） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】肖国栋4-2江俊（朱峰立） 02:00
 ${replace}/967177289
+#EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】庞俊旭4-1尼尔·罗伯逊（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】庞俊旭4-1尼尔·罗伯逊（赛场原声） 02:00
+${replace}/967177916
+#EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】王信伯4-1帕特里克·惠兰（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】王信伯4-1帕特里克·惠兰（赛场原声） 02:00
+${replace}/967177465
+#EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】阿什利·卡蒂4-3斯佳辉（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】阿什利·卡蒂4-3斯佳辉（赛场原声） 02:00
+${replace}/967178803
+#EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】肖国栋4-2江俊（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】肖国栋4-2江俊（赛场原声） 02:00
+${replace}/967177492
+#EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】贾德·特鲁姆普4-2迪伦·埃默里（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】贾德·特鲁姆普4-2迪伦·埃默里（赛场原声） 02:00
+${replace}/967178221
+#EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】马克·塞尔比4-3大卫·利利（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】马克·塞尔比4-3大卫·利利（赛场原声） 02:00
+${replace}/967178826
+#EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】约翰·希金斯4-1侯赛因·瓦菲（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】约翰·希金斯4-1侯赛因·瓦菲（赛场原声） 02:00
+${replace}/967177979
 #EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】克里斯·韦克林4-3卢卡·布雷切尔（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 【回放】克里斯·韦克林4-3卢卡·布雷切尔（赛场原声） 02:00
 ${replace}/967177453
-#EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 26/27斯诺克英国公开赛第1轮回放：王信伯4-1帕特里克·惠兰（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 26/27斯诺克英国公开赛第1轮回放：王信伯4-1帕特里克·惠兰（赛场原声） 02:00
-${replace}/967177465
-#EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 26/27斯诺克英国公开赛第1轮回放：肖国栋4-2江俊（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 26/27斯诺克英国公开赛第1轮回放：肖国栋4-2江俊（赛场原声） 02:00
-${replace}/967177492
-#EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 26/27斯诺克英国公开赛第1轮回放：庞俊旭4-1尼尔·罗伯逊（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 26/27斯诺克英国公开赛第1轮回放：庞俊旭4-1尼尔·罗伯逊（赛场原声） 02:00
-${replace}/967177916
-#EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 26/27赛季斯诺克英国公开赛第1轮回放：约翰·希金斯4-1侯赛因·瓦菲（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 26/27赛季斯诺克英国公开赛第1轮回放：约翰·希金斯4-1侯赛因·瓦菲（赛场原声） 02:00
-${replace}/967177979
-#EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 26/27赛季斯诺克英国公开赛第1轮回放：贾德·特鲁姆普4-2迪伦·埃默里（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 26/27赛季斯诺克英国公开赛第1轮回放：贾德·特鲁姆普4-2迪伦·埃默里（赛场原声） 02:00
-${replace}/967178221
-#EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 26/27斯诺克英国公开赛第1轮回放：阿什利·卡蒂4-3斯佳辉（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 26/27斯诺克英国公开赛第1轮回放：阿什利·卡蒂4-3斯佳辉（赛场原声） 02:00
-${replace}/967178803
-#EXTINF:-1 tvg-id="肖国栋4-2江俊 庞俊旭晋级" tvg-name="斯诺克 肖国栋4-2江俊 庞俊旭晋级 26/27斯诺克英国公开赛第1轮回放：马克·塞尔比4-3大卫·利利（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 肖国栋4-2江俊 庞俊旭晋级 26/27斯诺克英国公开赛第1轮回放：马克·塞尔比4-3大卫·利利（赛场原声） 02:00
-${replace}/967178826
 #EXTINF:-1 tvg-id="黑山VS乌克兰" tvg-name="男篮世预赛 黑山VS乌克兰 全场回放（赛场原声） 02:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-昨天",男篮世预赛 黑山VS乌克兰 全场回放（赛场原声） 02:20
 ${replace}/967177354
 #EXTINF:-1 tvg-id="亚特兰大VS博洛尼亚" tvg-name="意甲 亚特兰大VS博洛尼亚 全场回放（张昊泽） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-昨天",意甲 亚特兰大VS博洛尼亚 全场回放（张昊泽） 02:30
@@ -293,8 +293,6 @@ ${replace}/967176963
 ${replace}/967176929
 #EXTINF:-1 tvg-id="阿斯顿维拉VS阿森纳" tvg-name="英超 阿斯顿维拉VS阿森纳 全场回放（AI智慧观赛） 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-昨天",英超 阿斯顿维拉VS阿森纳 全场回放（AI智慧观赛） 02:45
 ${replace}/967177130
-#EXTINF:-1 tvg-id="阿斯顿维拉VS阿森纳" tvg-name="英超 阿斯顿维拉VS阿森纳 全场回放 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-昨天",英超 阿斯顿维拉VS阿森纳 全场回放 02:45
-${replace}/967177373
 #EXTINF:-1 tvg-id="巴塞罗那VS巴列卡诺" tvg-name="西甲 巴塞罗那VS巴列卡诺 全场回放（梁祥宇、李欣） 03:15" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-昨天",西甲 巴塞罗那VS巴列卡诺 全场回放（梁祥宇、李欣） 03:15
 ${replace}/967177262
 #EXTINF:-1 tvg-id="冰岛VS土耳其" tvg-name="男篮世预赛 冰岛VS土耳其 全场回放（周鹏） 03:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-昨天",男篮世预赛 冰岛VS土耳其 全场回放（周鹏） 03:20
@@ -359,10 +357,10 @@ ${replace}/967191719
 ${replace}/967191827
 #EXTINF:-1 tvg-id="维瓦雷利开门红 肯日古洛夫横扫" tvg-name="WTT 维瓦雷利开门红 肯日古洛夫横扫 全场回放（四号桌） 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 维瓦雷利开门红 肯日古洛夫横扫 全场回放（四号桌） 19:00
 ${replace}/967190278
-#EXTINF:-1 tvg-id="中国U18男篮VSVERITAS Academy预科学院" tvg-name="中国篮协“未来杯”国际篮球挑战赛 中国U18男篮VSVERITAS Academy预科学院 全场回放 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/31/100000001533106d96ff.png" group-title="体育-昨天",中国篮协“未来杯”国际篮球挑战赛 中国U18男篮VSVERITAS Academy预科学院 全场回放 19:20
-${replace}/967191249
-#EXTINF:-1 tvg-id="中国U18男篮VSVERITAS Academy预科学院" tvg-name="中国篮协“未来杯”国际篮球挑战赛 中国U18男篮VSVERITAS Academy预科学院 全场回放 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/31/100000001533106d96ff.png" group-title="体育-昨天",中国篮协“未来杯”国际篮球挑战赛 中国U18男篮VSVERITAS Academy预科学院 全场回放 19:20
+#EXTINF:-1 tvg-id="中国U18男篮VSVERITAS Academy预科学院" tvg-name="中国篮协“未来杯”国际篮球挑战赛 中国U18男篮VSVERITAS Academy预科学院 全场回放（现场解说） 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/31/100000001533106d96ff.png" group-title="体育-昨天",中国篮协“未来杯”国际篮球挑战赛 中国U18男篮VSVERITAS Academy预科学院 全场回放（现场解说） 19:20
 ${replace}/967191562
+#EXTINF:-1 tvg-id="中国U18男篮VSVERITAS Academy预科学院" tvg-name="中国篮协“未来杯”国际篮球挑战赛 中国U18男篮VSVERITAS Academy预科学院 全场回放（赛场原声） 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/31/100000001533106d96ff.png" group-title="体育-昨天",中国篮协“未来杯”国际篮球挑战赛 中国U18男篮VSVERITAS Academy预科学院 全场回放（赛场原声） 19:20
+${replace}/967191249
 #EXTINF:-1 tvg-id="山东泰山VS上海海港" tvg-name="足协杯 山东泰山VS上海海港 全场回放（石庆圣、刘越、邵凌霄） 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/210621e32.png" group-title="体育-昨天",足协杯 山东泰山VS上海海港 全场回放（石庆圣、刘越、邵凌霄） 19:30
 ${replace}/967190769
 #EXTINF:-1 tvg-id="山东泰山VS上海海港" tvg-name="足协杯 山东泰山VS上海海港 全场回放（AI智慧观赛） 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/210621e32.png" group-title="体育-昨天",足协杯 山东泰山VS上海海港 全场回放（AI智慧观赛） 19:30
@@ -375,42 +373,30 @@ ${replace}/967190642
 ${replace}/967191266
 #EXTINF:-1 tvg-id="大连英博海发VS上海申花" tvg-name="足协杯 大连英博海发VS上海申花 全场回放（智能解说） 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/210621e32.png" group-title="体育-昨天",足协杯 大连英博海发VS上海申花 全场回放（智能解说） 19:30
 ${replace}/967191277
+#EXTINF:-1 tvg-id="大连英博海发VS上海申花" tvg-name="足协杯 大连英博海发VS上海申花 全场回放 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/210621e32.png" group-title="体育-昨天",足协杯 大连英博海发VS上海申花 全场回放 19:30
+${replace}/967195006
 #EXTINF:-1 tvg-id="北京国安VS兰州陇原竞技" tvg-name="足协杯 北京国安VS兰州陇原竞技 全场回放（张昊泽） 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/210621e32.png" group-title="体育-昨天",足协杯 北京国安VS兰州陇原竞技 全场回放（张昊泽） 19:20
 ${replace}/967190740
-#EXTINF:-1 tvg-id="张安达险胜晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 【回放】奥利弗·莱恩斯1-4赵心童（柏林） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 【回放】奥利弗·莱恩斯1-4赵心童（柏林） 20:00
+#EXTINF:-1 tvg-id="赵心童常冰玉晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】奥利弗·莱恩斯1-4赵心童（柏林） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】奥利弗·莱恩斯1-4赵心童（柏林） 20:00
 ${replace}/967191443
-#EXTINF:-1 tvg-id="张安达险胜晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 【回放】恰查蓬·纳萨1-4常冰玉（乔迁） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 【回放】恰查蓬·纳萨1-4常冰玉（乔迁） 20:00
+#EXTINF:-1 tvg-id="赵心童常冰玉晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】恰查蓬·纳萨1-4常冰玉（乔迁） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】恰查蓬·纳萨1-4常冰玉（乔迁） 20:00
 ${replace}/967190637
-#EXTINF:-1 tvg-id="张安达险胜晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 【回放】张安达4-3克里斯·韦克林（乔迁） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 【回放】张安达4-3克里斯·韦克林（乔迁） 20:00
+#EXTINF:-1 tvg-id="赵心童常冰玉晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】张安达4-3克里斯·韦克林（乔迁） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】张安达4-3克里斯·韦克林（乔迁） 20:00
 ${replace}/967193271
-#EXTINF:-1 tvg-id="张安达险胜晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 【回放】吕昊天4-2肖国栋（秦正） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 【回放】吕昊天4-2肖国栋（秦正） 20:00
+#EXTINF:-1 tvg-id="赵心童常冰玉晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】吕昊天4-2肖国栋（秦正） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】吕昊天4-2肖国栋（秦正） 20:00
 ${replace}/967190837
-#EXTINF:-1 tvg-id="张安达险胜晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 【回放】吴宜泽1-4凯伦·威尔逊（柏林） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 【回放】吴宜泽1-4凯伦·威尔逊（柏林） 20:00
+#EXTINF:-1 tvg-id="赵心童常冰玉晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】吴宜泽1-4凯伦·威尔逊（柏林） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】吴宜泽1-4凯伦·威尔逊（柏林） 20:00
 ${replace}/967191723
-#EXTINF:-1 tvg-id="张安达险胜晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 【回放】刘杨2-4杜安·琼斯（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 【回放】刘杨2-4杜安·琼斯（赛场原声） 20:00
+#EXTINF:-1 tvg-id="赵心童常冰玉晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】刘杨2-4杜安·琼斯（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】刘杨2-4杜安·琼斯（赛场原声） 20:00
 ${replace}/967191703
-#EXTINF:-1 tvg-id="张安达险胜晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 【回放】约书亚·托蒙徳2-4阿尔特米·齐津斯（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 【回放】约书亚·托蒙徳2-4阿尔特米·齐津斯（赛场原声） 20:00
+#EXTINF:-1 tvg-id="赵心童常冰玉晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】约书亚·托蒙徳2-4阿尔特米·齐津斯（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】约书亚·托蒙徳2-4阿尔特米·齐津斯（赛场原声） 20:00
 ${replace}/967193415
-#EXTINF:-1 tvg-id="张安达险胜晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 26/27赛季斯诺克英国公开赛第2轮回放：马哈茂德·埃尔·哈雷迪2-4利亚姆·海菲尔德（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达险胜晋级 吴宜泽1-4囧哥 26/27赛季斯诺克英国公开赛第2轮回放：马哈茂德·埃尔·哈雷迪2-4利亚姆·海菲尔德（赛场原声） 20:00
+#EXTINF:-1 tvg-id="赵心童常冰玉晋级 吴宜泽1-4囧哥" tvg-name="斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】马哈茂德·埃尔·哈雷迪2-4利亚姆·海菲尔德（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 赵心童常冰玉晋级 吴宜泽1-4囧哥 【回放】马哈茂德·埃尔·哈雷迪2-4利亚姆·海菲尔德（赛场原声） 20:00
 ${replace}/967193826
-#EXTINF:-1 tvg-id="小米拉、科博利晋级次轮" tvg-name="美国网球公开赛 小米拉、科博利晋级次轮 王乐之 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 小米拉、科博利晋级次轮 王乐之 00:30
-${replace}/967183235
-#EXTINF:-1 tvg-id="小米拉、科博利晋级次轮" tvg-name="美国网球公开赛 小米拉、科博利晋级次轮 17号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 小米拉、科博利晋级次轮 17号球场 23:00
-${replace}/967048186
-#EXTINF:-1 tvg-id="小米拉、科博利晋级次轮" tvg-name="美国网球公开赛 小米拉、科博利晋级次轮 大看台球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 小米拉、科博利晋级次轮 大看台球场 23:00
-${replace}/967048171
-#EXTINF:-1 tvg-id="小米拉、科博利晋级次轮" tvg-name="美国网球公开赛 小米拉、科博利晋级次轮 5号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 小米拉、科博利晋级次轮 5号球场 23:00
-${replace}/967048196
-#EXTINF:-1 tvg-id="小米拉、科博利晋级次轮" tvg-name="美国网球公开赛 小米拉、科博利晋级次轮 6号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 小米拉、科博利晋级次轮 6号球场 23:00
-${replace}/967048221
-#EXTINF:-1 tvg-id="小米拉、科博利晋级次轮" tvg-name="美国网球公开赛 小米拉、科博利晋级次轮 10号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 小米拉、科博利晋级次轮 10号球场 23:00
-${replace}/967048247
-#EXTINF:-1 tvg-id="小米拉、科博利晋级次轮" tvg-name="美国网球公开赛 小米拉、科博利晋级次轮 11号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 小米拉、科博利晋级次轮 11号球场 23:00
-${replace}/967048266
-#EXTINF:-1 tvg-id="小米拉、科博利晋级次轮" tvg-name="美国网球公开赛 小米拉、科博利晋级次轮 12号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 小米拉、科博利晋级次轮 12号球场 23:00
-${replace}/967048280
-#EXTINF:-1 tvg-id="小米拉、科博利晋级次轮" tvg-name="美国网球公开赛 小米拉、科博利晋级次轮 13号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 小米拉、科博利晋级次轮 13号球场 23:00
-${replace}/967048289
+#EXTINF:-1 tvg-id="小米拉、科博利晋级次轮" tvg-name="美国网球公开赛 小米拉、科博利晋级次轮 阿瑟・阿什球场 23:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 小米拉、科博利晋级次轮 阿瑟・阿什球场 23:30
+${replace}/967048324
+#EXTINF:-1 tvg-id="小米拉、科博利晋级次轮" tvg-name="美国网球公开赛 小米拉、科博利晋级次轮 鸿昆 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 小米拉、科博利晋级次轮 鸿昆 08:30
+${replace}/967182943
 #EXTINF:-1 tvg-id="小米拉、科博利晋级次轮" tvg-name="美国网球公开赛 小米拉、科博利晋级次轮 国际信号 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 小米拉、科博利晋级次轮 国际信号 23:00
 ${replace}/967048136
 #EXTINF:-1 tvg-id="小米拉、科博利晋级次轮" tvg-name="美国网球公开赛 小米拉、科博利晋级次轮 英文解说 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 小米拉、科博利晋级次轮 英文解说 23:00
@@ -421,25 +407,43 @@ ${replace}/967194019
 ${replace}/967194036
 #EXTINF:-1 tvg-id="帕尔马VS克雷莫内塞" tvg-name="意大利杯 帕尔马VS克雷莫内塞 全场回放（张昊泽） 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="体育-今天",意大利杯 帕尔马VS克雷莫内塞 全场回放（张昊泽） 23:45
 ${replace}/967193555
-#EXTINF:-1 tvg-id="丁俊晖4-0速胜 庞俊旭顺利晋级" tvg-name="斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 1号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 1号桌 02:00
-${replace}/967153822
+#EXTINF:-1 tvg-id="丁俊晖4-0速胜 庞俊旭顺利晋级" tvg-name="斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】肖恩·奥沙利文0-4丁俊晖（朱峰立） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】肖恩·奥沙利文0-4丁俊晖（朱峰立） 02:00
+${replace}/967194046
+#EXTINF:-1 tvg-id="丁俊晖4-0速胜 庞俊旭顺利晋级" tvg-name="斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】肖恩·奥沙利文0-4丁俊晖（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】肖恩·奥沙利文0-4丁俊晖（赛场原声） 02:00
+${replace}/967194051
+#EXTINF:-1 tvg-id="丁俊晖4-0速胜 庞俊旭顺利晋级" tvg-name="斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】米歇尔·曼恩3-4杰克·利索夫斯基（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】米歇尔·曼恩3-4杰克·利索夫斯基（赛场原声） 02:00
+${replace}/967194281
+#EXTINF:-1 tvg-id="丁俊晖4-0速胜 庞俊旭顺利晋级" tvg-name="斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】斯蒂芬·霍尔沃斯2-4辛格·查达（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】斯蒂芬·霍尔沃斯2-4辛格·查达（赛场原声） 02:00
+${replace}/967194135
+#EXTINF:-1 tvg-id="丁俊晖4-0速胜 庞俊旭顺利晋级" tvg-name="斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】埃利奥特·斯莱塞4-1杰米·克拉克（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】埃利奥特·斯莱塞4-1杰米·克拉克（赛场原声） 02:00
+${replace}/967194159
+#EXTINF:-1 tvg-id="丁俊晖4-0速胜 庞俊旭顺利晋级" tvg-name="斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】庞俊旭4-2利亚姆·格雷姆（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】庞俊旭4-2利亚姆·格雷姆（赛场原声） 02:00
+${replace}/967194375
+#EXTINF:-1 tvg-id="丁俊晖4-0速胜 庞俊旭顺利晋级" tvg-name="斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】菲尔·奥凯恩0-4迈克尔·霍尔特（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】菲尔·奥凯恩0-4迈克尔·霍尔特（赛场原声） 02:00
+${replace}/967194414
+#EXTINF:-1 tvg-id="丁俊晖4-0速胜 庞俊旭顺利晋级" tvg-name="斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】阿里·卡特3-4塔纳瓦特·提拉蓬派班（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】阿里·卡特3-4塔纳瓦特·提拉蓬派班（赛场原声） 02:00
+${replace}/967194460
+#EXTINF:-1 tvg-id="丁俊晖4-0速胜 庞俊旭顺利晋级" tvg-name="斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】利亚姆·戴维斯4-2巴里·霍金斯（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖4-0速胜 庞俊旭顺利晋级 【回放】利亚姆·戴维斯4-2巴里·霍金斯（赛场原声） 02:00
+${replace}/967194533
 #EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意大利杯 都灵VS蒙扎 全场回放（乔迁） 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="体育-今天",意大利杯 都灵VS蒙扎 全场回放（乔迁） 02:45
 ${replace}/967194096
-#EXTINF:-1 tvg-id="《白大拿挑战者系列赛》第10季4周" tvg-name="UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 郑文祺 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000005171067c63b.png" group-title="体育-今天",UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 郑文祺 06:55
-${replace}/967181971
-#EXTINF:-1 tvg-id="《白大拿挑战者系列赛》第10季4周" tvg-name="UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 英文原声 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000005171067c63b.png" group-title="体育-今天",UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 英文原声 06:55
-${replace}/967182050
-#EXTINF:-1 tvg-id="《白大拿挑战者系列赛》第10季4周" tvg-name="UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 智能字幕 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000005171067c63b.png" group-title="体育-今天",UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 智能字幕 06:55
-${replace}/967183912
-#EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第168期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 咪咕体育日报 第168期 08:00
-${replace}/967158145
+#EXTINF:-1 tvg-id="《白大拿挑战者系列赛》第10季4周" tvg-name="UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 白大拿挑战赛第10季宣传片：勇士的游戏 巨星的摇篮 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000005171067c63b.png" group-title="体育-今天",UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 白大拿挑战赛第10季宣传片：勇士的游戏 巨星的摇篮 06:55
+${replace}/966475200
+#EXTINF:-1 tvg-id="《白大拿挑战者系列赛》第10季4周" tvg-name="UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 白大拿挑战者系列赛第10季4周回放：帕特里克-里维拉VS亚当-达比 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000005171067c63b.png" group-title="体育-今天",UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 白大拿挑战者系列赛第10季4周回放：帕特里克-里维拉VS亚当-达比 06:55
+${replace}/967195139
+#EXTINF:-1 tvg-id="《白大拿挑战者系列赛》第10季4周" tvg-name="UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 白大拿挑战者系列赛第10季4周全场回放（郑文祺） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000005171067c63b.png" group-title="体育-今天",UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 白大拿挑战者系列赛第10季4周全场回放（郑文祺） 06:55
+${replace}/967195586
+#EXTINF:-1 tvg-id="《白大拿挑战者系列赛》第10季4周" tvg-name="UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 白大拿挑战者系列赛第10季4周全场回放（英文原声） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000005171067c63b.png" group-title="体育-今天",UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 白大拿挑战者系列赛第10季4周全场回放（英文原声） 06:55
+${replace}/967196245
+#EXTINF:-1 tvg-id="《白大拿挑战者系列赛》第10季4周" tvg-name="UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 白大拿挑战者系列赛第10季4周全场回放（赛场原声） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000005171067c63b.png" group-title="体育-今天",UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季4周 白大拿挑战者系列赛第10季4周全场回放（赛场原声） 06:55
+${replace}/967196473
 #EXTINF:-1 tvg-id="兹维列夫VS索内戈" tvg-name="美国网球公开赛 兹维列夫VS索内戈 鸿昆 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 兹维列夫VS索内戈 鸿昆 08:30
 ${replace}/967182943
 #EXTINF:-1 tvg-id="兹维列夫VS索内戈" tvg-name="美国网球公开赛 兹维列夫VS索内戈 赛场原声 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 兹维列夫VS索内戈 赛场原声 08:30
 ${replace}/967182938
-#EXTINF:-1 tvg-id="娃卉组合、李诗沣领衔出战" tvg-name="BWF 娃卉组合、李诗沣领衔出战 CCTV5+ 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 娃卉组合、李诗沣领衔出战 CCTV5+ 09:00
-${replace}/967188621
-#EXTINF:-1 tvg-id="卡兹曼首秀、肯日古洛夫冲两连胜" tvg-name="WTT 卡兹曼首秀、肯日古洛夫冲两连胜 凌维康 赵曦 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 卡兹曼首秀、肯日古洛夫冲两连胜 凌维康 赵曦 13:00
+#EXTINF:-1 tvg-id="娃卉组合、李诗沣领衔出战" tvg-name="BWF 娃卉组合、李诗沣领衔出战 CCTV5 12:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 娃卉组合、李诗沣领衔出战 CCTV5 12:55
+${replace}/967188684
+#EXTINF:-1 tvg-id="卡兹曼首秀、肯日古洛夫冲两连胜" tvg-name="WTT 卡兹曼首秀、肯日古洛夫冲两连胜 凌维康 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 卡兹曼首秀、肯日古洛夫冲两连胜 凌维康 13:00
 ${replace}/966866348
 #EXTINF:-1 tvg-id="卡兹曼首秀、肯日古洛夫冲两连胜" tvg-name="WTT 卡兹曼首秀、肯日古洛夫冲两连胜 1号桌 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 卡兹曼首秀、肯日古洛夫冲两连胜 1号桌 13:00
 ${replace}/966866273
@@ -453,13 +457,13 @@ ${replace}/966866343
 ${replace}/967154780
 #EXTINF:-1 tvg-id="VERITAS Academy预科学院VS清华附中" tvg-name="中国篮协“未来杯”国际篮球挑战赛 VERITAS Academy预科学院VS清华附中 清流播出 16:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/31/100000001533106d96ff.png" group-title="体育-今天",中国篮协“未来杯”国际篮球挑战赛 VERITAS Academy预科学院VS清华附中 清流播出 16:20
 ${replace}/967154754
-#EXTINF:-1 tvg-id="范争一、龙泽煌出战" tvg-name="斯诺克 范争一、龙泽煌出战 1号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 范争一、龙泽煌出战 1号桌 17:00
+#EXTINF:-1 tvg-id="四场中英对决！雷佩凡PK塞尔比" tvg-name="斯诺克 四场中英对决！雷佩凡PK塞尔比 1号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 四场中英对决！雷佩凡PK塞尔比 1号桌 17:00
 ${replace}/967153469
-#EXTINF:-1 tvg-id="范争一、龙泽煌出战" tvg-name="斯诺克 范争一、龙泽煌出战 2号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 范争一、龙泽煌出战 2号桌 17:00
+#EXTINF:-1 tvg-id="四场中英对决！雷佩凡PK塞尔比" tvg-name="斯诺克 四场中英对决！雷佩凡PK塞尔比 2号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 四场中英对决！雷佩凡PK塞尔比 2号桌 17:00
 ${replace}/967153495
-#EXTINF:-1 tvg-id="范争一、龙泽煌出战" tvg-name="斯诺克 范争一、龙泽煌出战 3号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 范争一、龙泽煌出战 3号桌 17:00
+#EXTINF:-1 tvg-id="四场中英对决！雷佩凡PK塞尔比" tvg-name="斯诺克 四场中英对决！雷佩凡PK塞尔比 3号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 四场中英对决！雷佩凡PK塞尔比 3号桌 17:00
 ${replace}/967153519
-#EXTINF:-1 tvg-id="范争一、龙泽煌出战" tvg-name="斯诺克 范争一、龙泽煌出战 4号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 范争一、龙泽煌出战 4号桌 17:00
+#EXTINF:-1 tvg-id="四场中英对决！雷佩凡PK塞尔比" tvg-name="斯诺克 四场中英对决！雷佩凡PK塞尔比 4号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 四场中英对决！雷佩凡PK塞尔比 4号桌 17:00
 ${replace}/967153552
 #EXTINF:-1 tvg-id="NBA精彩重播：魔术vs湖人" tvg-name="NBA经典赛事 NBA精彩重播：魔术vs湖人 杨健 曾令旭 佳依 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA精彩重播：魔术vs湖人 杨健 曾令旭 佳依 18:00
 ${replace}/966323774
@@ -489,13 +493,13 @@ ${replace}/966999355
 ${replace}/966999023
 #EXTINF:-1 tvg-id="云南玉昆VS重庆铜梁龙" tvg-name="足协杯 云南玉昆VS重庆铜梁龙 智能解说 19:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/210621e32.png" group-title="体育-今天",足协杯 云南玉昆VS重庆铜梁龙 智能解说 19:55
 ${replace}/967054741
-#EXTINF:-1 tvg-id="白雨露、王信伯登场" tvg-name="斯诺克 白雨露、王信伯登场 1号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 白雨露、王信伯登场 1号桌 20:00
+#EXTINF:-1 tvg-id="小特、墨菲、白雨露出战 赵心童接台" tvg-name="斯诺克 小特、墨菲、白雨露出战 赵心童接台 1号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 小特、墨菲、白雨露出战 赵心童接台 1号桌 20:00
 ${replace}/967153586
-#EXTINF:-1 tvg-id="白雨露、王信伯登场" tvg-name="斯诺克 白雨露、王信伯登场 2号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 白雨露、王信伯登场 2号桌 20:00
+#EXTINF:-1 tvg-id="小特、墨菲、白雨露出战 赵心童接台" tvg-name="斯诺克 小特、墨菲、白雨露出战 赵心童接台 2号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 小特、墨菲、白雨露出战 赵心童接台 2号桌 20:00
 ${replace}/967153642
-#EXTINF:-1 tvg-id="白雨露、王信伯登场" tvg-name="斯诺克 白雨露、王信伯登场 3号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 白雨露、王信伯登场 3号桌 20:00
+#EXTINF:-1 tvg-id="小特、墨菲、白雨露出战 赵心童接台" tvg-name="斯诺克 小特、墨菲、白雨露出战 赵心童接台 3号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 小特、墨菲、白雨露出战 赵心童接台 3号桌 20:00
 ${replace}/967153648
-#EXTINF:-1 tvg-id="白雨露、王信伯登场" tvg-name="斯诺克 白雨露、王信伯登场 4号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 白雨露、王信伯登场 4号桌 20:00
+#EXTINF:-1 tvg-id="小特、墨菲、白雨露出战 赵心童接台" tvg-name="斯诺克 小特、墨菲、白雨露出战 赵心童接台 4号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 小特、墨菲、白雨露出战 赵心童接台 4号桌 20:00
 ${replace}/967153666
 #EXTINF:-1 tvg-id="《早安美网》第三期" tvg-name="美国网球公开赛 《早安美网》第三期 《早安美网》 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 《早安美网》第三期 《早安美网》 20:00
 ${replace}/967052001
@@ -531,18 +535,20 @@ ${replace}/967048395
 ${replace}/967027374
 #EXTINF:-1 tvg-id="乌迪内斯VS威尼斯" tvg-name="意大利杯 乌迪内斯VS威尼斯 赛场原声 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="体育-明天",意大利杯 乌迪内斯VS威尼斯 赛场原声 23:45
 ${replace}/967027368
-#EXTINF:-1 tvg-id="32进16" tvg-name="斯诺克 32进16 1号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 32进16 1号桌 02:00
+#EXTINF:-1 tvg-id="丁俊晖、吕昊天出战 常冰玉接台战琼斯" tvg-name="斯诺克 丁俊晖、吕昊天出战 常冰玉接台战琼斯 1号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 丁俊晖、吕昊天出战 常冰玉接台战琼斯 1号桌 02:00
 ${replace}/967153675
-#EXTINF:-1 tvg-id="32进16" tvg-name="斯诺克 32进16 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 32进16 2号桌 02:00
+#EXTINF:-1 tvg-id="丁俊晖、吕昊天出战 常冰玉接台战琼斯" tvg-name="斯诺克 丁俊晖、吕昊天出战 常冰玉接台战琼斯 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 丁俊晖、吕昊天出战 常冰玉接台战琼斯 2号桌 02:00
 ${replace}/967153694
-#EXTINF:-1 tvg-id="32进16" tvg-name="斯诺克 32进16 3号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 32进16 3号桌 02:00
+#EXTINF:-1 tvg-id="丁俊晖、吕昊天出战 常冰玉接台战琼斯" tvg-name="斯诺克 丁俊晖、吕昊天出战 常冰玉接台战琼斯 3号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 丁俊晖、吕昊天出战 常冰玉接台战琼斯 3号桌 02:00
 ${replace}/967153705
-#EXTINF:-1 tvg-id="32进16" tvg-name="斯诺克 32进16 4号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 32进16 4号桌 02:00
+#EXTINF:-1 tvg-id="丁俊晖、吕昊天出战 常冰玉接台战琼斯" tvg-name="斯诺克 丁俊晖、吕昊天出战 常冰玉接台战琼斯 4号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 丁俊晖、吕昊天出战 常冰玉接台战琼斯 4号桌 02:00
 ${replace}/967153722
 #EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第169期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-明天",咪咕体育日报 undefined 咪咕体育日报 第169期 08:00
 ${replace}/967158109
 #EXTINF:-1 tvg-id="环上海新城自行车赛" tvg-name="中国自行车运动协会系列赛 环上海新城自行车赛 解说 09:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png" group-title="体育-明天",中国自行车运动协会系列赛 环上海新城自行车赛 解说 09:15
 ${replace}/967181044
+#EXTINF:-1 tvg-id="障碍跑世界锦标赛Day1" tvg-name="UIPM障碍跑世界锦标赛 障碍跑世界锦标赛Day1 解说 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/26/10000000153010618024.png" group-title="体育-明天",UIPM障碍跑世界锦标赛 障碍跑世界锦标赛Day1 解说 10:00
+${replace}/966998686
 #EXTINF:-1 tvg-id="围甲联赛第13轮" tvg-name="中国围棋甲级联赛 围甲联赛第13轮 解说 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/27/100000001472106214f8.png" group-title="体育-明天",中国围棋甲级联赛 围甲联赛第13轮 解说 14:00
 ${replace}/965593945
 #EXTINF:-1 tvg-id="男女单打1/16决赛、双打1/8决赛" tvg-name="WTT 男女单打1/16决赛、双打1/8决赛 凌维康 刘馨蕊 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打1/16决赛、双打1/8决赛 凌维康 刘馨蕊 14:00
