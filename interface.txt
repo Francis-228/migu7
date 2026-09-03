@@ -297,19 +297,19 @@ ${replace}/967208417
 ${replace}/967208318
 #EXTINF:-1 tvg-id="范争一、龙泽煌晋级 雷佩凡3-4塞尔比" tvg-name="斯诺克 范争一、龙泽煌晋级 雷佩凡3-4塞尔比 【回放】雷佩凡3-4马克·塞尔比（陶哲铭） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 范争一、龙泽煌晋级 雷佩凡3-4塞尔比 【回放】雷佩凡3-4马克·塞尔比（陶哲铭） 17:00
 ${replace}/967207006
+#EXTINF:-1 tvg-id="范争一、龙泽煌晋级 雷佩凡3-4塞尔比" tvg-name="斯诺克 范争一、龙泽煌晋级 雷佩凡3-4塞尔比 【回放】雷佩凡3-4马克·塞尔比（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 范争一、龙泽煌晋级 雷佩凡3-4塞尔比 【回放】雷佩凡3-4马克·塞尔比（赛场原声） 17:00
+${replace}/967208096
 #EXTINF:-1 tvg-id="范争一、龙泽煌晋级 雷佩凡3-4塞尔比" tvg-name="斯诺克 范争一、龙泽煌晋级 雷佩凡3-4塞尔比 【回放】龙泽煌4-2阿什利·卡蒂（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 范争一、龙泽煌晋级 雷佩凡3-4塞尔比 【回放】龙泽煌4-2阿什利·卡蒂（赛场原声） 17:00
 ${replace}/967206351
 #EXTINF:-1 tvg-id="范争一、龙泽煌晋级 雷佩凡3-4塞尔比" tvg-name="斯诺克 范争一、龙泽煌晋级 雷佩凡3-4塞尔比 【回放】范争一4-3马修·史蒂文斯（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 范争一、龙泽煌晋级 雷佩凡3-4塞尔比 【回放】范争一4-3马修·史蒂文斯（赛场原声） 17:00
 ${replace}/967207447
 #EXTINF:-1 tvg-id="范争一、龙泽煌晋级 雷佩凡3-4塞尔比" tvg-name="斯诺克 范争一、龙泽煌晋级 雷佩凡3-4塞尔比 【回放】姚朋成1-4斯坦·穆迪（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 范争一、龙泽煌晋级 雷佩凡3-4塞尔比 【回放】姚朋成1-4斯坦·穆迪（赛场原声） 17:00
 ${replace}/967205768
-#EXTINF:-1 tvg-id="范争一、龙泽煌晋级 雷佩凡3-4塞尔比" tvg-name="斯诺克 范争一、龙泽煌晋级 雷佩凡3-4塞尔比 26/27赛季斯诺克英国公开赛第2轮回放：雷佩凡3-4马克·塞尔比（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 范争一、龙泽煌晋级 雷佩凡3-4塞尔比 26/27赛季斯诺克英国公开赛第2轮回放：雷佩凡3-4马克·塞尔比（赛场原声） 17:00
-${replace}/967208096
 #EXTINF:-1 tvg-id="NBA精彩重播：魔术vs湖人" tvg-name="NBA经典赛事 NBA精彩重播：魔术vs湖人 全场回放（杨健、曾令旭、佳依） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-昨天",NBA经典赛事 NBA精彩重播：魔术vs湖人 全场回放（杨健、曾令旭、佳依） 18:00
 ${replace}/963264025
-#EXTINF:-1 tvg-id="福州海侠5-4长沙旺旺" tvg-name="CPB中国棒球城市联赛 福州海侠5-4长沙旺旺 2026赛季CPB中国棒球城市联赛上海赛区全场回放：福州海侠5-4长沙旺旺（官方解说） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png" group-title="体育-昨天",CPB中国棒球城市联赛 福州海侠5-4长沙旺旺 2026赛季CPB中国棒球城市联赛上海赛区全场回放：福州海侠5-4长沙旺旺（官方解说） 18:00
+#EXTINF:-1 tvg-id="福州海侠5-4长沙旺旺" tvg-name="CPB中国棒球城市联赛 福州海侠5-4长沙旺旺 【全场回放】福州海侠5-4长沙旺旺（官方解说） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png" group-title="体育-昨天",CPB中国棒球城市联赛 福州海侠5-4长沙旺旺 【全场回放】福州海侠5-4长沙旺旺（官方解说） 18:00
 ${replace}/967209186
-#EXTINF:-1 tvg-id="北京正大龙3-1厦门海豚" tvg-name="CPB中国棒球城市联赛 北京正大龙3-1厦门海豚 2026赛季CPB中国棒球城市联赛深圳赛区全场回放：北京正大龙3-1厦门海豚（官方解说） 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png" group-title="体育-昨天",CPB中国棒球城市联赛 北京正大龙3-1厦门海豚 2026赛季CPB中国棒球城市联赛深圳赛区全场回放：北京正大龙3-1厦门海豚（官方解说） 18:30
+#EXTINF:-1 tvg-id="北京正大龙3-1厦门海豚" tvg-name="CPB中国棒球城市联赛 北京正大龙3-1厦门海豚 【全场回放】北京正大龙3-1厦门海豚（官方解说） 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png" group-title="体育-昨天",CPB中国棒球城市联赛 北京正大龙3-1厦门海豚 【全场回放】北京正大龙3-1厦门海豚（官方解说） 18:30
 ${replace}/967209429
 #EXTINF:-1 tvg-id="倪夏莲五局险胜、方博男双首秀迎横扫" tvg-name="WTT 倪夏莲五局险胜、方博男双首秀迎横扫 全场回放（徐铭辰） 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 倪夏莲五局险胜、方博男双首秀迎横扫 全场回放（徐铭辰） 19:00
 ${replace}/967207992
@@ -345,74 +345,104 @@ ${replace}/967209641
 ${replace}/967210124
 #EXTINF:-1 tvg-id="赵心童、王信伯晋级 白雨露惜败" tvg-name="斯诺克 赵心童、王信伯晋级 白雨露惜败 【回放】大卫·吉尔伯特4-2肖恩·墨菲（赛场原声） 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 赵心童、王信伯晋级 白雨露惜败 【回放】大卫·吉尔伯特4-2肖恩·墨菲（赛场原声） 21:00
 ${replace}/967208641
-#EXTINF:-1 tvg-id="赵心童、王信伯晋级 白雨露惜败" tvg-name="斯诺克 赵心童、王信伯晋级 白雨露惜败 26/27赛季斯诺克英国公开赛第2轮回放：大卫·格雷斯4-1扎克·舒尔蒂（赛场原声） 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 赵心童、王信伯晋级 白雨露惜败 26/27赛季斯诺克英国公开赛第2轮回放：大卫·格雷斯4-1扎克·舒尔蒂（赛场原声） 21:00
+#EXTINF:-1 tvg-id="赵心童、王信伯晋级 白雨露惜败" tvg-name="斯诺克 赵心童、王信伯晋级 白雨露惜败 【回放】大卫·格雷斯4-1扎克·舒尔蒂（赛场原声） 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 赵心童、王信伯晋级 白雨露惜败 【回放】大卫·格雷斯4-1扎克·舒尔蒂（赛场原声） 21:00
 ${replace}/967210133
-#EXTINF:-1 tvg-id="赵心童、王信伯晋级 白雨露惜败" tvg-name="斯诺克 赵心童、王信伯晋级 白雨露惜败 26/27赛季斯诺克英国公开赛第2轮回放：亚伦·希尔4-2本·默滕斯（赛场原声） 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 赵心童、王信伯晋级 白雨露惜败 26/27赛季斯诺克英国公开赛第2轮回放：亚伦·希尔4-2本·默滕斯（赛场原声） 21:00
+#EXTINF:-1 tvg-id="赵心童、王信伯晋级 白雨露惜败" tvg-name="斯诺克 赵心童、王信伯晋级 白雨露惜败 【回放】亚伦·希尔4-2本·默滕斯（赛场原声） 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 赵心童、王信伯晋级 白雨露惜败 【回放】亚伦·希尔4-2本·默滕斯（赛场原声） 21:00
 ${replace}/967210396
-#EXTINF:-1 tvg-id="赵心童、王信伯晋级 白雨露惜败" tvg-name="斯诺克 赵心童、王信伯晋级 白雨露惜败 26/27赛季斯诺克英国公开赛第2轮回放：诺鹏·桑卡姆3-4约翰·希金斯（赛场原声） 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 赵心童、王信伯晋级 白雨露惜败 26/27赛季斯诺克英国公开赛第2轮回放：诺鹏·桑卡姆3-4约翰·希金斯（赛场原声） 21:00
+#EXTINF:-1 tvg-id="赵心童、王信伯晋级 白雨露惜败" tvg-name="斯诺克 赵心童、王信伯晋级 白雨露惜败 【回放】诺鹏·桑卡姆3-4约翰·希金斯（赛场原声） 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 赵心童、王信伯晋级 白雨露惜败 【回放】诺鹏·桑卡姆3-4约翰·希金斯（赛场原声） 21:00
 ${replace}/967210666
 #EXTINF:-1 tvg-id="萨索洛VS弗罗西诺内" tvg-name="意大利杯 萨索洛VS弗罗西诺内 全场回放（涂远） 20:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="体育-昨天",意大利杯 萨索洛VS弗罗西诺内 全场回放（涂远） 20:45
 ${replace}/967209057
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 李宁 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 李宁 02:00
-${replace}/967200541
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 单文强 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 单文强 02:00
-${replace}/967200518
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 阿瑟・阿什球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 阿瑟・阿什球场 23:00
-${replace}/967048421
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 阿姆斯特朗球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 阿姆斯特朗球场 23:00
-${replace}/967048437
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 大看台球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 大看台球场 23:00
-${replace}/967048462
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 17号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 17号球场 23:00
-${replace}/967048473
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 5号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 5号球场 23:00
-${replace}/967048498
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 6号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 6号球场 23:00
-${replace}/967200059
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 7号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 7号球场 23:00
-${replace}/967048515
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 10号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 10号球场 23:00
-${replace}/967048543
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 11号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 11号球场 23:00
-${replace}/967048563
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 12号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 12号球场 23:00
-${replace}/967048581
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 13号球场 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 13号球场 00:30
-${replace}/967048600
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 15号球场 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 15号球场 02:00
-${replace}/967200994
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 国际信号 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 国际信号 23:00
-${replace}/967048350
-#EXTINF:-1 tvg-id="萨巴、阿卡领衔出战单打第二轮" tvg-name="美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 英文解说 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 萨巴、阿卡领衔出战单打第二轮 英文解说 23:00
-${replace}/967048395
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】斯维托丽娜2-1乔因特（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】斯维托丽娜2-1乔因特（赛场原声） 23:00
+${replace}/967214643
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】坂本怜0-3蒂亚福（赛场原声）（50帧原画） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】坂本怜0-3蒂亚福（赛场原声）（50帧原画） 23:00
+${replace}/967213146
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第1轮】什瓦伊达3-1阿尔特迈尔（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第1轮】什瓦伊达3-1阿尔特迈尔（赛场原声） 23:00
+${replace}/967211911
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】埃切韦里3-1费恩利（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】埃切韦里3-1费恩利（赛场原声） 23:00
+${replace}/967212226
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】莱赫奇卡3-0塞缪尔（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】莱赫奇卡3-0塞缪尔（赛场原声） 23:00
+${replace}/967211736
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】约维奇2-0弗雷希（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】约维奇2-0弗雷希（赛场原声） 23:00
+${replace}/967211765
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】穆纳尔0-3林德克内希（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】穆纳尔0-3林德克内希（赛场原声） 23:00
+${replace}/967212160
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第1轮】马科斯·吉隆2-3布塞（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第1轮】马科斯·吉隆2-3布塞（赛场原声） 23:00
+${replace}/967212049
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第1轮】法比安0-3郑瑞（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第1轮】法比安0-3郑瑞（赛场原声） 23:00
+${replace}/967211827
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】梅德维德夫3-0格兹尼（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】梅德维德夫3-0格兹尼（赛场原声） 23:00
+${replace}/967209855
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】本・谢尔顿3-1胡尔卡奇（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】本・谢尔顿3-1胡尔卡奇（赛场原声） 23:00
+${replace}/967210545
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】沙波瓦洛夫3-0范阿舍（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】沙波瓦洛夫3-0范阿舍（赛场原声） 23:00
+${replace}/967211926
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】梅里达3-1卢布列夫（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】梅里达3-1卢布列夫（赛场原声） 23:00
+${replace}/967210691
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第1轮】莫尔坎1-3邦齐（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第1轮】莫尔坎1-3邦齐（赛场原声） 23:00
+${replace}/967210415
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】中岛布兰登0-3米克尔森（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第2轮】中岛布兰登0-3米克尔森（赛场原声） 23:00
+${replace}/967210354
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第1轮】霍因斯基0-3范德尚舒普（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【男单第1轮】霍因斯基0-3范德尚舒普（赛场原声） 23:00
+${replace}/967210652
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】萨巴伦卡2-0伊亚琴科（赛场原声）（50帧原画） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】萨巴伦卡2-0伊亚琴科（赛场原声）（50帧原画） 23:00
+${replace}/967213596
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】沙旺乔0-2费尔南德斯（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】沙旺乔0-2费尔南德斯（赛场原声） 23:00
+${replace}/967209689
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】佩古拉2-0肯宁（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】佩古拉2-0肯宁（赛场原声） 23:00
+${replace}/967209702
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】科斯秋克2-0斯蒂文斯（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】科斯秋克2-0斯蒂文斯（赛场原声） 23:00
+${replace}/967210324
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】帕里0-2科斯蒂亚（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】帕里0-2科斯蒂亚（赛场原声） 23:00
+${replace}/967210341
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】普利斯科娃0-2施耐德（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】普利斯科娃0-2施耐德（赛场原声） 23:00
+${replace}/967210193
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】博尔特0-2穆霍娃（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】博尔特0-2穆霍娃（赛场原声） 23:00
+${replace}/967210509
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】保利尼2-0斯特凡尼尼（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】保利尼2-0斯特凡尼尼（赛场原声） 23:00
+${replace}/967210023
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】纳瓦罗2-1麦克纳莉（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】纳瓦罗2-1麦克纳莉（赛场原声） 23:00
+${replace}/967210924
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第1轮】里内特1-2琼斯（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第1轮】里内特1-2琼斯（赛场原声） 23:00
+${replace}/967210709
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】比勒尔1-2亚历山德罗娃（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】比勒尔1-2亚历山德罗娃（赛场原声） 23:00
+${replace}/967211480
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】谢列赫梅捷娃0-2拉克西莫娃（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】谢列赫梅捷娃0-2拉克西莫娃（赛场原声） 23:00
+${replace}/967210673
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第1轮】巴图科娃2-0谢里芙（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第1轮】巴图科娃2-0谢里芙（赛场原声） 23:00
+${replace}/967210610
+#EXTINF:-1 tvg-id="阿卡四盘逆转晋级 萨巴速扫" tvg-name="美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】汤森德2-0普雷斯顿（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿卡四盘逆转晋级 萨巴速扫 【女单第2轮】汤森德2-0普雷斯顿（赛场原声） 23:00
+${replace}/967209576
 #EXTINF:-1 tvg-id="乌迪内斯VS威尼斯" tvg-name="意大利杯 乌迪内斯VS威尼斯 全场回放（刘腾） 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="体育-今天",意大利杯 乌迪内斯VS威尼斯 全场回放（刘腾） 23:45
 ${replace}/967210037
-#EXTINF:-1 tvg-id="吕昊天登场 常冰玉、丁俊晖无缘16强" tvg-name="斯诺克 吕昊天登场 常冰玉、丁俊晖无缘16强 朱峰立 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 吕昊天登场 常冰玉、丁俊晖无缘16强 朱峰立 02:00
-${replace}/967199377
-#EXTINF:-1 tvg-id="吕昊天登场 常冰玉、丁俊晖无缘16强" tvg-name="斯诺克 吕昊天登场 常冰玉、丁俊晖无缘16强 1号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 吕昊天登场 常冰玉、丁俊晖无缘16强 1号桌 02:00
-${replace}/967153675
-#EXTINF:-1 tvg-id="吕昊天登场 常冰玉、丁俊晖无缘16强" tvg-name="斯诺克 吕昊天登场 常冰玉、丁俊晖无缘16强 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 吕昊天登场 常冰玉、丁俊晖无缘16强 2号桌 02:00
-${replace}/967153694
-#EXTINF:-1 tvg-id="吕昊天登场 常冰玉、丁俊晖无缘16强" tvg-name="斯诺克 吕昊天登场 常冰玉、丁俊晖无缘16强 3号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 吕昊天登场 常冰玉、丁俊晖无缘16强 3号桌 02:00
-${replace}/967153705
-#EXTINF:-1 tvg-id="吕昊天登场 常冰玉、丁俊晖无缘16强" tvg-name="斯诺克 吕昊天登场 常冰玉、丁俊晖无缘16强 4号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 吕昊天登场 常冰玉、丁俊晖无缘16强 4号桌 02:00
-${replace}/967153722
-#EXTINF:-1 tvg-id="王欣瑜VS卡林斯卡娅" tvg-name="美国网球公开赛 王欣瑜VS卡林斯卡娅 单文强 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 王欣瑜VS卡林斯卡娅 单文强 02:00
-${replace}/967200518
-#EXTINF:-1 tvg-id="王欣瑜VS卡林斯卡娅" tvg-name="美国网球公开赛 王欣瑜VS卡林斯卡娅 赛场原声 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 王欣瑜VS卡林斯卡娅 赛场原声 02:00
-${replace}/967200498
-#EXTINF:-1 tvg-id="达克沃斯VS吴易昺" tvg-name="美国网球公开赛 达克沃斯VS吴易昺 李宁 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 达克沃斯VS吴易昺 李宁 02:00
-${replace}/967200541
-#EXTINF:-1 tvg-id="达克沃斯VS吴易昺" tvg-name="美国网球公开赛 达克沃斯VS吴易昺 赛场原声 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 达克沃斯VS吴易昺 赛场原声 02:00
-${replace}/967200538
-#EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第169期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 咪咕体育日报 第169期 08:00
-${replace}/967158109
-#EXTINF:-1 tvg-id="中国羽毛球大师赛第二轮" tvg-name="BWF 中国羽毛球大师赛第二轮 CCTV5+ 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 中国羽毛球大师赛第二轮 CCTV5+ 09:00
+#EXTINF:-1 tvg-id="常冰玉、丁俊晖、庞俊旭、囧哥无缘16强" tvg-name="斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】吕昊天4-3杜安·琼斯（朱峰立） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】吕昊天4-3杜安·琼斯（朱峰立） 02:00
+${replace}/967210988
+#EXTINF:-1 tvg-id="常冰玉、丁俊晖、庞俊旭、囧哥无缘16强" tvg-name="斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】尤里安·博伊科4-1丁俊晖（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】尤里安·博伊科4-1丁俊晖（赛场原声） 02:00
+${replace}/967210504
+#EXTINF:-1 tvg-id="常冰玉、丁俊晖、庞俊旭、囧哥无缘16强" tvg-name="斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】辛格·查达3-4杰克·利索夫斯基（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】辛格·查达3-4杰克·利索夫斯基（赛场原声） 02:00
+${replace}/967210592
+#EXTINF:-1 tvg-id="常冰玉、丁俊晖、庞俊旭、囧哥无缘16强" tvg-name="斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】杰克·琼斯4-1常冰玉（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】杰克·琼斯4-1常冰玉（赛场原声） 02:00
+${replace}/967210998
+#EXTINF:-1 tvg-id="常冰玉、丁俊晖、庞俊旭、囧哥无缘16强" tvg-name="斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】马克·塞尔比4-3杰克逊·佩奇（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】马克·塞尔比4-3杰克逊·佩奇（赛场原声） 02:00
+${replace}/967211043
+#EXTINF:-1 tvg-id="常冰玉、丁俊晖、庞俊旭、囧哥无缘16强" tvg-name="斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】贺国强1-4阿尔特米·齐津斯（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】贺国强1-4阿尔特米·齐津斯（赛场原声） 02:00
+${replace}/967211112
+#EXTINF:-1 tvg-id="常冰玉、丁俊晖、庞俊旭、囧哥无缘16强" tvg-name="斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】吕昊天4-3杜安·琼斯（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】吕昊天4-3杜安·琼斯（赛场原声） 02:00
+${replace}/967211550
+#EXTINF:-1 tvg-id="常冰玉、丁俊晖、庞俊旭、囧哥无缘16强" tvg-name="斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】凯伦·威尔逊1-4利亚姆·海菲尔德（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】凯伦·威尔逊1-4利亚姆·海菲尔德（赛场原声） 02:00
+${replace}/967212173
+#EXTINF:-1 tvg-id="常冰玉、丁俊晖、庞俊旭、囧哥无缘16强" tvg-name="斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】庞俊旭0-4马克·乔伊斯（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 常冰玉、丁俊晖、庞俊旭、囧哥无缘16强 【回放】庞俊旭0-4马克·乔伊斯（赛场原声） 02:00
+${replace}/967213303
+#EXTINF:-1 tvg-id="王欣瑜VS卡林斯卡娅" tvg-name="美国网球公开赛 王欣瑜VS卡林斯卡娅 全场回放（单文强） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 王欣瑜VS卡林斯卡娅 全场回放（单文强） 02:00
+${replace}/967211662
+#EXTINF:-1 tvg-id="王欣瑜VS卡林斯卡娅" tvg-name="美国网球公开赛 王欣瑜VS卡林斯卡娅 全场回放 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 王欣瑜VS卡林斯卡娅 全场回放 02:00
+${replace}/967211606
+#EXTINF:-1 tvg-id="达克沃斯VS吴易昺" tvg-name="美国网球公开赛 达克沃斯VS吴易昺 全场回放（李宁） 06:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 达克沃斯VS吴易昺 全场回放（李宁） 06:35
+${replace}/967212487
+#EXTINF:-1 tvg-id="达克沃斯VS吴易昺" tvg-name="美国网球公开赛 达克沃斯VS吴易昺 全场回放 06:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 达克沃斯VS吴易昺 全场回放 06:35
+${replace}/967212605
+#EXTINF:-1 tvg-id="冲击八强！韩千禧PK安洗莹" tvg-name="BWF 冲击八强！韩千禧PK安洗莹 CCTV5+ 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 冲击八强！韩千禧PK安洗莹 CCTV5+ 09:00
 ${replace}/967206256
-#EXTINF:-1 tvg-id="环上海新城自行车赛" tvg-name="中国自行车运动协会系列赛 环上海新城自行车赛 解说 09:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png" group-title="体育-今天",中国自行车运动协会系列赛 环上海新城自行车赛 解说 09:15
-${replace}/967181044
-#EXTINF:-1 tvg-id="障碍跑世界锦标赛Day1" tvg-name="UIPM障碍跑世界锦标赛 障碍跑世界锦标赛Day1 解说 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/26/10000000153010618024.png" group-title="体育-今天",UIPM障碍跑世界锦标赛 障碍跑世界锦标赛Day1 解说 10:00
-${replace}/966998686
 #EXTINF:-1 tvg-id="方博冲击16强 户上/早田出战" tvg-name="WTT 方博冲击16强 户上/早田出战 凌维康 刘馨蕊 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 方博冲击16强 户上/早田出战 凌维康 刘馨蕊 13:00
 ${replace}/966866157
 #EXTINF:-1 tvg-id="方博冲击16强 户上/早田出战" tvg-name="WTT 方博冲击16强 户上/早田出战 1号桌 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 方博冲击16强 户上/早田出战 1号桌 13:00
@@ -447,43 +477,49 @@ ${replace}/966737966
 ${replace}/967155057
 #EXTINF:-1 tvg-id="中国U18男篮VS清华附中" tvg-name="中国篮协“未来杯”国际篮球挑战赛 中国U18男篮VS清华附中 清流播出 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/31/100000001533106d96ff.png" group-title="体育-今天",中国篮协“未来杯”国际篮球挑战赛 中国U18男篮VS清华附中 清流播出 19:20
 ${replace}/967155027
-#EXTINF:-1 tvg-id="32进16" tvg-name="斯诺克 32进16 1号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 32进16 1号桌 20:00
+#EXTINF:-1 tvg-id="障碍跑世界锦标赛Day1" tvg-name="UIPM障碍跑世界锦标赛 障碍跑世界锦标赛Day1 解说 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/26/10000000153010618024.png" group-title="体育-今天",UIPM障碍跑世界锦标赛 障碍跑世界锦标赛Day1 解说 20:00
+${replace}/966998686
+#EXTINF:-1 tvg-id="张安达、王信伯出战 赵心童接台战霍尔特" tvg-name="斯诺克 张安达、王信伯出战 赵心童接台战霍尔特 1号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张安达、王信伯出战 赵心童接台战霍尔特 1号桌 20:00
 ${replace}/967153737
-#EXTINF:-1 tvg-id="32进16" tvg-name="斯诺克 32进16 2号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 32进16 2号桌 20:00
+#EXTINF:-1 tvg-id="张安达、王信伯出战 赵心童接台战霍尔特" tvg-name="斯诺克 张安达、王信伯出战 赵心童接台战霍尔特 2号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张安达、王信伯出战 赵心童接台战霍尔特 2号桌 20:00
 ${replace}/967153752
-#EXTINF:-1 tvg-id="32进16" tvg-name="斯诺克 32进16 3号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 32进16 3号桌 20:00
+#EXTINF:-1 tvg-id="张安达、王信伯出战 赵心童接台战霍尔特" tvg-name="斯诺克 张安达、王信伯出战 赵心童接台战霍尔特 3号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张安达、王信伯出战 赵心童接台战霍尔特 3号桌 20:00
 ${replace}/967153769
-#EXTINF:-1 tvg-id="32进16" tvg-name="斯诺克 32进16 4号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 32进16 4号桌 20:00
+#EXTINF:-1 tvg-id="张安达、王信伯出战 赵心童接台战霍尔特" tvg-name="斯诺克 张安达、王信伯出战 赵心童接台战霍尔特 4号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张安达、王信伯出战 赵心童接台战霍尔特 4号桌 20:00
 ${replace}/967153784
-#EXTINF:-1 tvg-id="男女单打第二轮" tvg-name="美国网球公开赛 男女单打第二轮 阿瑟・阿什球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 男女单打第二轮 阿瑟・阿什球场 23:00
+#EXTINF:-1 tvg-id="张安达、王信伯出战 赵心童接台战霍尔特" tvg-name="斯诺克 张安达、王信伯出战 赵心童接台战霍尔特 陶哲铭 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张安达、王信伯出战 赵心童接台战霍尔特 陶哲铭 20:00
+${replace}/967214389
+#EXTINF:-1 tvg-id="张安达、王信伯出战 赵心童接台战霍尔特" tvg-name="斯诺克 张安达、王信伯出战 赵心童接台战霍尔特 朱峰立 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张安达、王信伯出战 赵心童接台战霍尔特 朱峰立 21:00
+${replace}/967214403
+#EXTINF:-1 tvg-id="斯瓦泰克、大坂直美率先出战" tvg-name="美国网球公开赛 斯瓦泰克、大坂直美率先出战 阿瑟・阿什球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克、大坂直美率先出战 阿瑟・阿什球场 23:00
 ${replace}/967048149
-#EXTINF:-1 tvg-id="男女单打第二轮" tvg-name="美国网球公开赛 男女单打第二轮 路易斯・阿姆斯特朗球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 男女单打第二轮 路易斯・阿姆斯特朗球场 23:00
+#EXTINF:-1 tvg-id="斯瓦泰克、大坂直美率先出战" tvg-name="美国网球公开赛 斯瓦泰克、大坂直美率先出战 路易斯・阿姆斯特朗球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克、大坂直美率先出战 路易斯・阿姆斯特朗球场 23:00
 ${replace}/967048165
-#EXTINF:-1 tvg-id="男女单打第二轮" tvg-name="美国网球公开赛 男女单打第二轮 大看台球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 男女单打第二轮 大看台球场 23:00
+#EXTINF:-1 tvg-id="斯瓦泰克、大坂直美率先出战" tvg-name="美国网球公开赛 斯瓦泰克、大坂直美率先出战 大看台球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克、大坂直美率先出战 大看台球场 23:00
 ${replace}/967048184
-#EXTINF:-1 tvg-id="男女单打第二轮" tvg-name="美国网球公开赛 男女单打第二轮 17号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 男女单打第二轮 17号球场 23:00
+#EXTINF:-1 tvg-id="斯瓦泰克、大坂直美率先出战" tvg-name="美国网球公开赛 斯瓦泰克、大坂直美率先出战 17号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克、大坂直美率先出战 17号球场 23:00
 ${replace}/967048195
-#EXTINF:-1 tvg-id="男女单打第二轮" tvg-name="美国网球公开赛 男女单打第二轮 5号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 男女单打第二轮 5号球场 23:00
+#EXTINF:-1 tvg-id="斯瓦泰克、大坂直美率先出战" tvg-name="美国网球公开赛 斯瓦泰克、大坂直美率先出战 5号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克、大坂直美率先出战 5号球场 23:00
 ${replace}/967048223
-#EXTINF:-1 tvg-id="男女单打第二轮" tvg-name="美国网球公开赛 男女单打第二轮 6号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 男女单打第二轮 6号球场 23:00
+#EXTINF:-1 tvg-id="斯瓦泰克、大坂直美率先出战" tvg-name="美国网球公开赛 斯瓦泰克、大坂直美率先出战 6号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克、大坂直美率先出战 6号球场 23:00
 ${replace}/967048240
-#EXTINF:-1 tvg-id="男女单打第二轮" tvg-name="美国网球公开赛 男女单打第二轮 7号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 男女单打第二轮 7号球场 23:00
+#EXTINF:-1 tvg-id="斯瓦泰克、大坂直美率先出战" tvg-name="美国网球公开赛 斯瓦泰克、大坂直美率先出战 7号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克、大坂直美率先出战 7号球场 23:00
 ${replace}/967048268
-#EXTINF:-1 tvg-id="男女单打第二轮" tvg-name="美国网球公开赛 男女单打第二轮 9号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 男女单打第二轮 9号球场 23:00
+#EXTINF:-1 tvg-id="斯瓦泰克、大坂直美率先出战" tvg-name="美国网球公开赛 斯瓦泰克、大坂直美率先出战 9号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克、大坂直美率先出战 9号球场 23:00
 ${replace}/967048282
-#EXTINF:-1 tvg-id="男女单打第二轮" tvg-name="美国网球公开赛 男女单打第二轮 10号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 男女单打第二轮 10号球场 23:00
+#EXTINF:-1 tvg-id="斯瓦泰克、大坂直美率先出战" tvg-name="美国网球公开赛 斯瓦泰克、大坂直美率先出战 10号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克、大坂直美率先出战 10号球场 23:00
 ${replace}/967048298
-#EXTINF:-1 tvg-id="男女单打第二轮" tvg-name="美国网球公开赛 男女单打第二轮 11号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 男女单打第二轮 11号球场 23:00
+#EXTINF:-1 tvg-id="斯瓦泰克、大坂直美率先出战" tvg-name="美国网球公开赛 斯瓦泰克、大坂直美率先出战 11号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克、大坂直美率先出战 11号球场 23:00
 ${replace}/967048338
-#EXTINF:-1 tvg-id="男女单打第二轮" tvg-name="美国网球公开赛 男女单打第二轮 12号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 男女单打第二轮 12号球场 23:00
+#EXTINF:-1 tvg-id="斯瓦泰克、大坂直美率先出战" tvg-name="美国网球公开赛 斯瓦泰克、大坂直美率先出战 12号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克、大坂直美率先出战 12号球场 23:00
 ${replace}/967048361
-#EXTINF:-1 tvg-id="男女单打第二轮" tvg-name="美国网球公开赛 男女单打第二轮 13号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 男女单打第二轮 13号球场 23:00
+#EXTINF:-1 tvg-id="斯瓦泰克、大坂直美率先出战" tvg-name="美国网球公开赛 斯瓦泰克、大坂直美率先出战 13号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克、大坂直美率先出战 13号球场 23:00
 ${replace}/967048415
-#EXTINF:-1 tvg-id="男女单打第二轮" tvg-name="美国网球公开赛 男女单打第二轮 15号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 男女单打第二轮 15号球场 23:00
+#EXTINF:-1 tvg-id="斯瓦泰克、大坂直美率先出战" tvg-name="美国网球公开赛 斯瓦泰克、大坂直美率先出战 15号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克、大坂直美率先出战 15号球场 23:00
 ${replace}/967048433
-#EXTINF:-1 tvg-id="男女单打第二轮" tvg-name="美国网球公开赛 男女单打第二轮 国际信号 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 男女单打第二轮 国际信号 23:00
+#EXTINF:-1 tvg-id="斯瓦泰克、大坂直美率先出战" tvg-name="美国网球公开赛 斯瓦泰克、大坂直美率先出战 国际信号 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克、大坂直美率先出战 国际信号 23:00
 ${replace}/967048115
-#EXTINF:-1 tvg-id="男女单打第二轮" tvg-name="美国网球公开赛 男女单打第二轮 英文解说 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 男女单打第二轮 英文解说 23:00
+#EXTINF:-1 tvg-id="斯瓦泰克、大坂直美率先出战" tvg-name="美国网球公开赛 斯瓦泰克、大坂直美率先出战 英文解说 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克、大坂直美率先出战 英文解说 23:00
 ${replace}/967048138
 #EXTINF:-1 tvg-id="巴勒莫VS曼托瓦" tvg-name="意大利杯 巴勒莫VS曼托瓦 刘焕 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="体育-明天",意大利杯 巴勒莫VS曼托瓦 刘焕 23:45
 ${replace}/967027353
@@ -497,6 +533,8 @@ ${replace}/967153828
 ${replace}/967153844
 #EXTINF:-1 tvg-id="16进8" tvg-name="斯诺克 16进8 4号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 16进8 4号桌 02:00
 ${replace}/967153859
+#EXTINF:-1 tvg-id="图卢兹VS里尔" tvg-name="法甲 图卢兹VS里尔 张昊泽 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-明天",法甲 图卢兹VS里尔 张昊泽 02:30
+${replace}/967213721
 #EXTINF:-1 tvg-id="皇家社会VS塞尔塔" tvg-name="西甲 皇家社会VS塞尔塔 孙雨轩 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-明天",西甲 皇家社会VS塞尔塔 孙雨轩 02:45
 ${replace}/966998767
 #EXTINF:-1 tvg-id="皇家社会VS塞尔塔" tvg-name="西甲 皇家社会VS塞尔塔 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-明天",西甲 皇家社会VS塞尔塔 赛场原声 02:45
@@ -507,8 +545,6 @@ ${replace}/967027300
 ${replace}/967027287
 #EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第170期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-明天",咪咕体育日报 undefined 咪咕体育日报 第170期 08:00
 ${replace}/967158089
-#EXTINF:-1 tvg-id="障碍跑世界锦标赛Day2" tvg-name="UIPM障碍跑世界锦标赛 障碍跑世界锦标赛Day2 解说 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/26/10000000153010618024.png" group-title="体育-明天",UIPM障碍跑世界锦标赛 障碍跑世界锦标赛Day2 解说 09:00
-${replace}/966998634
 #EXTINF:-1 tvg-id="国际攀岩挑战赛暨中国攀岩联赛上海站" tvg-name="攀岩系列赛 国际攀岩挑战赛暨中国攀岩联赛上海站 上海站 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg" group-title="体育-明天",攀岩系列赛 国际攀岩挑战赛暨中国攀岩联赛上海站 上海站 09:00
 ${replace}/967198180
 #EXTINF:-1 tvg-id="环上海新城自行车赛" tvg-name="中国自行车运动协会系列赛 环上海新城自行车赛 解说 09:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png" group-title="体育-明天",中国自行车运动协会系列赛 环上海新城自行车赛 解说 09:45
@@ -523,6 +559,8 @@ ${replace}/966866371
 ${replace}/966866376
 #EXTINF:-1 tvg-id="男女单打1/8决赛、双打1/4决赛" tvg-name="WTT 男女单打1/8决赛、双打1/4决赛 4号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打1/8决赛、双打1/4决赛 4号桌 14:00
 ${replace}/966866394
+#EXTINF:-1 tvg-id="障碍跑世界锦标赛Day2" tvg-name="UIPM障碍跑世界锦标赛 障碍跑世界锦标赛Day2 解说 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/26/10000000153010618024.png" group-title="体育-明天",UIPM障碍跑世界锦标赛 障碍跑世界锦标赛Day2 解说 15:00
+${replace}/966998634
 #EXTINF:-1 tvg-id="日本VS马里" tvg-name="女篮世界杯 日本VS马里 赛场原声 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/2/100000001527106529d3.png" group-title="体育-明天",女篮世界杯 日本VS马里 赛场原声 17:20
 ${replace}/967199157
 #EXTINF:-1 tvg-id="澳大利亚VS波多黎各" tvg-name="女篮世界杯 澳大利亚VS波多黎各 赛场原声 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/2/100000001527106529d3.png" group-title="体育-明天",女篮世界杯 澳大利亚VS波多黎各 赛场原声 17:20
@@ -552,7 +590,7 @@ ${replace}/967153882
 #EXTINF:-1 tvg-id="1/4决赛" tvg-name="斯诺克 1/4决赛 2号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 1/4决赛 2号桌 20:00
 ${replace}/967153897
 #EXTINF:-1 tvg-id="美国VS中国" tvg-name="女篮世界杯 美国VS中国 咪咕主赛场 19:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/2/100000001527106529d3.png" group-title="体育-明天",女篮世界杯 美国VS中国 咪咕主赛场 19:15
-${replace}/967199189
+${replace}/967211830
 #EXTINF:-1 tvg-id="美国VS中国" tvg-name="女篮世界杯 美国VS中国 咪咕主赛场 19:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/2/100000001527106529d3.png" group-title="体育-明天",女篮世界杯 美国VS中国 咪咕主赛场 19:15
 ${replace}/967199193
 #EXTINF:-1 tvg-id="美国VS中国" tvg-name="女篮世界杯 美国VS中国 赛场原声 20:05" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/2/100000001527106529d3.png" group-title="体育-明天",女篮世界杯 美国VS中国 赛场原声 20:05
