@@ -5142,8 +5142,95 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20260905000000 +0800" stop="20260905235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20260905000000 +0800" stop="20260905002300 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905002300 +0800" stop="20260905013100 +0800">
+        <title lang="zh">重播“闽超”第十轮 福州VS泉州（下）</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905013100 +0800" stop="20260905021300 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905021300 +0800" stop="20260905025100 +0800">
+        <title lang="zh">重播玩转海岸线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905025100 +0800" stop="20260905032600 +0800">
+        <title lang="zh">重播山海福建</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905032600 +0800" stop="20260905041900 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905041900 +0800" stop="20260905053800 +0800">
+        <title lang="zh">重播海好遇见你</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905053800 +0800" stop="20260905065500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905065500 +0800" stop="20260905070000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905070000 +0800" stop="20260905115700 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905115700 +0800" stop="20260905120000 +0800">
+        <title lang="zh">政绩观短视频:《绿水青山中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905120000 +0800" stop="20260905123500 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905123500 +0800" stop="20260905123600 +0800">
+        <title lang="zh">政绩观短视频:《绿水青山中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905123600 +0800" stop="20260905132800 +0800">
+        <title lang="zh">重播中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905132800 +0800" stop="20260905180500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905180500 +0800" stop="20260905182400 +0800">
+        <title lang="zh">玩转海岸线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905182400 +0800" stop="20260905183000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905183000 +0800" stop="20260905185800 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905185800 +0800" stop="20260905190000 +0800">
+        <title lang="zh">政绩观短视频:《绿水青山中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905190000 +0800" stop="20260905193000 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905193000 +0800" stop="20260905193400 +0800">
+        <title lang="zh">政绩观短视频:《绿水青山中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905193400 +0800" stop="20260905211700 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905211700 +0800" stop="20260905211800 +0800">
+        <title lang="zh">政绩观短视频:《绿水青山中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905211800 +0800" stop="20260905212000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905212000 +0800" stop="20260905221200 +0800">
+        <title lang="zh">东南军情</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905221200 +0800" stop="20260905230300 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905230300 +0800" stop="20260905230400 +0800">
+        <title lang="zh">政绩观短视频:《绿水青山中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905230400 +0800" stop="20260905232000 +0800">
+        <title lang="zh">东南晚报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905232000 +0800" stop="20260905235600 +0800">
+        <title lang="zh">《中国经济圆桌会》第35期</title>
+    </programme>
+    <programme channel="东南卫视" start="20260905235600 +0800" stop="20260906000000 +0800">
+        <title lang="zh">精彩节目</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
