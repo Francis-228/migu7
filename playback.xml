@@ -841,13 +841,13 @@
         <title lang="zh">本集提要-交锋-第7集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260909193000 +0800" stop="20260909202540 +0800">
-        <title lang="zh">交锋7/40</title>
+        <title lang="zh">交锋第7集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260909202540 +0800" stop="20260909203040 +0800">
         <title lang="zh">本集提要-交锋-第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260909203040 +0800" stop="20260909212440 +0800">
-        <title lang="zh">交锋8/40</title>
+        <title lang="zh">交锋第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260909212440 +0800" stop="20260909212940 +0800">
         <title lang="zh">本集提要-金关-第18集</title>
@@ -4536,7 +4536,7 @@
     <programme channel="河北卫视" start="20260909233300 +0800" stop="20260909235900 +0800">
         <title lang="zh">城市烟火</title>
     </programme>
-    <programme channel="河北卫视" start="20260909235900 +0800" stop="20260910000000 +0800">
+    <programme channel="河北卫视" start="20260909235900 +0800" stop="20260910004200 +0800">
         <title lang="zh">欢乐家长群2</title>
     </programme>
     <channel id="江西卫视">
