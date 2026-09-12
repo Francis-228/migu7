@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/9/12 16:20:38",
+  "update_time": "2026/9/12 21:19:55",
   "statistics": {
     "total_processed": 8742,
-    "valid_ip_count": 56,
-    "duplicate_ip_count": 7653
+    "valid_ip_count": 57,
+    "duplicate_ip_count": 7427
   },
   "ip_list": {
     "ahct": [
@@ -39,7 +39,8 @@
     ],
     "ynct": [
       "106.59.3.228:55555",
-      "106.59.2.108:55555"
+      "106.59.2.108:55555",
+      "106.59.2.196:55555"
     ],
     "scct": [
       "171.213.149.31:8188"
