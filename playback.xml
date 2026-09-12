@@ -462,20 +462,23 @@
     <programme channel="CCTV4中文国际" start="20260912213000 +0800" stop="20260912220000 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260912220000 +0800" stop="20260912223000 +0800">
-        <title lang="zh">中国缘-2026-59</title>
+    <programme channel="CCTV4中文国际" start="20260912220000 +0800" stop="20260912221700 +0800">
+        <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260912223000 +0800" stop="20260912230430 +0800">
+    <programme channel="CCTV4中文国际" start="20260912221700 +0800" stop="20260912224400 +0800">
+        <title lang="zh">深度国际-2026年9月-2</title>
+    </programme>
+    <programme channel="CCTV4中文国际" start="20260912224400 +0800" stop="20260912230000 +0800">
+        <title lang="zh">平凡匠心-2026-5</title>
+    </programme>
+    <programme channel="CCTV4中文国际" start="20260912230000 +0800" stop="20260912231600 +0800">
+        <title lang="zh">中国新闻</title>
+    </programme>
+    <programme channel="CCTV4中文国际" start="20260912231600 +0800" stop="20260912233000 +0800">
+        <title lang="zh">平凡匠心-2026-56</title>
+    </programme>
+    <programme channel="CCTV4中文国际" start="20260912233000 +0800" stop="20260912235900 +0800">
         <title lang="zh">新闻联播</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260912230430 +0800" stop="20260912233030 +0800">
-        <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260912233030 +0800" stop="20260912235700 +0800">
-        <title lang="zh">海峡两岸-2026-255</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260912235700 +0800" stop="20260912235900 +0800">
-        <title lang="zh">亲爱的孩子们第10集</title>
     </programme>
     <channel id="CCTV5体育">
         <display-name lang="zh">CCTV5体育</display-name>
