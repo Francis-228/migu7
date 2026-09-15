@@ -82,7 +82,7 @@
         <title lang="zh">第一动画乐园-2026-226</title>
     </programme>
     <programme channel="CCTV1综合" start="20260915173540 +0800" stop="20260915185155 +0800">
-        <title lang="zh">专题节目-1</title>
+        <title lang="zh">闪亮的名字2025-最美科技工作者发布仪式</title>
     </programme>
     <programme channel="CCTV1综合" start="20260915185155 +0800" stop="20260915190000 +0800">
         <title lang="zh">秘境之眼-2026-251</title>
@@ -97,13 +97,13 @@
         <title lang="zh">前情提要-生逢其时-第14集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260915200600 +0800" stop="20260915205555 +0800">
-        <title lang="zh">生逢其时14/26</title>
+        <title lang="zh">生逢其时第14集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260915205555 +0800" stop="20260915210050 +0800">
         <title lang="zh">前情提要-生逢其时-第15集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260915210050 +0800" stop="20260915215300 +0800">
-        <title lang="zh">生逢其时15/26</title>
+        <title lang="zh">生逢其时第15集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260915215300 +0800" stop="20260915220000 +0800">
         <title lang="zh">三餐四季-宣传片</title>
@@ -871,13 +871,13 @@
         <title lang="zh">本集提要-交锋-第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260915193000 +0800" stop="20260915202540 +0800">
-        <title lang="zh">交锋19/40</title>
+        <title lang="zh">交锋第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260915202540 +0800" stop="20260915203040 +0800">
         <title lang="zh">本集提要-交锋-第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260915203040 +0800" stop="20260915212440 +0800">
-        <title lang="zh">交锋20/40</title>
+        <title lang="zh">交锋第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260915212440 +0800" stop="20260915212940 +0800">
         <title lang="zh">本集提要-兰香如故-第9集</title>
@@ -1566,19 +1566,16 @@
     <programme channel="CCTV17农业农村" start="20260915195300 +0800" stop="20260915204600 +0800">
         <title lang="zh">妈妈在等你第34集</title>
     </programme>
-    <programme channel="CCTV17农业农村" start="20260915204600 +0800" stop="20260915212000 +0800">
-        <title lang="zh">洋大厨学闽菜-3</title>
-    </programme>
-    <programme channel="CCTV17农业农村" start="20260915212000 +0800" stop="20260915215030 +0800">
+    <programme channel="CCTV17农业农村" start="20260915204600 +0800" stop="20260915211730 +0800">
         <title lang="zh">三农群英汇-2026-299</title>
     </programme>
-    <programme channel="CCTV17农业农村" start="20260915215030 +0800" stop="20260915231300 +0800">
+    <programme channel="CCTV17农业农村" start="20260915211730 +0800" stop="20260915224130 +0800">
         <title lang="zh">丰收中国之乡村趣味运动会-5</title>
     </programme>
-    <programme channel="CCTV17农业农村" start="20260915231300 +0800" stop="20260915234400 +0800">
-        <title lang="zh">洋大厨学闽菜-3</title>
+    <programme channel="CCTV17农业农村" start="20260915224130 +0800" stop="20260915233300 +0800">
+        <title lang="zh">田野欢歌-2025-64</title>
     </programme>
-    <programme channel="CCTV17农业农村" start="20260915234400 +0800" stop="20260915235900 +0800">
+    <programme channel="CCTV17农业农村" start="20260915233300 +0800" stop="20260915235900 +0800">
         <title lang="zh">三农群英汇-2026-299</title>
     </programme>
     <channel id="CCTV4欧洲">
@@ -3963,25 +3960,25 @@
     <programme channel="江苏卫视" start="20260915183000 +0800" stop="20260915190000 +0800">
         <title lang="zh">江苏新时空</title>
     </programme>
-    <programme channel="江苏卫视" start="20260915190000 +0800" stop="20260915193300 +0800">
+    <programme channel="江苏卫视" start="20260915190000 +0800" stop="20260915193200 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="江苏卫视" start="20260915193300 +0800" stop="20260915202000 +0800">
-        <title lang="zh">醒来（11）</title>
+    <programme channel="江苏卫视" start="20260915193200 +0800" stop="20260915202000 +0800">
+        <title lang="zh">醒来 第11集</title>
     </programme>
     <programme channel="江苏卫视" start="20260915202000 +0800" stop="20260915210500 +0800">
-        <title lang="zh">醒来（12）</title>
+        <title lang="zh">醒来 第12集</title>
     </programme>
-    <programme channel="江苏卫视" start="20260915210500 +0800" stop="20260915222900 +0800">
-        <title lang="zh">一站到底·少年季第二季</title>
-    </programme>
-    <programme channel="江苏卫视" start="20260915222900 +0800" stop="20260915230000 +0800">
-        <title lang="zh">打歌2026·X舞台舞台纯享</title>
+    <programme channel="江苏卫视" start="20260915210500 +0800" stop="20260915230000 +0800">
+        <title lang="zh">最强大脑</title>
     </programme>
     <programme channel="江苏卫视" start="20260915230000 +0800" stop="20260915231500 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="江苏卫视" start="20260915231500 +0800" stop="20260916000000 +0800">
+    <programme channel="江苏卫视" start="20260915231500 +0800" stop="20260915234400 +0800">
+        <title lang="zh">时代问答</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260915234400 +0800" stop="20260916000000 +0800">
         <title lang="zh">你好1983</title>
     </programme>
     <channel id="广东卫视">
@@ -4503,7 +4500,7 @@
     <programme channel="河北卫视" start="20260915233300 +0800" stop="20260915235900 +0800">
         <title lang="zh">城市烟火</title>
     </programme>
-    <programme channel="河北卫视" start="20260915235900 +0800" stop="20260916000000 +0800">
+    <programme channel="河北卫视" start="20260915235900 +0800" stop="20260916010200 +0800">
         <title lang="zh">群星闪耀时</title>
     </programme>
     <channel id="江西卫视">
