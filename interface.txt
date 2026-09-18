@@ -385,58 +385,34 @@ ${replace}/967717063
 ${replace}/967716259
 #EXTINF:-1 tvg-id="傅家俊6-3霍尔特 肖国栋4-6埃莫里" tvg-name="斯诺克 傅家俊6-3霍尔特 肖国栋4-6埃莫里 26/27赛季斯诺克国际锦标赛资格赛第1轮回放：迈克尔·霍尔特3-6傅家俊（赛场原声） 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 傅家俊6-3霍尔特 肖国栋4-6埃莫里 26/27赛季斯诺克国际锦标赛资格赛第1轮回放：迈克尔·霍尔特3-6傅家俊（赛场原声） 21:30
 ${replace}/967717548
-#EXTINF:-1 tvg-id="巴多萨、布林科娃领衔出战" tvg-name="WTA 巴多萨、布林科娃领衔出战 赛场原声 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 巴多萨、布林科娃领衔出战 赛场原声 00:00
+#EXTINF:-1 tvg-id="傅家俊6-3霍尔特 肖国栋4-6埃莫里" tvg-name="斯诺克 傅家俊6-3霍尔特 肖国栋4-6埃莫里 26/27赛季斯诺克国际锦标赛资格赛第1轮回放：肖国栋4-6迪伦·埃莫里（赛场原声） 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 傅家俊6-3霍尔特 肖国栋4-6埃莫里 26/27赛季斯诺克国际锦标赛资格赛第1轮回放：肖国栋4-6迪伦·埃莫里（赛场原声） 21:30
+${replace}/967718476
+#EXTINF:-1 tvg-id="傅家俊6-3霍尔特 肖国栋4-6埃莫里" tvg-name="斯诺克 傅家俊6-3霍尔特 肖国栋4-6埃莫里 26/27赛季斯诺克国际锦标赛资格赛第1轮回放：杰米·琼斯3-6米歇尔·曼恩（赛场原声） 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 傅家俊6-3霍尔特 肖国栋4-6埃莫里 26/27赛季斯诺克国际锦标赛资格赛第1轮回放：杰米·琼斯3-6米歇尔·曼恩（赛场原声） 21:30
+${replace}/967722639
+#EXTINF:-1 tvg-id="巴多萨、布林科娃晋级四强" tvg-name="WTA 巴多萨、布林科娃晋级四强 赛场原声 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 巴多萨、布林科娃晋级四强 赛场原声 00:00
 ${replace}/967599195
-#EXTINF:-1 tvg-id="巴多萨、布林科娃领衔出战" tvg-name="WTA 巴多萨、布林科娃领衔出战 英文原声 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 巴多萨、布林科娃领衔出战 英文原声 00:00
+#EXTINF:-1 tvg-id="巴多萨、布林科娃晋级四强" tvg-name="WTA 巴多萨、布林科娃晋级四强 英文原声 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 巴多萨、布林科娃晋级四强 英文原声 00:00
 ${replace}/967599204
-#EXTINF:-1 tvg-id="曼城女足VS利物浦足球俱乐部" tvg-name="英女超 曼城女足VS利物浦足球俱乐部 林梦鸽 01:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg" group-title="体育-今天",英女超 曼城女足VS利物浦足球俱乐部 林梦鸽 01:45
-${replace}/967672426
-#EXTINF:-1 tvg-id="曼城女足VS利物浦足球俱乐部" tvg-name="英女超 曼城女足VS利物浦足球俱乐部 赛场原声 01:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg" group-title="体育-今天",英女超 曼城女足VS利物浦足球俱乐部 赛场原声 01:45
-${replace}/967672409
-#EXTINF:-1 tvg-id="拜仁慕尼黑VS柏林联" tvg-name="德甲 拜仁慕尼黑VS柏林联 胡小凡 张力 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 拜仁慕尼黑VS柏林联 胡小凡 张力 02:15
-${replace}/967673184
-#EXTINF:-1 tvg-id="拜仁慕尼黑VS柏林联" tvg-name="德甲 拜仁慕尼黑VS柏林联 赛场原声 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 拜仁慕尼黑VS柏林联 赛场原声 02:15
-${replace}/967673201
-#EXTINF:-1 tvg-id="拜仁慕尼黑VS柏林联" tvg-name="德甲 拜仁慕尼黑VS柏林联 智能字幕 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 拜仁慕尼黑VS柏林联 智能字幕 02:15
-${replace}/967696517
-#EXTINF:-1 tvg-id="希金斯、利索夫斯基、龙泽煌出战" tvg-name="斯诺克 希金斯、利索夫斯基、龙泽煌出战 1号桌 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 希金斯、利索夫斯基、龙泽煌出战 1号桌 02:30
-${replace}/967634245
-#EXTINF:-1 tvg-id="希金斯、利索夫斯基、龙泽煌出战" tvg-name="斯诺克 希金斯、利索夫斯基、龙泽煌出战 2号桌 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 希金斯、利索夫斯基、龙泽煌出战 2号桌 02:30
-${replace}/967634285
-#EXTINF:-1 tvg-id="希金斯、利索夫斯基、龙泽煌出战" tvg-name="斯诺克 希金斯、利索夫斯基、龙泽煌出战 3号桌 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 希金斯、利索夫斯基、龙泽煌出战 3号桌 02:30
-${replace}/967634328
-#EXTINF:-1 tvg-id="希金斯、利索夫斯基、龙泽煌出战" tvg-name="斯诺克 希金斯、利索夫斯基、龙泽煌出战 4号桌 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 希金斯、利索夫斯基、龙泽煌出战 4号桌 02:30
+#EXTINF:-1 tvg-id="曼城女足VS利物浦足球俱乐部" tvg-name="英女超 曼城女足VS利物浦足球俱乐部 全场回放（林梦鸽） 01:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg" group-title="体育-今天",英女超 曼城女足VS利物浦足球俱乐部 全场回放（林梦鸽） 01:45
+${replace}/967724279
+#EXTINF:-1 tvg-id="拜仁慕尼黑VS柏林联" tvg-name="德甲 拜仁慕尼黑VS柏林联 全场回放（胡小凡、张力） 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 拜仁慕尼黑VS柏林联 全场回放（胡小凡、张力） 02:15
+${replace}/967724746
+#EXTINF:-1 tvg-id="龙泽煌6-2奥凯恩 希金斯晋级" tvg-name="斯诺克 龙泽煌6-2奥凯恩 希金斯晋级 4号桌 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 龙泽煌6-2奥凯恩 希金斯晋级 4号桌 02:30
 ${replace}/967634377
-#EXTINF:-1 tvg-id="希金斯、利索夫斯基、龙泽煌出战" tvg-name="斯诺克 希金斯、利索夫斯基、龙泽煌出战 5号桌 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 希金斯、利索夫斯基、龙泽煌出战 5号桌 02:30
-${replace}/967634397
-#EXTINF:-1 tvg-id="希金斯、利索夫斯基、龙泽煌出战" tvg-name="斯诺克 希金斯、利索夫斯基、龙泽煌出战 6号桌 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 希金斯、利索夫斯基、龙泽煌出战 6号桌 02:30
+#EXTINF:-1 tvg-id="龙泽煌6-2奥凯恩 希金斯晋级" tvg-name="斯诺克 龙泽煌6-2奥凯恩 希金斯晋级 6号桌 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 龙泽煌6-2奥凯恩 希金斯晋级 6号桌 02:30
 ${replace}/967634416
-#EXTINF:-1 tvg-id="希金斯、利索夫斯基、龙泽煌出战" tvg-name="斯诺克 希金斯、利索夫斯基、龙泽煌出战 7号桌 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 希金斯、利索夫斯基、龙泽煌出战 7号桌 02:30
-${replace}/967634462
-#EXTINF:-1 tvg-id="希金斯、利索夫斯基、龙泽煌出战" tvg-name="斯诺克 希金斯、利索夫斯基、龙泽煌出战 8号桌 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 希金斯、利索夫斯基、龙泽煌出战 8号桌 02:30
-${replace}/967634486
-#EXTINF:-1 tvg-id="摩纳哥VS朗斯" tvg-name="法甲 摩纳哥VS朗斯 刘一臻 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 摩纳哥VS朗斯 刘一臻 02:30
-${replace}/967672179
-#EXTINF:-1 tvg-id="摩纳哥VS朗斯" tvg-name="法甲 摩纳哥VS朗斯 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 摩纳哥VS朗斯 赛场原声 02:30
-${replace}/967672159
-#EXTINF:-1 tvg-id="蒙扎VS萨索洛" tvg-name="意甲 蒙扎VS萨索洛 乔迁 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 蒙扎VS萨索洛 乔迁 02:30
-${replace}/967672123
-#EXTINF:-1 tvg-id="蒙扎VS萨索洛" tvg-name="意甲 蒙扎VS萨索洛 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 蒙扎VS萨索洛 赛场原声 02:30
-${replace}/967672114
-#EXTINF:-1 tvg-id="布伦特福德VS切尔西" tvg-name="英超 布伦特福德VS切尔西 颜强 贺宇 程思钦 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 布伦特福德VS切尔西 颜强 贺宇 程思钦 02:30
-${replace}/967672682
-#EXTINF:-1 tvg-id="布伦特福德VS切尔西" tvg-name="英超 布伦特福德VS切尔西 江忠德 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 布伦特福德VS切尔西 江忠德 02:45
-${replace}/967672676
-#EXTINF:-1 tvg-id="布伦特福德VS切尔西" tvg-name="英超 布伦特福德VS切尔西 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 布伦特福德VS切尔西 赛场原声 02:45
-${replace}/967696011
-#EXTINF:-1 tvg-id="布伦特福德VS切尔西" tvg-name="英超 布伦特福德VS切尔西 英文原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 布伦特福德VS切尔西 英文原声 02:45
-${replace}/967672660
-#EXTINF:-1 tvg-id="布伦特福德VS切尔西" tvg-name="英超 布伦特福德VS切尔西 粤语智能字幕 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 布伦特福德VS切尔西 粤语智能字幕 02:45
-${replace}/967696695
-#EXTINF:-1 tvg-id="西班牙人VS埃尔切" tvg-name="西甲 西班牙人VS埃尔切 洪宇青 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 西班牙人VS埃尔切 洪宇青 02:45
-${replace}/967672439
-#EXTINF:-1 tvg-id="西班牙人VS埃尔切" tvg-name="西甲 西班牙人VS埃尔切 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 西班牙人VS埃尔切 赛场原声 02:45
-${replace}/967672430
+#EXTINF:-1 tvg-id="摩纳哥VS朗斯" tvg-name="法甲 摩纳哥VS朗斯 全场回放（刘一臻） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 摩纳哥VS朗斯 全场回放（刘一臻） 02:30
+${replace}/967724476
+#EXTINF:-1 tvg-id="蒙扎VS萨索洛" tvg-name="意甲 蒙扎VS萨索洛 全场回放（乔迁） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 蒙扎VS萨索洛 全场回放（乔迁） 02:30
+${replace}/967723546
+#EXTINF:-1 tvg-id="布伦特福德VS切尔西" tvg-name="英超 布伦特福德VS切尔西 全场回放（颜强、贺宇、程思钦） 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 布伦特福德VS切尔西 全场回放（颜强、贺宇、程思钦） 02:45
+${replace}/967724045
+#EXTINF:-1 tvg-id="布伦特福德VS切尔西" tvg-name="英超 布伦特福德VS切尔西 全场回放（江忠德） 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 布伦特福德VS切尔西 全场回放（江忠德） 02:45
+${replace}/967723956
+#EXTINF:-1 tvg-id="布伦特福德VS切尔西" tvg-name="英超 布伦特福德VS切尔西 全场回放 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 布伦特福德VS切尔西 全场回放 02:45
+${replace}/967725094
+#EXTINF:-1 tvg-id="西班牙人VS埃尔切" tvg-name="西甲 西班牙人VS埃尔切 全场回放（洪宇青） 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 西班牙人VS埃尔切 全场回放（洪宇青） 02:45
+${replace}/967724950
 #EXTINF:-1 tvg-id="布克沙VS约维奇" tvg-name="WTA 布克沙VS约维奇 房朕 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 布克沙VS约维奇 房朕 07:00
 ${replace}/967701950
 #EXTINF:-1 tvg-id="布克沙VS约维奇" tvg-name="WTA 布克沙VS约维奇 赛场原声 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 布克沙VS约维奇 赛场原声 07:00
