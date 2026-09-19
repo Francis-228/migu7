@@ -729,20 +729,20 @@
     <programme channel="CCTV7国防军事" start="20260919200300 +0800" stop="20260919200930 +0800">
         <title lang="zh">国防微视频-军歌嘹亮-光荣奔赴（2026）</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260919200930 +0800" stop="20260919204500 +0800">
+    <programme channel="CCTV7国防军事" start="20260919200930 +0800" stop="20260919203930 +0800">
         <title lang="zh">防务新观察-2026-262</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260919204500 +0800" stop="20260919215315 +0800">
+    <programme channel="CCTV7国防军事" start="20260919203930 +0800" stop="20260919211500 +0800">
+        <title lang="zh">兵器面面观-2026-163</title>
+    </programme>
+    <programme channel="CCTV7国防军事" start="20260919211500 +0800" stop="20260919222845 +0800">
+        <title lang="zh">国防公开课（2026）-第26个全民国防教育日特别节目</title>
+    </programme>
+    <programme channel="CCTV7国防军事" start="20260919222845 +0800" stop="20260919233315 +0800">
         <title lang="zh">老兵你好-2026-38</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260919215315 +0800" stop="20260919224345 +0800">
+    <programme channel="CCTV7国防军事" start="20260919233315 +0800" stop="20260919235900 +0800">
         <title lang="zh">潜行者27/37</title>
-    </programme>
-    <programme channel="CCTV7国防军事" start="20260919224345 +0800" stop="20260919234015 +0800">
-        <title lang="zh">潜行者28/37</title>
-    </programme>
-    <programme channel="CCTV7国防军事" start="20260919234015 +0800" stop="20260919235900 +0800">
-        <title lang="zh">第二战场-2026-38</title>
     </programme>
     <channel id="CCTV8电视剧">
         <display-name lang="zh">CCTV8电视剧</display-name>
