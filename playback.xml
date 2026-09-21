@@ -96,13 +96,13 @@
     <programme channel="CCTV1综合" start="20260921200420 +0800" stop="20260921200900 +0800">
         <title lang="zh">前情提要-生逢其时-第22集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260921200900 +0800" stop="20260921205825 +0800">
+    <programme channel="CCTV1综合" start="20260921200900 +0800" stop="20260921205840 +0800">
         <title lang="zh">生逢其时第22集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260921205825 +0800" stop="20260921210325 +0800">
+    <programme channel="CCTV1综合" start="20260921205840 +0800" stop="20260921210340 +0800">
         <title lang="zh">前情提要-生逢其时-第23集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260921210325 +0800" stop="20260921220000 +0800">
+    <programme channel="CCTV1综合" start="20260921210340 +0800" stop="20260921220000 +0800">
         <title lang="zh">生逢其时第23集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260921220000 +0800" stop="20260921223545 +0800">
@@ -300,17 +300,20 @@
     <programme channel="CCTV3综艺" start="20260921193000 +0800" stop="20260921205425 +0800">
         <title lang="zh">开门大吉-2026-38</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260921205425 +0800" stop="20260921215710 +0800">
-        <title lang="zh">第十三届丝绸之路国际电影节-开幕式-完整版</title>
+    <programme channel="CCTV3综艺" start="20260921205425 +0800" stop="20260921212614 +0800">
+        <title lang="zh">第十三届丝绸之路国际电影节-开幕式 1/3</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260921215710 +0800" stop="20260921225230 +0800">
+    <programme channel="CCTV3综艺" start="20260921212614 +0800" stop="20260921215415 +0800">
+        <title lang="zh">第十三届丝绸之路国际电影节-开幕式 2/3</title>
+    </programme>
+    <programme channel="CCTV3综艺" start="20260921215415 +0800" stop="20260921222810 +0800">
+        <title lang="zh">第十三届丝绸之路国际电影节-开幕式-3/3</title>
+    </programme>
+    <programme channel="CCTV3综艺" start="20260921222810 +0800" stop="20260921232330 +0800">
         <title lang="zh">综艺喜乐汇-2026-623</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260921225230 +0800" stop="20260921233830 +0800">
+    <programme channel="CCTV3综艺" start="20260921232330 +0800" stop="20260921235900 +0800">
         <title lang="zh">综艺喜乐汇-2026-964 护宝寻踪26/36</title>
-    </programme>
-    <programme channel="CCTV3综艺" start="20260921233830 +0800" stop="20260921235900 +0800">
-        <title lang="zh">综艺喜乐汇-2026-965 护宝寻踪27/36</title>
     </programme>
     <channel id="CCTV4中文国际">
         <display-name lang="zh">CCTV4中文国际</display-name>
@@ -561,14 +564,8 @@
     <programme channel="CCTV5+体育赛事" start="20260921143000 +0800" stop="20260921150000 +0800">
         <title lang="zh">录像：2026年亚运会 射击女子10米气步枪决赛</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260921150000 +0800" stop="20260921170000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260921150000 +0800" stop="20260921182000 +0800">
         <title lang="zh">直播：2026年亚运会 女排半决赛（中国VS泰国）</title>
-    </programme>
-    <programme channel="CCTV5+体育赛事" start="20260921170000 +0800" stop="20260921173000 +0800">
-        <title lang="zh">直播：2026年亚运会 空手道女子-61、男子-67、女子-68公斤级决赛</title>
-    </programme>
-    <programme channel="CCTV5+体育赛事" start="20260921173000 +0800" stop="20260921182000 +0800">
-        <title lang="zh">录像：2026年亚运会 体操男子资格赛2暨男子全能</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260921182000 +0800" stop="20260921200000 +0800">
         <title lang="zh">直播：2026年亚运会 女排半决赛（日本VS韩国）</title>
@@ -853,25 +850,25 @@
         <title lang="zh">本集提要-交锋-第31集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260921193000 +0800" stop="20260921202540 +0800">
-        <title lang="zh">交锋31/40</title>
+        <title lang="zh">交锋第31集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260921202540 +0800" stop="20260921203040 +0800">
         <title lang="zh">本集提要-交锋-第32集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260921203040 +0800" stop="20260921212440 +0800">
-        <title lang="zh">交锋32/40</title>
+        <title lang="zh">交锋第32集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260921212440 +0800" stop="20260921212940 +0800">
         <title lang="zh">本集提要-兰香如故-第21集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260921212940 +0800" stop="20260921221940 +0800">
-        <title lang="zh">兰香如故21/31</title>
+        <title lang="zh">兰香如故第21集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260921221940 +0800" stop="20260921222140 +0800">
         <title lang="zh">本集提要-兰香如故-第22集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260921222140 +0800" stop="20260921231140 +0800">
-        <title lang="zh">兰香如故22/31</title>
+        <title lang="zh">兰香如故第22集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260921231140 +0800" stop="20260921235740 +0800">
         <title lang="zh">凡人歌第16集</title>
@@ -1464,14 +1461,11 @@
     <programme channel="CCTV15音乐" start="20260921193000 +0800" stop="20260921210030 +0800">
         <title lang="zh">CCTV音乐厅-中国乡村音乐大会2 一乐千年篇</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260921210030 +0800" stop="20260921221600 +0800">
-        <title lang="zh">合唱先锋-2026-4</title>
+    <programme channel="CCTV15音乐" start="20260921210030 +0800" stop="20260921230400 +0800">
+        <title lang="zh">第二届丝路之星国际音乐大赛-1</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260921221600 +0800" stop="20260921231530 +0800">
+    <programme channel="CCTV15音乐" start="20260921230400 +0800" stop="20260921235900 +0800">
         <title lang="zh">CCTV音乐厅-2026-158-“名家华彩”协奏曲系列音乐会（4）</title>
-    </programme>
-    <programme channel="CCTV15音乐" start="20260921231530 +0800" stop="20260921235900 +0800">
-        <title lang="zh">精彩音乐汇-我的爱对你说-2026-277</title>
     </programme>
     <channel id="CCTV17农业农村">
         <display-name lang="zh">CCTV17农业农村</display-name>
@@ -3471,14 +3465,17 @@
     <programme channel="24小时城市联赛轮播台" start="20260921142700 +0800" stop="20260921163400 +0800">
         <title lang="zh">浙江浙BA全场回放：嘉兴91:73云和</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260921163400 +0800" stop="20260921195100 +0800">
-        <title lang="zh">广西桂BA第2回合全场回放：桂林市74:84南宁市</title>
+    <programme channel="24小时城市联赛轮播台" start="20260921163400 +0800" stop="20260921190600 +0800">
+        <title lang="zh">浙江浙BA全场回放：湖州88:84云和</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260921195100 +0800" stop="20260921221800 +0800">
-        <title lang="zh">湖北楚超第16轮全场回放：神农架0:2十堰武当</title>
+    <programme channel="24小时城市联赛轮播台" start="20260921190600 +0800" stop="20260921213000 +0800">
+        <title lang="zh">湖南湘超第7轮全场回放：邵阳队0:1岳阳队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260921221800 +0800" stop="20260922001400 +0800">
-        <title lang="zh">安徽徽BA第15轮全场回放：池州70:102合肥</title>
+    <programme channel="24小时城市联赛轮播台" start="20260921213000 +0800" stop="20260921231200 +0800">
+        <title lang="zh">安徽徽BA第8轮全场回放：阜阳113:67池州</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260921231200 +0800" stop="20260922011400 +0800">
+        <title lang="zh">山东齐鲁超四分之一首回合全场回放：日照队1:1聊城传奇农商行</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
@@ -4173,7 +4170,7 @@
     <programme channel="辽宁卫视" start="20260921225200 +0800" stop="20260921233100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260921233100 +0800" stop="20260922000000 +0800">
+    <programme channel="辽宁卫视" start="20260921233100 +0800" stop="20260922003400 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
     <channel id="河北卫视">
@@ -4323,7 +4320,7 @@
     <programme channel="河北卫视" start="20260921233000 +0800" stop="20260921233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260921233300 +0800" stop="20260922000000 +0800">
+    <programme channel="河北卫视" start="20260921233300 +0800" stop="20260922000800 +0800">
         <title lang="zh">长城 长城</title>
     </programme>
     <channel id="江西卫视">
