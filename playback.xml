@@ -91,7 +91,7 @@
         <title lang="zh">诗行万里长征路-2</title>
     </programme>
     <programme channel="CCTV1综合" start="20261002233215 +0800" stop="20261002235900 +0800">
-        <title lang="zh">三餐四季（第三季）-9北京</title>
+        <title lang="zh">三餐四季（第三季）-11安徽</title>
     </programme>
     <channel id="CCTV2财经">
         <display-name lang="zh">CCTV2财经</display-name>
@@ -453,16 +453,16 @@
     <programme channel="CCTV5体育" start="20261002105600 +0800" stop="20261002111000 +0800">
         <title lang="zh">体坛快讯-亚运最前沿</title>
     </programme>
-    <programme channel="CCTV5体育" start="20261002111000 +0800" stop="20261002193000 +0800">
+    <programme channel="CCTV5体育" start="20261002111000 +0800" stop="20261002203000 +0800">
         <title lang="zh">2026年亚运会-赛事转播报道13-2</title>
     </programme>
-    <programme channel="CCTV5体育" start="20261002193000 +0800" stop="20261002213000 +0800">
+    <programme channel="CCTV5体育" start="20261002203000 +0800" stop="20261002223000 +0800">
         <title lang="zh">2026年中国网球公开赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20261002213000 +0800" stop="20261002223500 +0800">
+    <programme channel="CCTV5体育" start="20261002223000 +0800" stop="20261002233500 +0800">
         <title lang="zh">体育世界-全景亚运</title>
     </programme>
-    <programme channel="CCTV5体育" start="20261002223500 +0800" stop="20261002235900 +0800">
+    <programme channel="CCTV5体育" start="20261002233500 +0800" stop="20261002235900 +0800">
         <title lang="zh">实况录像-2026年亚运会 乒乓球女团决赛</title>
     </programme>
     <channel id="CCTV5+体育赛事">
@@ -1191,19 +1191,19 @@
     <programme channel="CCTV13新闻" start="20261002034400 +0800" stop="20261002040000 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261002040000 +0800" stop="20261002043300 +0800">
+    <programme channel="CCTV13新闻" start="20261002040000 +0800" stop="20261002042400 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261002043300 +0800" stop="20261002050000 +0800">
-        <title lang="zh">新闻1+1</title>
+    <programme channel="CCTV13新闻" start="20261002042400 +0800" stop="20261002050000 +0800">
+        <title lang="zh">2026吾家吾国</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261002050000 +0800" stop="20261002051700 +0800">
+    <programme channel="CCTV13新闻" start="20261002050000 +0800" stop="20261002051800 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261002051700 +0800" stop="20261002053300 +0800">
+    <programme channel="CCTV13新闻" start="20261002051800 +0800" stop="20261002053400 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261002053300 +0800" stop="20261002060000 +0800">
+    <programme channel="CCTV13新闻" start="20261002053400 +0800" stop="20261002060000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13新闻" start="20261002060000 +0800" stop="20261002090000 +0800">
@@ -1218,10 +1218,10 @@
     <programme channel="CCTV13新闻" start="20261002110000 +0800" stop="20261002120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261002120000 +0800" stop="20261002123300 +0800">
+    <programme channel="CCTV13新闻" start="20261002120000 +0800" stop="20261002123400 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261002123300 +0800" stop="20261002130000 +0800">
+    <programme channel="CCTV13新闻" start="20261002123400 +0800" stop="20261002130000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13新闻" start="20261002130000 +0800" stop="20261002140000 +0800">
@@ -1242,26 +1242,26 @@
     <programme channel="CCTV13新闻" start="20261002180000 +0800" stop="20261002190000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261002190000 +0800" stop="20261002194700 +0800">
+    <programme channel="CCTV13新闻" start="20261002190000 +0800" stop="20261002193900 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261002194700 +0800" stop="20261002200500 +0800">
+    <programme channel="CCTV13新闻" start="20261002193900 +0800" stop="20261002200000 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261002200500 +0800" stop="20261002210000 +0800">
+    <programme channel="CCTV13新闻" start="20261002200000 +0800" stop="20261002210000 +0800">
         <title lang="zh">东方时空</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261002210000 +0800" stop="20261002214000 +0800">
+    <programme channel="CCTV13新闻" start="20261002210000 +0800" stop="20261002213000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261002214000 +0800" stop="20261002220000 +0800">
-        <title lang="zh">新闻1+1</title>
+    <programme channel="CCTV13新闻" start="20261002213000 +0800" stop="20261002220000 +0800">
+        <title lang="zh">高端访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261002220000 +0800" stop="20261002223000 +0800">
+    <programme channel="CCTV13新闻" start="20261002220000 +0800" stop="20261002223600 +0800">
+        <title lang="zh">2026吾家吾国</title>
+    </programme>
+    <programme channel="CCTV13新闻" start="20261002223600 +0800" stop="20261002230000 +0800">
         <title lang="zh">国际时讯</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20261002223000 +0800" stop="20261002230000 +0800">
-        <title lang="zh">环球视线</title>
     </programme>
     <programme channel="CCTV13新闻" start="20261002230000 +0800" stop="20261002235900 +0800">
         <title lang="zh">24小时</title>
