@@ -474,11 +474,8 @@
     <programme channel="CCTV5体育" start="20261004160000 +0800" stop="20261004170300 +0800">
         <title lang="zh">体育新闻-亚运会闭幕式特别节目</title>
     </programme>
-    <programme channel="CCTV5体育" start="20261004170300 +0800" stop="20261004182300 +0800">
+    <programme channel="CCTV5体育" start="20261004170300 +0800" stop="20261004183500 +0800">
         <title lang="zh">2026年亚运会-闭幕式</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20261004182300 +0800" stop="20261004183500 +0800">
-        <title lang="zh">实况录像-2026年亚运会 亚运典藏1</title>
     </programme>
     <programme channel="CCTV5体育" start="20261004183500 +0800" stop="20261004213500 +0800">
         <title lang="zh">WTT中国大满贯2026-第1轮</title>
@@ -528,11 +525,8 @@
     <programme channel="CCTV5+体育赛事" start="20261004155700 +0800" stop="20261004170300 +0800">
         <title lang="zh">实况录像-2026年亚运会 跳水比赛2</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20261004170300 +0800" stop="20261004182300 +0800">
-        <title lang="zh">2026年亚运会- 闭幕式</title>
-    </programme>
-    <programme channel="CCTV5+体育赛事" start="20261004182300 +0800" stop="20261004183500 +0800">
-        <title lang="zh">实况录像-荣耀十分-2026年世界田联钻石联赛 布鲁塞尔站 严子怡女子标枪夺金</title>
+    <programme channel="CCTV5+体育赛事" start="20261004170300 +0800" stop="20261004183500 +0800">
+        <title lang="zh">2026年亚运会-闭幕式</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20261004183500 +0800" stop="20261004190000 +0800">
         <title lang="zh">实况录像-2026年国际篮联U23三人篮球世界杯（4K）</title>
@@ -1200,22 +1194,22 @@
     <programme channel="CCTV13新闻" start="20261004041500 +0800" stop="20261004050000 +0800">
         <title lang="zh">新闻周刊</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261004050000 +0800" stop="20261004051200 +0800">
+    <programme channel="CCTV13新闻" start="20261004050000 +0800" stop="20261004052300 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261004051200 +0800" stop="20261004060000 +0800">
-        <title lang="zh">新闻调查</title>
+    <programme channel="CCTV13新闻" start="20261004052300 +0800" stop="20261004060000 +0800">
+        <title lang="zh">2026吾家吾国-14</title>
     </programme>
     <programme channel="CCTV13新闻" start="20261004060000 +0800" stop="20261004090000 +0800">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261004090000 +0800" stop="20261004091200 +0800">
+    <programme channel="CCTV13新闻" start="20261004090000 +0800" stop="20261004100000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261004091200 +0800" stop="20261004100000 +0800">
-        <title lang="zh">新闻周刊</title>
+    <programme channel="CCTV13新闻" start="20261004100000 +0800" stop="20261004110000 +0800">
+        <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261004100000 +0800" stop="20261004120000 +0800">
+    <programme channel="CCTV13新闻" start="20261004110000 +0800" stop="20261004120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme channel="CCTV13新闻" start="20261004120000 +0800" stop="20261004123500 +0800">
@@ -1227,11 +1221,8 @@
     <programme channel="CCTV13新闻" start="20261004130000 +0800" stop="20261004140000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261004140000 +0800" stop="20261004141200 +0800">
+    <programme channel="CCTV13新闻" start="20261004140000 +0800" stop="20261004150000 +0800">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20261004141200 +0800" stop="20261004150000 +0800">
-        <title lang="zh">新闻调查</title>
     </programme>
     <programme channel="CCTV13新闻" start="20261004150000 +0800" stop="20261004160000 +0800">
         <title lang="zh">新闻直播间</title>
@@ -1245,10 +1236,13 @@
     <programme channel="CCTV13新闻" start="20261004180000 +0800" stop="20261004190000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261004190000 +0800" stop="20261004194040 +0800">
+    <programme channel="CCTV13新闻" start="20261004190000 +0800" stop="20261004193135 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261004194040 +0800" stop="20261004200000 +0800">
+    <programme channel="CCTV13新闻" start="20261004193135 +0800" stop="20261004193910 +0800">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme channel="CCTV13新闻" start="20261004193910 +0800" stop="20261004200000 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV13新闻" start="20261004200000 +0800" stop="20261004210000 +0800">
@@ -1257,13 +1251,13 @@
     <programme channel="CCTV13新闻" start="20261004210000 +0800" stop="20261004213000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261004213000 +0800" stop="20261004221500 +0800">
-        <title lang="zh">面对面</title>
+    <programme channel="CCTV13新闻" start="20261004213000 +0800" stop="20261004220500 +0800">
+        <title lang="zh">2026吾家吾国-15</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261004221500 +0800" stop="20261004230000 +0800">
+    <programme channel="CCTV13新闻" start="20261004220500 +0800" stop="20261004225000 +0800">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261004230000 +0800" stop="20261004235900 +0800">
+    <programme channel="CCTV13新闻" start="20261004225000 +0800" stop="20261004235900 +0800">
         <title lang="zh">24小时</title>
     </programme>
     <channel id="CCTV14少儿">
@@ -7162,7 +7156,7 @@
     <programme channel="盐城新闻综合" start="20261004225500 +0800" stop="20261004235000 +0800">
         <title lang="zh">首播:医路导航</title>
     </programme>
-    <programme channel="盐城新闻综合" start="20261004235000 +0800" stop="20261005000000 +0800">
+    <programme channel="盐城新闻综合" start="20261004235000 +0800" stop="20261005015700 +0800">
         <title lang="zh">电视剧</title>
     </programme>
     <channel id="淮安新闻综合">
@@ -7234,7 +7228,7 @@
     <programme channel="淮安新闻综合" start="20261004222800 +0800" stop="20261004224500 +0800">
         <title lang="zh">天气预报+淮安房产</title>
     </programme>
-    <programme channel="淮安新闻综合" start="20261004224500 +0800" stop="20261005000000 +0800">
+    <programme channel="淮安新闻综合" start="20261004224500 +0800" stop="20261005005600 +0800">
         <title lang="zh">星光剧场</title>
     </programme>
     <channel id="泰州新闻综合">
@@ -7309,7 +7303,7 @@
     <programme channel="泰州新闻综合" start="20261004222500 +0800" stop="20261004225000 +0800">
         <title lang="zh">健康好生活</title>
     </programme>
-    <programme channel="泰州新闻综合" start="20261004225000 +0800" stop="20261005000000 +0800">
+    <programme channel="泰州新闻综合" start="20261004225000 +0800" stop="20261005021000 +0800">
         <title lang="zh">电视剧</title>
     </programme>
     <channel id="连云港新闻综合">
@@ -7399,7 +7393,7 @@
     <programme channel="连云港新闻综合" start="20261004223500 +0800" stop="20261004224000 +0800">
         <title lang="zh">主播说天气</title>
     </programme>
-    <programme channel="连云港新闻综合" start="20261004224000 +0800" stop="20261005000000 +0800">
+    <programme channel="连云港新闻综合" start="20261004224000 +0800" stop="20261005063000 +0800">
         <title lang="zh">电视剧</title>
     </programme>
     <channel id="宿迁新闻综合">
@@ -7450,7 +7444,7 @@
     <programme channel="宿迁新闻综合" start="20261004193000 +0800" stop="20261004200000 +0800">
         <title lang="zh">宿迁新闻</title>
     </programme>
-    <programme channel="宿迁新闻综合" start="20261004200000 +0800" stop="20261005000000 +0800">
+    <programme channel="宿迁新闻综合" start="20261004200000 +0800" stop="20261005070000 +0800">
         <title lang="zh">晚间剧场</title>
     </programme>
     <channel id="徐州新闻综合">
@@ -7495,7 +7489,7 @@
     <programme channel="徐州新闻综合" start="20261004212200 +0800" stop="20261004213000 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="徐州新闻综合" start="20261004213000 +0800" stop="20261005000000 +0800">
+    <programme channel="徐州新闻综合" start="20261004213000 +0800" stop="20261005061000 +0800">
         <title lang="zh">徐州夜新闻</title>
     </programme>
     <channel id="优漫卡通频道">
@@ -7708,7 +7702,7 @@
     <programme channel="江阴新闻综合" start="20261004232800 +0800" stop="20261004234300 +0800">
         <title lang="zh">第1房产</title>
     </programme>
-    <programme channel="江阴新闻综合" start="20261004234300 +0800" stop="20261005000000 +0800">
+    <programme channel="江阴新闻综合" start="20261004234300 +0800" stop="20261005000300 +0800">
         <title lang="zh">汽车时代</title>
     </programme>
     <channel id="南通新闻综合">
@@ -7768,7 +7762,7 @@
     <programme channel="南通新闻综合" start="20261004221100 +0800" stop="20261004224200 +0800">
         <title lang="zh">南通新闻</title>
     </programme>
-    <programme channel="南通新闻综合" start="20261004224200 +0800" stop="20261005000000 +0800">
+    <programme channel="南通新闻综合" start="20261004224200 +0800" stop="20261005002000 +0800">
         <title lang="zh">剧场</title>
     </programme>
     <channel id="宜兴新闻综合">
@@ -7834,7 +7828,7 @@
     <programme channel="宜兴新闻综合" start="20261004230500 +0800" stop="20261004232500 +0800">
         <title lang="zh">生活新干线</title>
     </programme>
-    <programme channel="宜兴新闻综合" start="20261004232500 +0800" stop="20261005000000 +0800">
+    <programme channel="宜兴新闻综合" start="20261004232500 +0800" stop="20261005084000 +0800">
         <title lang="zh">电视剧</title>
     </programme>
     <channel id="溧水新闻综合">
@@ -8617,7 +8611,7 @@
     <programme channel="镇江新闻综合" start="20261004224500 +0800" stop="20261004230000 +0800">
         <title lang="zh">房产报道</title>
     </programme>
-    <programme channel="镇江新闻综合" start="20261004230000 +0800" stop="20261005000000 +0800">
+    <programme channel="镇江新闻综合" start="20261004230000 +0800" stop="20261005065000 +0800">
         <title lang="zh">晚间剧场</title>
     </programme>
     <channel id="海南广播电视总台新闻频道">
