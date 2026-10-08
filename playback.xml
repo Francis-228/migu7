@@ -498,10 +498,10 @@
     <programme channel="CCTV5体育" start="20261008180000 +0800" stop="20261008183000 +0800">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme channel="CCTV5体育" start="20261008183000 +0800" stop="20261008213000 +0800">
+    <programme channel="CCTV5体育" start="20261008183000 +0800" stop="20261008220500 +0800">
         <title lang="zh">WTT中国大满贯2026-混双半决赛等</title>
     </programme>
-    <programme channel="CCTV5体育" start="20261008213000 +0800" stop="20261008223500 +0800">
+    <programme channel="CCTV5体育" start="20261008220500 +0800" stop="20261008223500 +0800">
         <title lang="zh">体育世界</title>
     </programme>
     <programme channel="CCTV5体育" start="20261008223500 +0800" stop="20261008230500 +0800">
@@ -4011,7 +4011,7 @@
     <programme channel="广东卫视" start="20261008230800 +0800" stop="20261008235300 +0800">
         <title lang="zh">许我耀眼(16)</title>
     </programme>
-    <programme channel="广东卫视" start="20261008235300 +0800" stop="20261009000000 +0800">
+    <programme channel="广东卫视" start="20261008235300 +0800" stop="20261009002400 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -4449,7 +4449,7 @@
     <programme channel="河北卫视" start="20261008233100 +0800" stop="20261008233400 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20261008233400 +0800" stop="20261009000000 +0800">
+    <programme channel="河北卫视" start="20261008233400 +0800" stop="20261009001700 +0800">
         <title lang="zh">纪录片《大河之北·文华燕赵》第六集慷慨悲歌</title>
     </programme>
     <channel id="江西卫视">
