@@ -295,8 +295,28 @@ ${replace}/968352499
 ${replace}/968353275
 #EXTINF:-1 tvg-id="环广西公路自行车世界巡回赛" tvg-name="环广西公路自行车世界巡回赛 环广西公路自行车世界巡回赛 2026环广西公路自行车世界巡回赛Day1全场回放（官方解说） 12:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/10/12/100000001352106e15f5.png" group-title="体育-昨天",环广西公路自行车世界巡回赛 环广西公路自行车世界巡回赛 2026环广西公路自行车世界巡回赛Day1全场回放（官方解说） 12:30
 ${replace}/968357361
-#EXTINF:-1 tvg-id="凤凰率先晋级！胡哲安不敌拉尼尔" tvg-name="BWF 凤凰率先晋级！胡哲安不敌拉尼尔 1号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 凤凰率先晋级！胡哲安不敌拉尼尔 1号场地 15:00
-${replace}/968329677
+#EXTINF:-1 tvg-id="凤凰率先晋级！胡哲安不敌拉尼尔" tvg-name="BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【回放】冯彦哲/黄东萍2-0吴轩毅/杨筑云（鸿昆） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【回放】冯彦哲/黄东萍2-0吴轩毅/杨筑云（鸿昆） 02:30
+${replace}/968357927
+#EXTINF:-1 tvg-id="凤凰率先晋级！胡哲安不敌拉尼尔" tvg-name="BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【回放】陈延泽/吴芷柔1-2朱一珺/李茜（余博洋） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【回放】陈延泽/吴芷柔1-2朱一珺/李茜（余博洋） 02:30
+${replace}/968361879
+#EXTINF:-1 tvg-id="凤凰率先晋级！胡哲安不敌拉尼尔" tvg-name="BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【回放】法蒂尔/瓦赫迪0-2胡珂源/林祥毅（朱胤丞） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【回放】法蒂尔/瓦赫迪0-2胡珂源/林祥毅（朱胤丞） 02:30
+${replace}/968361987
+#EXTINF:-1 tvg-id="凤凰率先晋级！胡哲安不敌拉尼尔" tvg-name="BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【回放】拉尼尔2-0胡哲安（轩子博） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【回放】拉尼尔2-0胡哲安（轩子博） 02:30
+${replace}/968364454
+#EXTINF:-1 tvg-id="凤凰率先晋级！胡哲安不敌拉尼尔" tvg-name="BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【回放】罗意/王汀戈vs本吉苏/茵琦（余博洋） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【回放】罗意/王汀戈vs本吉苏/茵琦（余博洋） 02:30
+${replace}/968365310
+#EXTINF:-1 tvg-id="凤凰率先晋级！胡哲安不敌拉尼尔" tvg-name="BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【一号场地全场回放】（赛场原声）（一） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【一号场地全场回放】（赛场原声）（一） 02:30
+${replace}/968364823
+#EXTINF:-1 tvg-id="凤凰率先晋级！胡哲安不敌拉尼尔" tvg-name="BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【一号场地全场回放】（赛场原声）（二） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【一号场地全场回放】（赛场原声）（二） 02:30
+${replace}/968366502
+#EXTINF:-1 tvg-id="凤凰率先晋级！胡哲安不敌拉尼尔" tvg-name="BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【三号场地全场回放】（赛场原声）（一） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【三号场地全场回放】（赛场原声）（一） 02:30
+${replace}/968363532
+#EXTINF:-1 tvg-id="凤凰率先晋级！胡哲安不敌拉尼尔" tvg-name="BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【三号场地全场回放】（赛场原声）（二） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 凤凰率先晋级！胡哲安不敌拉尼尔 【三号场地全场回放】（赛场原声）（二） 02:30
+${replace}/968366875
+#EXTINF:-1 tvg-id="凤凰率先晋级！胡哲安不敌拉尼尔" tvg-name="BWF 凤凰率先晋级！胡哲安不敌拉尼尔 2026BWF丹麦羽毛球公开赛Day1二号场地全场回放（赛场原声）（二） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 凤凰率先晋级！胡哲安不敌拉尼尔 2026BWF丹麦羽毛球公开赛Day1二号场地全场回放（赛场原声）（二） 02:30
+${replace}/968367122
+#EXTINF:-1 tvg-id="凤凰率先晋级！胡哲安不敌拉尼尔" tvg-name="BWF 凤凰率先晋级！胡哲安不敌拉尼尔 2026BWF丹麦羽毛球公开赛Day1一号场地全场回放（赛场原声）（三） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 凤凰率先晋级！胡哲安不敌拉尼尔 2026BWF丹麦羽毛球公开赛Day1一号场地全场回放（赛场原声）（三） 02:30
+${replace}/968367167
 #EXTINF:-1 tvg-id="纽卡斯尔喷气机足球俱乐部VS大阪钢巴" tvg-name="亚冠精英 纽卡斯尔喷气机足球俱乐部VS大阪钢巴 全场回放（鲁靖明） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-昨天",亚冠精英 纽卡斯尔喷气机足球俱乐部VS大阪钢巴 全场回放（鲁靖明） 15:30
 ${replace}/968360616
 #EXTINF:-1 tvg-id="JCK战觉城王者系列017：赛前新闻发布会" tvg-name="JCK JCK战觉城王者系列017：赛前新闻发布会 JCK战觉城王者系列第017期赛前新闻发布会全场回放（赛场原声） 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000103110616c76.png" group-title="体育-昨天",JCK JCK战觉城王者系列017：赛前新闻发布会 JCK战觉城王者系列第017期赛前新闻发布会全场回放（赛场原声） 16:00
@@ -327,10 +347,8 @@ ${replace}/968365561
 ${replace}/968366816
 #EXTINF:-1 tvg-id="锡卜VS伊尔比德侯赛因" tvg-name="亚冠二级 锡卜VS伊尔比德侯赛因 全场回放（张天翼） 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 锡卜VS伊尔比德侯赛因 全场回放（张天翼） 23:45
 ${replace}/968366836
-#EXTINF:-1 tvg-id="吉达联合VS迪拜青年国民" tvg-name="亚冠精英 吉达联合VS迪拜青年国民 石庆圣 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 吉达联合VS迪拜青年国民 石庆圣 02:00
-${replace}/968170594
-#EXTINF:-1 tvg-id="吉达联合VS迪拜青年国民" tvg-name="亚冠精英 吉达联合VS迪拜青年国民 赛场原声 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 吉达联合VS迪拜青年国民 赛场原声 02:00
-${replace}/968170583
+#EXTINF:-1 tvg-id="吉达联合VS迪拜青年国民" tvg-name="亚冠精英 吉达联合VS迪拜青年国民 全场回放（石庆圣） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 吉达联合VS迪拜青年国民 全场回放（石庆圣） 02:00
+${replace}/968367030
 #EXTINF:-1 tvg-id="《白大拿挑战者系列赛》第10季10周" tvg-name="UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季10周 郑文祺 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000005171067c63b.png" group-title="体育-今天",UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季10周 郑文祺 06:55
 ${replace}/968351797
 #EXTINF:-1 tvg-id="《白大拿挑战者系列赛》第10季10周" tvg-name="UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季10周 英文原声 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000005171067c63b.png" group-title="体育-今天",UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季10周 英文原声 06:55
@@ -365,15 +383,15 @@ ${replace}/968238149
 ${replace}/968238090
 #EXTINF:-1 tvg-id="环广西公路自行车世界巡回赛" tvg-name="环广西公路自行车世界巡回赛 环广西公路自行车世界巡回赛 解说 13:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/10/12/100000001352106e15f5.png" group-title="体育-今天",环广西公路自行车世界巡回赛 环广西公路自行车世界巡回赛 解说 13:40
 ${replace}/968202495
-#EXTINF:-1 tvg-id="1/16决赛" tvg-name="BWF 1/16决赛 1号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 1/16决赛 1号场地 15:00
+#EXTINF:-1 tvg-id="星驰组合出战 翁泓阳迎战小波波夫" tvg-name="BWF 星驰组合出战 翁泓阳迎战小波波夫 1号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 星驰组合出战 翁泓阳迎战小波波夫 1号场地 15:00
 ${replace}/968329802
-#EXTINF:-1 tvg-id="1/16决赛" tvg-name="BWF 1/16决赛 1号场地 01:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 1/16决赛 1号场地 01:00
+#EXTINF:-1 tvg-id="星驰组合出战 翁泓阳迎战小波波夫" tvg-name="BWF 星驰组合出战 翁泓阳迎战小波波夫 1号场地 01:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 星驰组合出战 翁泓阳迎战小波波夫 1号场地 01:00
 ${replace}/968329854
-#EXTINF:-1 tvg-id="1/16决赛" tvg-name="BWF 1/16决赛 2号场地 15:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 1/16决赛 2号场地 15:10
+#EXTINF:-1 tvg-id="星驰组合出战 翁泓阳迎战小波波夫" tvg-name="BWF 星驰组合出战 翁泓阳迎战小波波夫 2号场地 15:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 星驰组合出战 翁泓阳迎战小波波夫 2号场地 15:10
 ${replace}/968329874
-#EXTINF:-1 tvg-id="1/16决赛" tvg-name="BWF 1/16决赛 3号场地 15:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 1/16决赛 3号场地 15:10
+#EXTINF:-1 tvg-id="星驰组合出战 翁泓阳迎战小波波夫" tvg-name="BWF 星驰组合出战 翁泓阳迎战小波波夫 3号场地 15:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 星驰组合出战 翁泓阳迎战小波波夫 3号场地 15:10
 ${replace}/968329904
-#EXTINF:-1 tvg-id="1/16决赛" tvg-name="BWF 1/16决赛 1号场地英文视角 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 1/16决赛 1号场地英文视角 15:00
+#EXTINF:-1 tvg-id="星驰组合出战 翁泓阳迎战小波波夫" tvg-name="BWF 星驰组合出战 翁泓阳迎战小波波夫 1号场地英文视角 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 星驰组合出战 翁泓阳迎战小波波夫 1号场地英文视角 15:00
 ${replace}/968329921
 #EXTINF:-1 tvg-id="墨尔本胜利VS首尔" tvg-name="亚冠二级 墨尔本胜利VS首尔 刘洋 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 墨尔本胜利VS首尔 刘洋 15:30
 ${replace}/968170637
