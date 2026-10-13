@@ -285,7 +285,7 @@ ${replace}/968332823
 ${replace}/968336027
 #EXTINF:-1 tvg-id="广州蒲公英VS上海赛更达" tvg-name="中乙 广州蒲公英VS上海赛更达 全场回放（官方解说） 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="体育-昨天",中乙 广州蒲公英VS上海赛更达 全场回放（官方解说） 15:50
 ${replace}/968335911
-#EXTINF:-1 tvg-id="奥兰多魔术 vs 克利夫兰骑士" tvg-name="NBA经典赛事 奥兰多魔术 vs 克利夫兰骑士 全场回放 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-昨天",NBA经典赛事 奥兰多魔术 vs 克利夫兰骑士 全场回放 18:00
+#EXTINF:-1 tvg-id="奥兰多魔术 vs 克利夫兰骑士" tvg-name="NBA经典赛事 奥兰多魔术 vs 克利夫兰骑士 全场回放（刘圳展） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-昨天",NBA经典赛事 奥兰多魔术 vs 克利夫兰骑士 全场回放（刘圳展） 18:00
 ${replace}/968322566
 #EXTINF:-1 tvg-id="晋中市114-88吕梁市" tvg-name="晋超联赛 晋中市114-88吕梁市 2026赛季山西省男子篮球超级联赛第三阶段第八轮全场回放：晋中市VS吕梁市（赛场原声） 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png" group-title="体育-昨天",晋超联赛 晋中市114-88吕梁市 2026赛季山西省男子篮球超级联赛第三阶段第八轮全场回放：晋中市VS吕梁市（赛场原声） 19:20
 ${replace}/968339138
@@ -295,68 +295,44 @@ ${replace}/968338454
 ${replace}/968338980
 #EXTINF:-1 tvg-id="塔什干棉农VS胡拜尔库迪西亚" tvg-name="亚冠精英 塔什干棉农VS胡拜尔库迪西亚 全场回放（李霄） 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-昨天",亚冠精英 塔什干棉农VS胡拜尔库迪西亚 全场回放（李霄） 21:30
 ${replace}/968339405
-#EXTINF:-1 tvg-id="塔什干棉农VS胡拜尔库迪西亚" tvg-name="亚冠精英 塔什干棉农VS胡拜尔库迪西亚 全场回放 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-昨天",亚冠精英 塔什干棉农VS胡拜尔库迪西亚 全场回放 21:30
-${replace}/968340230
-#EXTINF:-1 tvg-id="迪拜祈祷VS吉达国民" tvg-name="亚冠精英 迪拜祈祷VS吉达国民 鲁靖明 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 迪拜祈祷VS吉达国民 鲁靖明 23:45
-${replace}/968170383
-#EXTINF:-1 tvg-id="迪拜祈祷VS吉达国民" tvg-name="亚冠精英 迪拜祈祷VS吉达国民 赛场原声 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 迪拜祈祷VS吉达国民 赛场原声 23:45
-${replace}/968170362
-#EXTINF:-1 tvg-id="大不里士拖拉机VS北部区体育" tvg-name="亚冠精英 大不里士拖拉机VS北部区体育 孙雨轩 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 大不里士拖拉机VS北部区体育 孙雨轩 23:45
-${replace}/968170340
-#EXTINF:-1 tvg-id="大不里士拖拉机VS北部区体育" tvg-name="亚冠精英 大不里士拖拉机VS北部区体育 赛场原声 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 大不里士拖拉机VS北部区体育 赛场原声 23:45
-${replace}/968170354
-#EXTINF:-1 tvg-id="亚特兰大VS威尼斯" tvg-name="意甲 亚特兰大VS威尼斯 谭逸雄 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 亚特兰大VS威尼斯 谭逸雄 00:15
-${replace}/968170348
-#EXTINF:-1 tvg-id="亚特兰大VS威尼斯" tvg-name="意甲 亚特兰大VS威尼斯 赛场原声 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 亚特兰大VS威尼斯 赛场原声 00:15
-${replace}/968170491
-#EXTINF:-1 tvg-id="加拉法体育VS德黑兰独立" tvg-name="亚冠精英 加拉法体育VS德黑兰独立 李霄 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 加拉法体育VS德黑兰独立 李霄 02:00
-${replace}/968170452
-#EXTINF:-1 tvg-id="加拉法体育VS德黑兰独立" tvg-name="亚冠精英 加拉法体育VS德黑兰独立 赛场原声 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 加拉法体育VS德黑兰独立 赛场原声 02:00
-${replace}/968170442
-#EXTINF:-1 tvg-id="利雅得胜利VS费尔干纳石油工人" tvg-name="亚冠精英 利雅得胜利VS费尔干纳石油工人 涂远 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 利雅得胜利VS费尔干纳石油工人 涂远 02:00
-${replace}/968170417
-#EXTINF:-1 tvg-id="利雅得胜利VS费尔干纳石油工人" tvg-name="亚冠精英 利雅得胜利VS费尔干纳石油工人 赛场原声 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 利雅得胜利VS费尔干纳石油工人 赛场原声 02:00
-${replace}/968170408
-#EXTINF:-1 tvg-id="巴格达空军VS艾因" tvg-name="亚冠精英 巴格达空军VS艾因 张昊泽 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 巴格达空军VS艾因 张昊泽 02:00
-${replace}/968170503
-#EXTINF:-1 tvg-id="巴格达空军VS艾因" tvg-name="亚冠精英 巴格达空军VS艾因 赛场原声 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 巴格达空军VS艾因 赛场原声 02:00
-${replace}/968170477
-#EXTINF:-1 tvg-id="都灵VS乌迪内斯" tvg-name="意甲 都灵VS乌迪内斯 鲁靖明 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS乌迪内斯 鲁靖明 02:30
-${replace}/968170330
-#EXTINF:-1 tvg-id="都灵VS乌迪内斯" tvg-name="意甲 都灵VS乌迪内斯 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS乌迪内斯 赛场原声 02:30
-${replace}/968170480
-#EXTINF:-1 tvg-id="考文垂VS纽卡斯尔联" tvg-name="英超 考文垂VS纽卡斯尔联 郭灿亮 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 考文垂VS纽卡斯尔联 郭灿亮 02:45
-${replace}/968169196
-#EXTINF:-1 tvg-id="考文垂VS纽卡斯尔联" tvg-name="英超 考文垂VS纽卡斯尔联 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 考文垂VS纽卡斯尔联 赛场原声 02:45
-${replace}/968169163
-#EXTINF:-1 tvg-id="考文垂VS纽卡斯尔联" tvg-name="英超 考文垂VS纽卡斯尔联 英文原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 考文垂VS纽卡斯尔联 英文原声 02:45
-${replace}/968169174
-#EXTINF:-1 tvg-id="考文垂VS纽卡斯尔联" tvg-name="英超 考文垂VS纽卡斯尔联 智能解说 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 考文垂VS纽卡斯尔联 智能解说 02:55
-${replace}/968181369
-#EXTINF:-1 tvg-id="莱万特VS塞维利亚" tvg-name="西甲 莱万特VS塞维利亚 周楚雄 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 莱万特VS塞维利亚 周楚雄 02:45
-${replace}/968169212
-#EXTINF:-1 tvg-id="莱万特VS塞维利亚" tvg-name="西甲 莱万特VS塞维利亚 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 莱万特VS塞维利亚 赛场原声 02:45
-${replace}/968169202
-#EXTINF:-1 tvg-id="开拓者VS狮子" tvg-name="NBA 开拓者VS狮子 邵化谦 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 开拓者VS狮子 邵化谦 03:55
-${replace}/968238027
-#EXTINF:-1 tvg-id="开拓者VS狮子" tvg-name="NBA 开拓者VS狮子 英文原声 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 开拓者VS狮子 英文原声 03:55
-${replace}/968238039
-#EXTINF:-1 tvg-id="奇才VS篮网" tvg-name="NBA 奇才VS篮网 王琰博 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 奇才VS篮网 王琰博 06:55
-${replace}/968238209
-#EXTINF:-1 tvg-id="奇才VS篮网" tvg-name="NBA 奇才VS篮网 英文原声 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 奇才VS篮网 英文原声 06:55
-${replace}/968238230
-#EXTINF:-1 tvg-id="老鹰VS雷霆" tvg-name="NBA 老鹰VS雷霆 盛哲 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 老鹰VS雷霆 盛哲 06:55
-${replace}/968238098
-#EXTINF:-1 tvg-id="老鹰VS雷霆" tvg-name="NBA 老鹰VS雷霆 英文原声 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 老鹰VS雷霆 英文原声 06:55
-${replace}/968238102
+#EXTINF:-1 tvg-id="迪拜祈祷VS吉达国民" tvg-name="亚冠精英 迪拜祈祷VS吉达国民 全场回放（鲁靖明） 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 迪拜祈祷VS吉达国民 全场回放（鲁靖明） 23:45
+${replace}/968342295
+#EXTINF:-1 tvg-id="大不里士拖拉机VS北部区体育" tvg-name="亚冠精英 大不里士拖拉机VS北部区体育 全场回放（孙雨轩） 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 大不里士拖拉机VS北部区体育 全场回放（孙雨轩） 23:45
+${replace}/968341927
+#EXTINF:-1 tvg-id="亚特兰大VS威尼斯" tvg-name="意甲 亚特兰大VS威尼斯 全场回放（谭逸雄） 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 亚特兰大VS威尼斯 全场回放（谭逸雄） 00:15
+${replace}/968342259
+#EXTINF:-1 tvg-id="加拉法体育VS德黑兰独立" tvg-name="亚冠精英 加拉法体育VS德黑兰独立 全场回放（李霄） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 加拉法体育VS德黑兰独立 全场回放（李霄） 02:00
+${replace}/968346487
+#EXTINF:-1 tvg-id="巴格达空军VS艾因" tvg-name="亚冠精英 巴格达空军VS艾因 全场回放（张昊泽） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 巴格达空军VS艾因 全场回放（张昊泽） 02:00
+${replace}/968344869
+#EXTINF:-1 tvg-id="都灵VS乌迪内斯" tvg-name="意甲 都灵VS乌迪内斯 全场回放（鲁靖明） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS乌迪内斯 全场回放（鲁靖明） 02:30
+${replace}/968347062
+#EXTINF:-1 tvg-id="都灵VS乌迪内斯" tvg-name="意甲 都灵VS乌迪内斯 全场回放 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS乌迪内斯 全场回放 02:30
+${replace}/968349846
+#EXTINF:-1 tvg-id="考文垂VS纽卡斯尔联" tvg-name="英超 考文垂VS纽卡斯尔联 全场回放（郭灿亮） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 考文垂VS纽卡斯尔联 全场回放（郭灿亮） 02:55
+${replace}/968346909
+#EXTINF:-1 tvg-id="考文垂VS纽卡斯尔联" tvg-name="英超 考文垂VS纽卡斯尔联 全场回放（AI观赛） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 考文垂VS纽卡斯尔联 全场回放（AI观赛） 02:55
+${replace}/968346957
+#EXTINF:-1 tvg-id="考文垂VS纽卡斯尔联" tvg-name="英超 考文垂VS纽卡斯尔联 全场回放（英文原声） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 考文垂VS纽卡斯尔联 全场回放（英文原声） 02:55
+${replace}/968347147
+#EXTINF:-1 tvg-id="莱万特VS塞维利亚" tvg-name="西甲 莱万特VS塞维利亚 全场回放（周楚雄） 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 莱万特VS塞维利亚 全场回放（周楚雄） 02:45
+${replace}/968347215
+#EXTINF:-1 tvg-id="莱万特VS塞维利亚" tvg-name="西甲 莱万特VS塞维利亚 全场回放（AI智慧观赛） 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 莱万特VS塞维利亚 全场回放（AI智慧观赛） 02:45
+${replace}/968347262
+#EXTINF:-1 tvg-id="利雅得胜利VS费尔干纳石油工人" tvg-name="亚冠精英 利雅得胜利VS费尔干纳石油工人 全场回放（涂远） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 利雅得胜利VS费尔干纳石油工人 全场回放（涂远） 02:00
+${replace}/968347066
+#EXTINF:-1 tvg-id="开拓者VS狮子" tvg-name="NBA 开拓者VS狮子 全场回放（邵化谦） 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 开拓者VS狮子 全场回放（邵化谦） 03:55
+${replace}/968347411
+#EXTINF:-1 tvg-id="开拓者VS狮子" tvg-name="NBA 开拓者VS狮子 全场回放（英文原声） 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 开拓者VS狮子 全场回放（英文原声） 03:55
+${replace}/968347988
+#EXTINF:-1 tvg-id="老鹰VS雷霆" tvg-name="NBA 老鹰VS雷霆 全场回放（盛哲） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 老鹰VS雷霆 全场回放（盛哲） 06:55
+${replace}/968349888
 #EXTINF:-1 tvg-id="尼克斯VS森林狼" tvg-name="NBA 尼克斯VS森林狼 邢晨 07:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 尼克斯VS森林狼 邢晨 07:25
 ${replace}/968238300
 #EXTINF:-1 tvg-id="尼克斯VS森林狼" tvg-name="NBA 尼克斯VS森林狼 英文原声 07:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 尼克斯VS森林狼 英文原声 07:25
 ${replace}/968238312
 #EXTINF:-1 tvg-id="尼克斯VS森林狼" tvg-name="NBA 尼克斯VS森林狼 智能字幕 07:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 尼克斯VS森林狼 智能字幕 07:25
 ${replace}/968280209
-#EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第209期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 咪咕体育日报 第209期 08:00
-${replace}/968047737
 #EXTINF:-1 tvg-id="爵士VS马刺" tvg-name="NBA 爵士VS马刺 王晓晨 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 爵士VS马刺 王晓晨 08:55
 ${replace}/968238403
 #EXTINF:-1 tvg-id="爵士VS马刺" tvg-name="NBA 爵士VS马刺 英文原声 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 爵士VS马刺 英文原声 08:55
@@ -365,11 +341,11 @@ ${replace}/968238415
 ${replace}/968280345
 #EXTINF:-1 tvg-id="环广西公路自行车世界巡回赛" tvg-name="环广西公路自行车世界巡回赛 环广西公路自行车世界巡回赛 解说 12:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/10/12/100000001352106e15f5.png" group-title="体育-今天",环广西公路自行车世界巡回赛 环广西公路自行车世界巡回赛 解说 12:30
 ${replace}/968202475
-#EXTINF:-1 tvg-id="1/16决赛" tvg-name="BWF 1/16决赛 1号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 1/16决赛 1号场地 15:00
+#EXTINF:-1 tvg-id="凤凰领衔出战！胡哲安直面劲敌拉尼尔" tvg-name="BWF 凤凰领衔出战！胡哲安直面劲敌拉尼尔 1号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 凤凰领衔出战！胡哲安直面劲敌拉尼尔 1号场地 15:00
 ${replace}/968329677
-#EXTINF:-1 tvg-id="1/16决赛" tvg-name="BWF 1/16决赛 2号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 1/16决赛 2号场地 15:00
+#EXTINF:-1 tvg-id="凤凰领衔出战！胡哲安直面劲敌拉尼尔" tvg-name="BWF 凤凰领衔出战！胡哲安直面劲敌拉尼尔 2号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 凤凰领衔出战！胡哲安直面劲敌拉尼尔 2号场地 15:00
 ${replace}/968329711
-#EXTINF:-1 tvg-id="1/16决赛" tvg-name="BWF 1/16决赛 3号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 1/16决赛 3号场地 15:00
+#EXTINF:-1 tvg-id="凤凰领衔出战！胡哲安直面劲敌拉尼尔" tvg-name="BWF 凤凰领衔出战！胡哲安直面劲敌拉尼尔 3号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 凤凰领衔出战！胡哲安直面劲敌拉尼尔 3号场地 15:00
 ${replace}/968329736
 #EXTINF:-1 tvg-id="纽卡斯尔喷气机足球俱乐部VS大阪钢巴" tvg-name="亚冠精英 纽卡斯尔喷气机足球俱乐部VS大阪钢巴 鲁靖明 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 纽卡斯尔喷气机足球俱乐部VS大阪钢巴 鲁靖明 15:30
 ${replace}/968170631
