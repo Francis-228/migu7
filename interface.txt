@@ -389,54 +389,36 @@ ${replace}/968392341
 ${replace}/968393852
 #EXTINF:-1 tvg-id="森林狼VS活塞" tvg-name="NBA 森林狼VS活塞 全场回放（邢晨） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 森林狼VS活塞 全场回放（邢晨） 07:55
 ${replace}/968393701
+#EXTINF:-1 tvg-id="森林狼VS活塞" tvg-name="NBA 森林狼VS活塞 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 森林狼VS活塞 全场回放（英文原声） 07:55
+${replace}/968394982
 #EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 全场回放（李嘉伟） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 全场回放（李嘉伟） 07:55
 ${replace}/968393261
+#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 全场回放（英文原声） 07:55
+${replace}/968394701
 #EXTINF:-1 tvg-id="独行侠VS鹈鹕" tvg-name="NBA 独行侠VS鹈鹕 全场回放（盛哲） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 独行侠VS鹈鹕 全场回放（盛哲） 07:55
 ${replace}/968393289
+#EXTINF:-1 tvg-id="独行侠VS鹈鹕" tvg-name="NBA 独行侠VS鹈鹕 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 独行侠VS鹈鹕 全场回放（英文原声） 07:55
+${replace}/968394788
 #EXTINF:-1 tvg-id="马刺VS太阳" tvg-name="NBA 马刺VS太阳 全场回放（王冠证） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS太阳 全场回放（王冠证） 07:55
 ${replace}/968393176
-#EXTINF:-1 tvg-id="快船VS掘金" tvg-name="NBA 快船VS掘金 孙博 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 快船VS掘金 孙博 10:25
-${replace}/968237946
-#EXTINF:-1 tvg-id="快船VS掘金" tvg-name="NBA 快船VS掘金 英文原声 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 快船VS掘金 英文原声 10:25
-${replace}/968237880
-#EXTINF:-1 tvg-id="快船VS掘金" tvg-name="NBA 快船VS掘金 智能字幕 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 快船VS掘金 智能字幕 10:25
-${replace}/968280450
-#EXTINF:-1 tvg-id="浪琴表北京国际马术大师赛day1" tvg-name="浪琴表北京国际马术大师赛 浪琴表北京国际马术大师赛day1 清流播出 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/9/100000001561106407f7.png" group-title="体育-今天",浪琴表北京国际马术大师赛 浪琴表北京国际马术大师赛day1 清流播出 14:00
+#EXTINF:-1 tvg-id="马刺VS太阳" tvg-name="NBA 马刺VS太阳 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS太阳 全场回放（英文原声） 07:55
+${replace}/968394677
+#EXTINF:-1 tvg-id="快船VS掘金" tvg-name="NBA 快船VS掘金 全场回放（孙博） 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 快船VS掘金 全场回放（孙博） 10:25
+${replace}/968396301
+#EXTINF:-1 tvg-id="快船VS掘金" tvg-name="NBA 快船VS掘金 全场回放（英文原声） 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 快船VS掘金 全场回放（英文原声） 10:25
+${replace}/968399765
+#EXTINF:-1 tvg-id="115CM挑战赛、125CM冠军赛" tvg-name="浪琴表北京国际马术大师赛 115CM挑战赛、125CM冠军赛 清流播出 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/9/100000001561106407f7.png" group-title="体育-今天",浪琴表北京国际马术大师赛 115CM挑战赛、125CM冠军赛 清流播出 14:00
 ${replace}/968209229
-#EXTINF:-1 tvg-id="环广西公路自行车世界巡回赛" tvg-name="环广西公路自行车世界巡回赛 环广西公路自行车世界巡回赛 解说 14:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/10/12/100000001352106e15f5.png" group-title="体育-今天",环广西公路自行车世界巡回赛 环广西公路自行车世界巡回赛 解说 14:30
-${replace}/968202511
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 1号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 1号场地 15:00
-${replace}/968329982
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 2号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 2号场地 15:00
+#EXTINF:-1 tvg-id="梁王、凤凰晚间亮相 王祉怡德比速胜" tvg-name="BWF 梁王、凤凰晚间亮相 王祉怡德比速胜 2号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 梁王、凤凰晚间亮相 王祉怡德比速胜 2号场地 15:00
 ${replace}/968330034
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 3号场地 15:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 3号场地 15:10
+#EXTINF:-1 tvg-id="梁王、凤凰晚间亮相 王祉怡德比速胜" tvg-name="BWF 梁王、凤凰晚间亮相 王祉怡德比速胜 1号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 梁王、凤凰晚间亮相 王祉怡德比速胜 1号场地 15:00
+${replace}/968329982
+#EXTINF:-1 tvg-id="梁王、凤凰晚间亮相 王祉怡德比速胜" tvg-name="BWF 梁王、凤凰晚间亮相 王祉怡德比速胜 3号场地 15:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 梁王、凤凰晚间亮相 王祉怡德比速胜 3号场地 15:10
 ${replace}/968330090
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 1号场地英文视角 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 1号场地英文视角 15:00
+#EXTINF:-1 tvg-id="梁王、凤凰晚间亮相 王祉怡德比速胜" tvg-name="BWF 梁王、凤凰晚间亮相 王祉怡德比速胜 1号场地英文视角 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 梁王、凤凰晚间亮相 王祉怡德比速胜 1号场地英文视角 15:00
 ${replace}/968330094
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 2号场地英文视角 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 2号场地英文视角 15:00
+#EXTINF:-1 tvg-id="梁王、凤凰晚间亮相 王祉怡德比速胜" tvg-name="BWF 梁王、凤凰晚间亮相 王祉怡德比速胜 2号场地英文视角 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 梁王、凤凰晚间亮相 王祉怡德比速胜 2号场地英文视角 15:00
 ${replace}/968330127
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 鸿昆 18:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 鸿昆 18:20
-${replace}/968393336
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 朱胤丞 21:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 朱胤丞 21:40
-${replace}/968393518
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 朱胤丞 23:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 朱胤丞 23:20
-${replace}/968393523
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 朱胤丞 01:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 朱胤丞 01:00
-${replace}/968393525
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 孙宁智 15:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 孙宁智 15:10
-${replace}/968393578
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 孙宁智 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 孙宁智 18:30
-${replace}/968393591
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 孙宁智 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 孙宁智 19:20
-${replace}/968393615
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 余博洋 20:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 余博洋 20:35
-${replace}/968393621
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 余博洋 21:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 余博洋 21:25
-${replace}/968393631
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 余博洋 22:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 余博洋 22:15
-${replace}/968393641
-#EXTINF:-1 tvg-id="韩千禧PK王祉怡 陈柏阳/刘毅出战" tvg-name="BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 轩子博 01:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩千禧PK王祉怡 陈柏阳/刘毅出战 轩子博 01:35
-${replace}/968393654
 #EXTINF:-1 tvg-id="UCI上海场地车世锦赛" tvg-name="中国自行车运动协会系列赛 UCI上海场地车世锦赛 解说 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png" group-title="体育-今天",中国自行车运动协会系列赛 UCI上海场地车世锦赛 解说 17:00
 ${replace}/968235437
 #EXTINF:-1 tvg-id="江原VS金边皇冠" tvg-name="亚冠二级 江原VS金边皇冠 鹿中原 17:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 江原VS金边皇冠 鹿中原 17:45
@@ -477,7 +459,7 @@ ${replace}/968238084
 ${replace}/968238053
 #EXTINF:-1 tvg-id="尼克斯VS猛龙" tvg-name="NBA 尼克斯VS猛龙 智能字幕 07:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 尼克斯VS猛龙 智能字幕 07:25
 ${replace}/968280453
-#EXTINF:-1 tvg-id="浪琴表北京国际马术大师赛day2" tvg-name="浪琴表北京国际马术大师赛 浪琴表北京国际马术大师赛day2 清流播出 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/9/100000001561106407f7.png" group-title="体育-明天",浪琴表北京国际马术大师赛 浪琴表北京国际马术大师赛day2 清流播出 08:00
+#EXTINF:-1 tvg-id="115CM挑战赛、120CM团体赛等" tvg-name="浪琴表北京国际马术大师赛 115CM挑战赛、120CM团体赛等 清流播出 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/9/100000001561106407f7.png" group-title="体育-明天",浪琴表北京国际马术大师赛 115CM挑战赛、120CM团体赛等 清流播出 08:00
 ${replace}/968209238
 #EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第212期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-明天",咪咕体育日报 undefined 咪咕体育日报 第212期 08:00
 ${replace}/968047946
@@ -489,6 +471,8 @@ ${replace}/968238143
 ${replace}/968280465
 #EXTINF:-1 tvg-id="中国户外运动产业大会" tvg-name="中国户外运动产业大会 中国户外运动产业大会 解说 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/9/1000000015601067171f.png" group-title="体育-明天",中国户外运动产业大会 中国户外运动产业大会 解说 09:00
 ${replace}/968203077
+#EXTINF:-1 tvg-id="单打第一、二阶段" tvg-name="中国乒协会员联赛 单打第一、二阶段 赛场原声 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png" group-title="体育-明天",中国乒协会员联赛 单打第一、二阶段 赛场原声 10:00
+${replace}/968394815
 #EXTINF:-1 tvg-id="环广西公路自行车世界巡回赛" tvg-name="环广西公路自行车世界巡回赛 环广西公路自行车世界巡回赛 解说 13:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/10/12/100000001352106e15f5.png" group-title="体育-明天",环广西公路自行车世界巡回赛 环广西公路自行车世界巡回赛 解说 13:35
 ${replace}/968202521
 #EXTINF:-1 tvg-id="JCK战觉城王者系列017：赛前称重仪式" tvg-name="JCK JCK战觉城王者系列017：赛前称重仪式 现场原声 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000103110616c76.png" group-title="体育-明天",JCK JCK战觉城王者系列017：赛前称重仪式 现场原声 16:00

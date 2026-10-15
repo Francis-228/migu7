@@ -103,7 +103,7 @@
         <title lang="zh">前情提要-伟大的长征-第13集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261015205915 +0800" stop="20261015214825 +0800">
-        <title lang="zh">伟大的长征13/60</title>
+        <title lang="zh">伟大的长征第13集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261015214825 +0800" stop="20261015220000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
@@ -621,8 +621,11 @@
     <programme channel="CCTV6电影" start="20261015010408 +0800" stop="20261015023335 +0800">
         <title lang="zh">猎心之血亲</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261015023335 +0800" stop="20261015054431 +0800">
+    <programme channel="CCTV6电影" start="20261015023335 +0800" stop="20261015040814 +0800">
         <title lang="zh">热干面的味道</title>
+    </programme>
+    <programme channel="CCTV6电影" start="20261015040814 +0800" stop="20261015054431 +0800">
+        <title lang="zh">血狼犬</title>
     </programme>
     <programme channel="CCTV6电影" start="20261015054431 +0800" stop="20261015064912 +0800">
         <title lang="zh">龙虎山张天师</title>
@@ -889,13 +892,13 @@
         <title lang="zh">本集提要-蒸蒸日上-第11集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261015193000 +0800" stop="20261015202540 +0800">
-        <title lang="zh">蒸蒸日上11/22</title>
+        <title lang="zh">蒸蒸日上第11集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261015202540 +0800" stop="20261015203040 +0800">
         <title lang="zh">本集提要-蒸蒸日上-第12集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261015203040 +0800" stop="20261015212440 +0800">
-        <title lang="zh">蒸蒸日上12/22</title>
+        <title lang="zh">蒸蒸日上第12集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261015212440 +0800" stop="20261015212940 +0800">
         <title lang="zh">本集提要-无可替代-第18集</title>
@@ -4446,7 +4449,7 @@
     <programme channel="河北卫视" start="20261015233000 +0800" stop="20261015233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20261015233300 +0800" stop="20261016000000 +0800">
+    <programme channel="河北卫视" start="20261015233300 +0800" stop="20261016001400 +0800">
         <title lang="zh">悬崖</title>
     </programme>
     <channel id="江西卫视">
