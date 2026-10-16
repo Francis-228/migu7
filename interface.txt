@@ -271,16 +271,44 @@ ${replace}/968426819
 ${replace}/968422939
 #EXTINF:-1 tvg-id="UCI上海场地车世锦赛" tvg-name="中国自行车运动协会系列赛 UCI上海场地车世锦赛 2026中国自行车运动协会系列赛UCI上海场地车世锦赛Day3全场回放（官方解说） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png" group-title="体育-昨天",中国自行车运动协会系列赛 UCI上海场地车世锦赛 2026中国自行车运动协会系列赛UCI上海场地车世锦赛Day3全场回放（官方解说） 17:00
 ${replace}/968430265
-#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 安洗莹VS夏尔马 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 安洗莹VS夏尔马 22:50
-${replace}/968414160
-#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 1号场地 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 1号场地 17:00
-${replace}/968330135
-#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 2号场地 23:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 2号场地 23:40
-${replace}/968330191
-#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 1号场地英文视角 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 1号场地英文视角 17:00
-${replace}/968330209
-#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 2号场地英文视角 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 2号场地英文视角 17:00
-${replace}/968330229
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】瓦尔达尼0-2王祉怡（朱胤丞） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】瓦尔达尼0-2王祉怡（朱胤丞） 22:50
+${replace}/968425486
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】冯彦哲/黄东萍2-0叶宏蔚/詹又蓁（鸿昆） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】冯彦哲/黄东萍2-0叶宏蔚/詹又蓁（鸿昆） 22:50
+${replace}/968428840
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】吴世飞/伊祖丁1-2梁伟铿/王昶（余博洋） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】吴世飞/伊祖丁1-2梁伟铿/王昶（余博洋） 22:50
+${replace}/968429198
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】程星/张驰2-0马蒂亚斯/博尔（鸿昆） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】程星/张驰2-0马蒂亚斯/博尔（鸿昆） 22:50
+${replace}/968430459
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】李美妙0-2山口茜（余博洋） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】李美妙0-2山口茜（余博洋） 22:50
+${replace}/968427461
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】鲍骊婧/曹梓涵2-0加夫列拉/斯蒂法尼（杨妮娜） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】鲍骊婧/曹梓涵2-0加夫列拉/斯蒂法尼（杨妮娜） 22:50
+${replace}/968425372
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】金元浩/徐承宰2-0熊谷翔/西大辉（朱胤丞） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】金元浩/徐承宰2-0熊谷翔/西大辉（朱胤丞） 22:50
+${replace}/968424730
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】佩拉查伊/帕克卡波0-2阿尔菲安/菲克里（赛场原声） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】佩拉查伊/帕克卡波0-2阿尔菲安/菲克里（赛场原声） 22:50
+${replace}/968426318
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】周天成0-2拉尼尔（赛场原声） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】周天成0-2拉尼尔（赛场原声） 22:50
+${replace}/968432390
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】安东森2-0法汉 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】安东森2-0法汉 22:50
+${replace}/968432595
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】安洗莹2-0夏尔马（孙宁智） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】安洗莹2-0夏尔马（孙宁智） 22:50
+${replace}/968432823
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】一号场地（赛场原声）（一） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】一号场地（赛场原声）（一） 22:50
+${replace}/968435045
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】一号场地（赛场原声）（二） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】一号场地（赛场原声）（二） 22:50
+${replace}/968440251
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】一号场地（英文原声）（一） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】一号场地（英文原声）（一） 22:50
+${replace}/968435016
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】一号场地（英文原声）（二） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】一号场地（英文原声）（二） 22:50
+${replace}/968436733
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】二号场地（赛场原声）（一） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】二号场地（赛场原声）（一） 22:50
+${replace}/968433179
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】二号场地（赛场原声）（二） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】二号场地（赛场原声）（二） 22:50
+${replace}/968435662
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】二号场地（英文原声）（一） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】二号场地（英文原声）（一） 22:50
+${replace}/968433100
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】二号场地（英文原声）（二） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【全场回放】二号场地（英文原声）（二） 22:50
+${replace}/968440374
 #EXTINF:-1 tvg-id="揭幕战特别节目" tvg-name="CBA 揭幕战特别节目 全场回放（杨健、杜锋、杨鸣、杨毅、拜月宁） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-昨天",CBA 揭幕战特别节目 全场回放（杨健、杜锋、杨鸣、杨毅、拜月宁） 17:00
 ${replace}/968426168
 #EXTINF:-1 tvg-id="俄克拉荷马城雷霆 vs 休斯顿火箭" tvg-name="NBA经典赛事 俄克拉荷马城雷霆 vs 休斯顿火箭 全场回放（周鹏） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-昨天",NBA经典赛事 俄克拉荷马城雷霆 vs 休斯顿火箭 全场回放（周鹏） 18:00
@@ -311,42 +339,36 @@ ${replace}/968429433
 ${replace}/968429102
 #EXTINF:-1 tvg-id="上海久事VS深圳马可波罗" tvg-name="CBA 上海久事VS深圳马可波罗 全场回放（李嘉伟） 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-昨天",CBA 上海久事VS深圳马可波罗 全场回放（李嘉伟） 19:25
 ${replace}/968429097
+#EXTINF:-1 tvg-id="上海久事VS深圳马可波罗" tvg-name="CBA 上海久事VS深圳马可波罗 全场回放（杜锋、杨鸣视角） 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-昨天",CBA 上海久事VS深圳马可波罗 全场回放（杜锋、杨鸣视角） 19:25
+${replace}/968431049
 #EXTINF:-1 tvg-id="上海久事VS深圳马可波罗" tvg-name="CBA 上海久事VS深圳马可波罗 全场回放（赛场原声） 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-昨天",CBA 上海久事VS深圳马可波罗 全场回放（赛场原声） 19:25
 ${replace}/968430146
-#EXTINF:-1 tvg-id="上海久事VS深圳马可波罗" tvg-name="CBA 上海久事VS深圳马可波罗 全场回放（杜锋、杨鸣） 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-昨天",CBA 上海久事VS深圳马可波罗 全场回放（杜锋、杨鸣） 19:25
-${replace}/968431049
 #EXTINF:-1 tvg-id="益阳队VS长沙队" tvg-name="湘超 益阳队VS长沙队 全场回放 19:38" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/22/100000001316106d1913.png" group-title="体育-昨天",湘超 益阳队VS长沙队 全场回放 19:38
 ${replace}/968431217
 #EXTINF:-1 tvg-id="娄底队VS株洲队" tvg-name="湘超 娄底队VS株洲队 全场回放 19:38" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/22/100000001316106d1913.png" group-title="体育-昨天",湘超 娄底队VS株洲队 全场回放 19:38
 ${replace}/968431235
-#EXTINF:-1 tvg-id="ONE周五格斗夜175：兰辛VS雷尼米 洛阳悍将杨贵尧出战" tvg-name="ONE冠军赛 ONE周五格斗夜175：兰辛VS雷尼米 洛阳悍将杨贵尧出战 王琰博 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-昨天",ONE冠军赛 ONE周五格斗夜175：兰辛VS雷尼米 洛阳悍将杨贵尧出战 王琰博 21:30
-${replace}/968378251
-#EXTINF:-1 tvg-id="ONE周五格斗夜175：兰辛VS雷尼米 洛阳悍将杨贵尧出战" tvg-name="ONE冠军赛 ONE周五格斗夜175：兰辛VS雷尼米 洛阳悍将杨贵尧出战 英文原声 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-昨天",ONE冠军赛 ONE周五格斗夜175：兰辛VS雷尼米 洛阳悍将杨贵尧出战 英文原声 21:30
-${replace}/968378610
-#EXTINF:-1 tvg-id="法兰克福VS科隆" tvg-name="德甲 法兰克福VS科隆 李霄 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 法兰克福VS科隆 李霄 02:15
-${replace}/968376282
-#EXTINF:-1 tvg-id="法兰克福VS科隆" tvg-name="德甲 法兰克福VS科隆 赛场原声 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 法兰克福VS科隆 赛场原声 02:15
-${replace}/968376189
-#EXTINF:-1 tvg-id="法兰克福VS科隆" tvg-name="德甲 法兰克福VS科隆 智能解说 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 法兰克福VS科隆 智能解说 02:25
-${replace}/968412356
-#EXTINF:-1 tvg-id="弗罗西诺内VS萨索洛" tvg-name="意甲 弗罗西诺内VS萨索洛 乔迁 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 弗罗西诺内VS萨索洛 乔迁 02:30
-${replace}/968377669
-#EXTINF:-1 tvg-id="弗罗西诺内VS萨索洛" tvg-name="意甲 弗罗西诺内VS萨索洛 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 弗罗西诺内VS萨索洛 赛场原声 02:30
-${replace}/968377667
-#EXTINF:-1 tvg-id="弗罗西诺内VS萨索洛" tvg-name="意甲 弗罗西诺内VS萨索洛 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 弗罗西诺内VS萨索洛 智能解说 02:40
-${replace}/968412410
-#EXTINF:-1 tvg-id="勒芒VS图卢兹" tvg-name="法甲 勒芒VS图卢兹 刘一臻 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 勒芒VS图卢兹 刘一臻 02:30
-${replace}/968376346
-#EXTINF:-1 tvg-id="勒芒VS图卢兹" tvg-name="法甲 勒芒VS图卢兹 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 勒芒VS图卢兹 赛场原声 02:30
-${replace}/968376313
-#EXTINF:-1 tvg-id="勒芒VS图卢兹" tvg-name="法甲 勒芒VS图卢兹 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 勒芒VS图卢兹 智能解说 02:40
-${replace}/968412444
-#EXTINF:-1 tvg-id="拉科鲁尼亚VS莱万特" tvg-name="西甲 拉科鲁尼亚VS莱万特 洪宇青 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 拉科鲁尼亚VS莱万特 洪宇青 02:45
-${replace}/968376291
-#EXTINF:-1 tvg-id="拉科鲁尼亚VS莱万特" tvg-name="西甲 拉科鲁尼亚VS莱万特 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 拉科鲁尼亚VS莱万特 赛场原声 02:45
-${replace}/968376278
-#EXTINF:-1 tvg-id="拉科鲁尼亚VS莱万特" tvg-name="西甲 拉科鲁尼亚VS莱万特 智能解说 02:55" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 拉科鲁尼亚VS莱万特 智能解说 02:55
-${replace}/968412474
+#EXTINF:-1 tvg-id="雷尼米拳如雨下KO兰辛 杨贵尧遗憾落败" tvg-name="ONE冠军赛 雷尼米拳如雨下KO兰辛 杨贵尧遗憾落败 全场回放（王琰博） 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-昨天",ONE冠军赛 雷尼米拳如雨下KO兰辛 杨贵尧遗憾落败 全场回放（王琰博） 21:30
+${replace}/968432956
+#EXTINF:-1 tvg-id="雷尼米拳如雨下KO兰辛 杨贵尧遗憾落败" tvg-name="ONE冠军赛 雷尼米拳如雨下KO兰辛 杨贵尧遗憾落败 全场回放（英文原声） 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-昨天",ONE冠军赛 雷尼米拳如雨下KO兰辛 杨贵尧遗憾落败 全场回放（英文原声） 21:30
+${replace}/968434183
+#EXTINF:-1 tvg-id="雷尼米拳如雨下KO兰辛 杨贵尧遗憾落败" tvg-name="ONE冠军赛 雷尼米拳如雨下KO兰辛 杨贵尧遗憾落败 全场回放（赛场原声） 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-昨天",ONE冠军赛 雷尼米拳如雨下KO兰辛 杨贵尧遗憾落败 全场回放（赛场原声） 21:30
+${replace}/968436087
+#EXTINF:-1 tvg-id="法兰克福VS科隆" tvg-name="德甲 法兰克福VS科隆 全场回放（李霄） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 法兰克福VS科隆 全场回放（李霄） 02:25
+${replace}/968438573
+#EXTINF:-1 tvg-id="法兰克福VS科隆" tvg-name="德甲 法兰克福VS科隆 全场回放（AI智慧观赛） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 法兰克福VS科隆 全场回放（AI智慧观赛） 02:25
+${replace}/968439356
+#EXTINF:-1 tvg-id="法兰克福VS科隆" tvg-name="德甲 法兰克福VS科隆 全场回放（智能解说） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 法兰克福VS科隆 全场回放（智能解说） 02:25
+${replace}/968440044
+#EXTINF:-1 tvg-id="弗罗西诺内VS萨索洛" tvg-name="意甲 弗罗西诺内VS萨索洛 全场回放（乔迁） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 弗罗西诺内VS萨索洛 全场回放（乔迁） 02:40
+${replace}/968439040
+#EXTINF:-1 tvg-id="勒芒VS图卢兹" tvg-name="法甲 勒芒VS图卢兹 全场回放（刘一臻） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 勒芒VS图卢兹 全场回放（刘一臻） 02:40
+${replace}/968439124
+#EXTINF:-1 tvg-id="勒芒VS图卢兹" tvg-name="法甲 勒芒VS图卢兹 全场回放（AI智慧观赛） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 勒芒VS图卢兹 全场回放（AI智慧观赛） 02:40
+${replace}/968439317
+#EXTINF:-1 tvg-id="勒芒VS图卢兹" tvg-name="法甲 勒芒VS图卢兹 全场回放（智能解说） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 勒芒VS图卢兹 全场回放（智能解说） 02:40
+${replace}/968439172
+#EXTINF:-1 tvg-id="拉科鲁尼亚VS莱万特" tvg-name="西甲 拉科鲁尼亚VS莱万特 全场回放（洪宇青） 02:55" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 拉科鲁尼亚VS莱万特 全场回放（洪宇青） 02:55
+${replace}/968439994
 #EXTINF:-1 tvg-id="PFL芝加哥站：卡穆什VS毕肖普" tvg-name="PFL PFL芝加哥站：卡穆什VS毕肖普 汪乐 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-今天",PFL PFL芝加哥站：卡穆什VS毕肖普 汪乐 05:55
 ${replace}/968378975
 #EXTINF:-1 tvg-id="PFL芝加哥站：卡穆什VS毕肖普" tvg-name="PFL PFL芝加哥站：卡穆什VS毕肖普 英文原声 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-今天",PFL PFL芝加哥站：卡穆什VS毕肖普 英文原声 05:55
@@ -453,9 +475,9 @@ ${replace}/968394212
 ${replace}/968050990
 #EXTINF:-1 tvg-id="FISE极限运动世界巡回赛上海站" tvg-name="FISE极限运动世界巡回赛 FISE极限运动世界巡回赛上海站 解说 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/9/100000001558106e8930.png" group-title="体育-今天",FISE极限运动世界巡回赛 FISE极限运动世界巡回赛上海站 解说 15:00
 ${replace}/968202728
-#EXTINF:-1 tvg-id="半决赛" tvg-name="BWF 半决赛 1号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 半决赛 1号场地 15:00
+#EXTINF:-1 tvg-id="国羽混双德比 王祉怡直面山口茜" tvg-name="BWF 国羽混双德比 王祉怡直面山口茜 1号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽混双德比 王祉怡直面山口茜 1号场地 15:00
 ${replace}/968330244
-#EXTINF:-1 tvg-id="半决赛" tvg-name="BWF 半决赛 1号场地英文视角 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 半决赛 1号场地英文视角 15:00
+#EXTINF:-1 tvg-id="国羽混双德比 王祉怡直面山口茜" tvg-name="BWF 国羽混双德比 王祉怡直面山口茜 1号场地英文视角 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽混双德比 王祉怡直面山口茜 1号场地英文视角 15:00
 ${replace}/968330255
 #EXTINF:-1 tvg-id="上海赛更达VS广东铭途" tvg-name="中乙 上海赛更达VS广东铭途 解说 15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="体育-今天",中乙 上海赛更达VS广东铭途 解说 15:20
 ${replace}/968399089
