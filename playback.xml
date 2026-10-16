@@ -862,16 +862,16 @@
         <title lang="zh">蒸蒸日上第14集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261016212440 +0800" stop="20261016212940 +0800">
-        <title lang="zh">本集提要-嫁金钗-1/33</title>
+        <title lang="zh">本集提要-嫁金钗-第1集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261016212940 +0800" stop="20261016221940 +0800">
-        <title lang="zh">嫁金钗1/33</title>
+        <title lang="zh">嫁金钗第1集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261016221940 +0800" stop="20261016222140 +0800">
-        <title lang="zh">本集提要-嫁金钗-2/33</title>
+        <title lang="zh">本集提要-嫁金钗-第2集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261016222140 +0800" stop="20261016231140 +0800">
-        <title lang="zh">嫁金钗2/33</title>
+        <title lang="zh">嫁金钗第2集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261016231140 +0800" stop="20261016235740 +0800">
         <title lang="zh">家业第13集</title>
@@ -1065,19 +1065,25 @@
     <programme channel="CCTV10科教" start="20261016193200 +0800" stop="20261016203200 +0800">
         <title lang="zh">自然传奇-2026-289</title>
     </programme>
-    <programme channel="CCTV10科教" start="20261016203200 +0800" stop="20261016212030 +0800">
-        <title lang="zh">探索·发现-2026-289</title>
+    <programme channel="CCTV10科教" start="20261016203200 +0800" stop="20261016205500 +0800">
+        <title lang="zh">英雄的史诗-1</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20261016205500 +0800" stop="20261016212030 +0800">
+        <title lang="zh">英雄的史诗-2</title>
     </programme>
     <programme channel="CCTV10科教" start="20261016212030 +0800" stop="20261016215130 +0800">
         <title lang="zh">大道同行——从长征走来的大学-5</title>
     </programme>
-    <programme channel="CCTV10科教" start="20261016215130 +0800" stop="20261016221330 +0800">
+    <programme channel="CCTV10科教" start="20261016215130 +0800" stop="20261016223300 +0800">
+        <title lang="zh">探索·发现-2026-289</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20261016223300 +0800" stop="20261016225530 +0800">
         <title lang="zh">创新进行时-2026-207</title>
     </programme>
-    <programme channel="CCTV10科教" start="20261016221330 +0800" stop="20261016231900 +0800">
+    <programme channel="CCTV10科教" start="20261016225530 +0800" stop="20261016235930 +0800">
         <title lang="zh">剧说历史（第二季）-50</title>
     </programme>
-    <programme channel="CCTV10科教" start="20261016231900 +0800" stop="20261016235900 +0800">
+    <programme channel="CCTV10科教" start="20261016235930 +0800" stop="20261016235900 +0800">
         <title lang="zh">2026大千世界-103</title>
     </programme>
     <channel id="CCTV11戏曲">
@@ -4224,7 +4230,7 @@
     <programme channel="辽宁卫视" start="20261016233200 +0800" stop="20261016233900 +0800">
         <title lang="zh">带你游辽宁</title>
     </programme>
-    <programme channel="辽宁卫视" start="20261016233900 +0800" stop="20261017000000 +0800">
+    <programme channel="辽宁卫视" start="20261016233900 +0800" stop="20261017003400 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
@@ -4362,7 +4368,7 @@
     <programme channel="河北卫视" start="20261016233000 +0800" stop="20261016233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20261016233300 +0800" stop="20261017000000 +0800">
+    <programme channel="河北卫视" start="20261016233300 +0800" stop="20261017001600 +0800">
         <title lang="zh">悬崖</title>
     </programme>
     <channel id="江西卫视">
