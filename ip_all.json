@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/10/17 16:14:33",
+  "update_time": "2026/10/17 21:26:40",
   "statistics": {
-    "total_processed": 8031,
+    "total_processed": 7865,
     "valid_ip_count": 53,
-    "duplicate_ip_count": 7389
+    "duplicate_ip_count": 7224
   },
   "ip_list": {
     "sxcu": [
