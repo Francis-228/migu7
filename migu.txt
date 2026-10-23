@@ -3247,22 +3247,6 @@ http://115.171.216.32:4000/968643797
 http://115.171.216.23:4000/968643797
 #EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【回放】周天成1-2戚又仁（杨妮娜） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【回放】周天成1-2戚又仁（杨妮娜） 20:10
 http://114.254.38.234:8888/968643797
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
-http://219.156.94.94:4022/968645991
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
-http://171.119.206.17:6000/968645991
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
-http://171.119.206.49:6000/968645991
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
-http://60.4.28.229:8077/968645991
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
-http://144.255.16.190:6688/968645991
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
-http://115.171.216.32:4000/968645991
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
-http://115.171.216.23:4000/968645991
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
-http://114.254.38.234:8888/968645991
 #EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（一） 20:10
 http://219.156.94.94:4022/968646206
 #EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（一） 20:10
@@ -3279,6 +3263,22 @@ http://115.171.216.32:4000/968646206
 http://115.171.216.23:4000/968646206
 #EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（一） 20:10
 http://114.254.38.234:8888/968646206
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10
+http://219.156.94.94:4022/968650842
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10
+http://171.119.206.17:6000/968650842
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10
+http://171.119.206.49:6000/968650842
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10
+http://60.4.28.229:8077/968650842
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10
+http://144.255.16.190:6688/968650842
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10
+http://115.171.216.32:4000/968650842
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10
+http://115.171.216.23:4000/968650842
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（赛场原声）（二） 20:10
+http://114.254.38.234:8888/968650842
 #EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（一） 20:10
 http://219.156.94.94:4022/968646411
 #EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（一） 20:10
@@ -3295,22 +3295,38 @@ http://115.171.216.32:4000/968646411
 http://115.171.216.23:4000/968646411
 #EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（一） 20:10
 http://114.254.38.234:8888/968646411
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
-http://219.156.94.94:4022/968647684
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
-http://171.119.206.17:6000/968647684
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
-http://171.119.206.49:6000/968647684
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
-http://60.4.28.229:8077/968647684
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
-http://144.255.16.190:6688/968647684
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
-http://115.171.216.32:4000/968647684
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
-http://115.171.216.23:4000/968647684
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
-http://114.254.38.234:8888/968647684
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10
+http://219.156.94.94:4022/968650262
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10
+http://171.119.206.17:6000/968650262
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10
+http://171.119.206.49:6000/968650262
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10
+http://60.4.28.229:8077/968650262
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10
+http://144.255.16.190:6688/968650262
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10
+http://115.171.216.32:4000/968650262
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10
+http://115.171.216.23:4000/968650262
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（二） 20:10
+http://114.254.38.234:8888/968650262
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10
+http://219.156.94.94:4022/968650792
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10
+http://171.119.206.17:6000/968650792
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10
+http://171.119.206.49:6000/968650792
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10
+http://60.4.28.229:8077/968650792
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10
+http://144.255.16.190:6688/968650792
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10
+http://115.171.216.32:4000/968650792
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10
+http://115.171.216.23:4000/968650792
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（赛场原声）（三） 20:10
+http://114.254.38.234:8888/968650792
 #EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（一） 20:10
 http://219.156.94.94:4022/968647865
 #EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（一） 20:10
@@ -3327,6 +3343,54 @@ http://115.171.216.32:4000/968647865
 http://115.171.216.23:4000/968647865
 #EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（一） 20:10
 http://114.254.38.234:8888/968647865
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10
+http://219.156.94.94:4022/968650811
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10
+http://171.119.206.17:6000/968650811
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10
+http://171.119.206.49:6000/968650811
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10
+http://60.4.28.229:8077/968650811
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10
+http://144.255.16.190:6688/968650811
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10
+http://115.171.216.32:4000/968650811
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10
+http://115.171.216.23:4000/968650811
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】三号场地（赛场原声）（二） 20:10
+http://114.254.38.234:8888/968650811
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
+http://219.156.94.94:4022/968645991
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
+http://171.119.206.17:6000/968645991
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
+http://171.119.206.49:6000/968645991
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
+http://60.4.28.229:8077/968645991
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
+http://144.255.16.190:6688/968645991
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
+http://115.171.216.32:4000/968645991
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
+http://115.171.216.23:4000/968645991
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（一） 20:10
+http://114.254.38.234:8888/968645991
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10
+http://219.156.94.94:4022/968650865
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10
+http://171.119.206.17:6000/968650865
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10
+http://171.119.206.49:6000/968650865
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10
+http://60.4.28.229:8077/968650865
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10
+http://144.255.16.190:6688/968650865
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10
+http://115.171.216.32:4000/968650865
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10
+http://115.171.216.23:4000/968650865
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】四号场地（赛场原声）（二） 20:10
+http://114.254.38.234:8888/968650865
 #EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（英文原声）（一） 20:10
 http://219.156.94.94:4022/968648062
 #EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（英文原声）（一） 20:10
@@ -3343,38 +3407,38 @@ http://115.171.216.32:4000/968648062
 http://115.171.216.23:4000/968648062
 #EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】一号场地（英文原声）（一） 20:10
 http://114.254.38.234:8888/968648062
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
+http://219.156.94.94:4022/968647684
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
+http://171.119.206.17:6000/968647684
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
+http://171.119.206.49:6000/968647684
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
+http://60.4.28.229:8077/968647684
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
+http://144.255.16.190:6688/968647684
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
+http://115.171.216.32:4000/968647684
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
+http://115.171.216.23:4000/968647684
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（一） 20:10
+http://114.254.38.234:8888/968647684
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10
 http://219.156.94.94:4022/968649572
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10
 http://171.119.206.17:6000/968649572
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10
 http://171.119.206.49:6000/968649572
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10
 http://60.4.28.229:8077/968649572
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10
 http://144.255.16.190:6688/968649572
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10
 http://115.171.216.32:4000/968649572
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10
 http://115.171.216.23:4000/968649572
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（英文原声）（二） 20:10
+#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 【全场回放】二号场地（英文原声）（二） 20:10
 http://114.254.38.234:8888/968649572
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10
-http://219.156.94.94:4022/968650262
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10
-http://171.119.206.17:6000/968650262
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10
-http://171.119.206.49:6000/968650262
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10
-http://60.4.28.229:8077/968650262
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10
-http://144.255.16.190:6688/968650262
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10
-http://115.171.216.32:4000/968650262
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10
-http://115.171.216.23:4000/968650262
-#EXTINF:-1 tvg-id="胡哲安逆转晋级 娃卉组合零封" tvg-name="BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安逆转晋级 娃卉组合零封 2026BWF法国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二） 20:10
-http://114.254.38.234:8888/968650262
 #EXTINF:-1 tvg-id="NBA精彩重播：勇士vs湖人" tvg-name="NBA经典赛事 NBA精彩重播：勇士vs湖人 全场回放（蔡凯臣、曾令旭、季孟年、小七） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-昨天",NBA经典赛事 NBA精彩重播：勇士vs湖人 全场回放（蔡凯臣、曾令旭、季孟年、小七） 18:00
 http://219.156.94.94:4022/968630638
 #EXTINF:-1 tvg-id="NBA精彩重播：勇士vs湖人" tvg-name="NBA经典赛事 NBA精彩重播：勇士vs湖人 全场回放（蔡凯臣、曾令旭、季孟年、小七） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-昨天",NBA经典赛事 NBA精彩重播：勇士vs湖人 全场回放（蔡凯臣、曾令旭、季孟年、小七） 18:00
@@ -3935,69 +3999,53 @@ http://115.171.216.32:4000/968644741
 http://115.171.216.23:4000/968644741
 #EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】凯伦·威尔逊4-3庞俊旭（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】凯伦·威尔逊4-3庞俊旭（赛场原声） 20:00
 http://114.254.38.234:8888/968644741
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
 http://219.156.94.94:4022/968648397
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
 http://171.119.206.17:6000/968648397
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
 http://171.119.206.49:6000/968648397
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
 http://60.4.28.229:8077/968648397
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
 http://144.255.16.190:6688/968648397
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
 http://115.171.216.32:4000/968648397
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
 http://115.171.216.23:4000/968648397
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】埃利奥特·斯莱瑟4-1里奇·沃顿（赛场原声） 20:00
 http://114.254.38.234:8888/968648397
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
 http://219.156.94.94:4022/968649114
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
 http://171.119.206.17:6000/968649114
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
 http://171.119.206.49:6000/968649114
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
 http://60.4.28.229:8077/968649114
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
 http://144.255.16.190:6688/968649114
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
 http://115.171.216.32:4000/968649114
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
 http://115.171.216.23:4000/968649114
-#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 26/27赛季斯诺克北爱尔兰公开赛第3轮回放：安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
+#EXTINF:-1 tvg-id="庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿" tvg-name="斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 庞俊旭3-4不敌囧哥 斯莱瑟4-1沃顿 【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基（赛场原声） 20:00
 http://114.254.38.234:8888/968649114
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00
-http://219.156.94.94:4022/968632781
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00
-http://171.119.206.17:6000/968632781
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00
-http://171.119.206.49:6000/968632781
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00
-http://60.4.28.229:8077/968632781
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00
-http://144.255.16.190:6688/968632781
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00
-http://115.171.216.32:4000/968632781
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00
-http://115.171.216.23:4000/968632781
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 朱峰立 02:00
-http://114.254.38.234:8888/968632781
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00
+#EXTINF:-1 tvg-id="大卫·吉尔伯特4-2张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00
 http://219.156.94.94:4022/968352401
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00
+#EXTINF:-1 tvg-id="大卫·吉尔伯特4-2张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00
 http://171.119.206.17:6000/968352401
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00
+#EXTINF:-1 tvg-id="大卫·吉尔伯特4-2张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00
 http://171.119.206.49:6000/968352401
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00
+#EXTINF:-1 tvg-id="大卫·吉尔伯特4-2张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00
 http://60.4.28.229:8077/968352401
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00
+#EXTINF:-1 tvg-id="大卫·吉尔伯特4-2张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00
 http://144.255.16.190:6688/968352401
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00
+#EXTINF:-1 tvg-id="大卫·吉尔伯特4-2张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00
 http://115.171.216.32:4000/968352401
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00
+#EXTINF:-1 tvg-id="大卫·吉尔伯特4-2张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00
 http://115.171.216.23:4000/968352401
-#EXTINF:-1 tvg-id="大卫·吉尔伯特vs张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特vs张家玮 老马4-0晋级 2号桌 02:00
+#EXTINF:-1 tvg-id="大卫·吉尔伯特4-2张家玮 老马4-0晋级" tvg-name="斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 大卫·吉尔伯特4-2张家玮 老马4-0晋级 2号桌 02:00
 http://114.254.38.234:8888/968352401
 #EXTINF:-1 tvg-id="76人VS骑士" tvg-name="NBA 76人VS骑士 庄宁宇 殷文玉 魏欣怡 06:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 76人VS骑士 庄宁宇 殷文玉 魏欣怡 06:45
 http://219.156.94.94:4022/968571360
@@ -4207,38 +4255,38 @@ http://115.171.216.32:4000/968444759
 http://115.171.216.23:4000/968444759
 #EXTINF:-1 tvg-id="李吉妮冲四强！博尔特压场出战" tvg-name="WTA 李吉妮冲四强！博尔特压场出战 解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 李吉妮冲四强！博尔特压场出战 解说 10:30
 http://114.254.38.234:8888/968444759
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30
-http://219.156.94.94:4022/968421186
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30
-http://171.119.206.17:6000/968421186
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30
-http://171.119.206.49:6000/968421186
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30
-http://60.4.28.229:8077/968421186
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30
-http://144.255.16.190:6688/968421186
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30
-http://115.171.216.32:4000/968421186
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30
-http://115.171.216.23:4000/968421186
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场 10:30
-http://114.254.38.234:8888/968421186
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30
 http://219.156.94.94:4022/968568888
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30
 http://171.119.206.17:6000/968568888
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30
 http://171.119.206.49:6000/968568888
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30
 http://60.4.28.229:8077/968568888
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30
 http://144.255.16.190:6688/968568888
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30
 http://115.171.216.32:4000/968568888
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30
 http://115.171.216.23:4000/968568888
-#EXTINF:-1 tvg-id="焦点战！孙心然压轴登场" tvg-name="ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 焦点战！孙心然压轴登场 中心球场中文解说 10:30
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中文解说 10:30
 http://114.254.38.234:8888/968568888
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30
+http://219.156.94.94:4022/968421186
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30
+http://171.119.206.17:6000/968421186
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30
+http://171.119.206.49:6000/968421186
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30
+http://60.4.28.229:8077/968421186
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30
+http://144.255.16.190:6688/968421186
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30
+http://115.171.216.32:4000/968421186
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30
+http://115.171.216.23:4000/968421186
+#EXTINF:-1 tvg-id="马卡洛娃出战 孙心然压轴登场" tvg-name="ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png" group-title="体育-今天",ITF世界网球巡回赛 马卡洛娃出战 孙心然压轴登场 中心球场 10:30
+http://114.254.38.234:8888/968421186
 #EXTINF:-1 tvg-id="莱巴压场！布兹科娃对阵贝莱克" tvg-name="WTA 莱巴压场！布兹科娃对阵贝莱克 中心球场 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 莱巴压场！布兹科娃对阵贝莱克 中心球场 13:00
 http://219.156.94.94:4022/968417916
 #EXTINF:-1 tvg-id="莱巴压场！布兹科娃对阵贝莱克" tvg-name="WTA 莱巴压场！布兹科娃对阵贝莱克 中心球场 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 莱巴压场！布兹科娃对阵贝莱克 中心球场 13:00
@@ -4527,85 +4575,85 @@ http://115.171.216.32:4000/968634314
 http://115.171.216.23:4000/968634314
 #EXTINF:-1 tvg-id="上海海港B队VS杭州临平吴越" tvg-name="中乙 上海海港B队VS杭州临平吴越 赛场原声 15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="体育-今天",中乙 上海海港B队VS杭州临平吴越 赛场原声 15:20
 http://114.254.38.234:8888/968634314
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30
 http://219.156.94.94:4022/968536246
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30
 http://171.119.206.17:6000/968536246
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30
 http://171.119.206.49:6000/968536246
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30
 http://60.4.28.229:8077/968536246
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30
 http://144.255.16.190:6688/968536246
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30
 http://115.171.216.32:4000/968536246
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30
 http://115.171.216.23:4000/968536246
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地 15:30
 http://114.254.38.234:8888/968536246
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30
 http://219.156.94.94:4022/968536292
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30
 http://171.119.206.17:6000/968536292
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30
 http://171.119.206.49:6000/968536292
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30
 http://60.4.28.229:8077/968536292
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30
 http://144.255.16.190:6688/968536292
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30
 http://115.171.216.32:4000/968536292
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30
 http://115.171.216.23:4000/968536292
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地 15:30
 http://114.254.38.234:8888/968536292
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 3号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30
 http://219.156.94.94:4022/968536323
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 3号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30
 http://171.119.206.17:6000/968536323
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 3号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30
 http://171.119.206.49:6000/968536323
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 3号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30
 http://60.4.28.229:8077/968536323
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 3号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30
 http://144.255.16.190:6688/968536323
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 3号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30
 http://115.171.216.32:4000/968536323
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 3号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30
 http://115.171.216.23:4000/968536323
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 3号场地 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 3号场地 15:30
 http://114.254.38.234:8888/968536323
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30
 http://219.156.94.94:4022/968536377
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30
 http://171.119.206.17:6000/968536377
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30
 http://171.119.206.49:6000/968536377
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30
 http://60.4.28.229:8077/968536377
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30
 http://144.255.16.190:6688/968536377
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30
 http://115.171.216.32:4000/968536377
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30
 http://115.171.216.23:4000/968536377
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 1号场地英文视角 15:30
 http://114.254.38.234:8888/968536377
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30
 http://219.156.94.94:4022/968536418
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30
 http://171.119.206.17:6000/968536418
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30
 http://171.119.206.49:6000/968536418
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30
 http://60.4.28.229:8077/968536418
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30
 http://144.255.16.190:6688/968536418
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30
 http://115.171.216.32:4000/968536418
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30
 http://115.171.216.23:4000/968536418
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第四日" tvg-name="BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第四日 2号场地英文视角 15:30
+#EXTINF:-1 tvg-id="韩悦直面安洗莹 胡哲安、凤凰组合接连出战" tvg-name="BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 韩悦直面安洗莹 胡哲安、凤凰组合接连出战 2号场地英文视角 15:30
 http://114.254.38.234:8888/968536418
 #EXTINF:-1 tvg-id="超三联赛 总决赛 开赛仪式及小组赛Day1晚间场" tvg-name="超三联赛 超三联赛 总决赛 开赛仪式及小组赛Day1晚间场 王冠证 李嘉伟 18:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="体育-今天",超三联赛 超三联赛 总决赛 开赛仪式及小组赛Day1晚间场 王冠证 李嘉伟 18:25
 http://219.156.94.94:4022/968545284
