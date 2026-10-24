@@ -3599,38 +3599,54 @@ http://115.171.216.32:4000/968671830
 http://114.254.38.234:8888/968671830
 #EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊（柏林） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊（柏林） 20:00
 http://111.196.128.44:20000/968671830
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
 http://219.156.94.94:4022/968672321
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
 http://171.119.206.17:6000/968672321
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
 http://171.119.206.49:6000/968672321
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
 http://60.4.28.229:8077/968672321
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
 http://144.255.16.190:6688/968672321
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
 http://115.171.216.32:4000/968672321
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
 http://114.254.38.234:8888/968672321
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】安东尼·麦克吉尔1-6凯伦·威尔逊 20:00
 http://111.196.128.44:20000/968672321
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
 http://219.156.94.94:4022/968672700
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
 http://171.119.206.17:6000/968672700
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
 http://171.119.206.49:6000/968672700
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
 http://60.4.28.229:8077/968672700
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
 http://144.255.16.190:6688/968672700
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
 http://115.171.216.32:4000/968672700
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
 http://114.254.38.234:8888/968672700
-#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 26/27斯诺克北爱尔兰公开赛1/4决赛全场回放：山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
+#EXTINF:-1 tvg-id="囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟" tvg-name="斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 囧哥6-1麦克吉尔 克雷吉6-2斯莱瑟 【回放】山姆·克雷吉6-2埃利奥特·斯莱瑟 20:00
 http://111.196.128.44:20000/968672700
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
+http://219.156.94.94:4022/968676861
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
+http://171.119.206.17:6000/968676861
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
+http://171.119.206.49:6000/968676861
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
+http://60.4.28.229:8077/968676861
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
+http://144.255.16.190:6688/968676861
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
+http://115.171.216.32:4000/968676861
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
+http://114.254.38.234:8888/968676861
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
+http://111.196.128.44:20000/968676861
 #EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】因陀罗/华金2-0胡珂源/林祥毅（鸿昆） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】因陀罗/华金2-0胡珂源/林祥毅（鸿昆） 15:30
 http://219.156.94.94:4022/968673326
 #EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】因陀罗/华金2-0胡珂源/林祥毅（鸿昆） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【回放】因陀罗/华金2-0胡珂源/林祥毅（鸿昆） 15:30
@@ -3823,326 +3839,262 @@ http://115.171.216.32:4000/968674074
 http://114.254.38.234:8888/968674074
 #EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】三号场地（赛场原声） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】三号场地（赛场原声） 15:30
 http://111.196.128.44:20000/968674074
-#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
-http://219.156.94.94:4022/968676861
-#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
-http://171.119.206.17:6000/968676861
-#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
-http://171.119.206.49:6000/968676861
-#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
-http://60.4.28.229:8077/968676861
-#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
-http://144.255.16.190:6688/968676861
-#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
-http://115.171.216.32:4000/968676861
-#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
-http://114.254.38.234:8888/968676861
-#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 2026BWF法国羽毛球公开赛男单1/4决赛回放：金元浩/徐承宰0-2吴世飞/伊祖丁（朱胤丞） 15:30
-http://111.196.128.44:20000/968676861
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00
-http://219.156.94.94:4022/968658907
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00
-http://171.119.206.17:6000/968658907
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00
-http://171.119.206.49:6000/968658907
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00
-http://60.4.28.229:8077/968658907
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00
-http://144.255.16.190:6688/968658907
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00
-http://115.171.216.32:4000/968658907
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00
-http://114.254.38.234:8888/968658907
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 杨江浩 02:00
-http://111.196.128.44:20000/968658907
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00
-http://219.156.94.94:4022/968352527
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00
-http://171.119.206.17:6000/968352527
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00
-http://171.119.206.49:6000/968352527
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00
-http://60.4.28.229:8077/968352527
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00
-http://144.255.16.190:6688/968352527
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00
-http://115.171.216.32:4000/968352527
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00
-http://114.254.38.234:8888/968352527
-#EXTINF:-1 tvg-id="土豆哥PK老马 杰克·琼斯PK唐纳森" tvg-name="斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 土豆哥PK老马 杰克·琼斯PK唐纳森 2号桌 02:00
-http://111.196.128.44:20000/968352527
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15
-http://219.156.94.94:4022/968629331
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15
-http://171.119.206.17:6000/968629331
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15
-http://171.119.206.49:6000/968629331
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15
-http://60.4.28.229:8077/968629331
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15
-http://144.255.16.190:6688/968629331
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15
-http://115.171.216.32:4000/968629331
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15
-http://114.254.38.234:8888/968629331
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 李霄 02:15
-http://111.196.128.44:20000/968629331
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15
-http://219.156.94.94:4022/968629306
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15
-http://171.119.206.17:6000/968629306
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15
-http://171.119.206.49:6000/968629306
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15
-http://60.4.28.229:8077/968629306
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15
-http://144.255.16.190:6688/968629306
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15
-http://115.171.216.32:4000/968629306
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15
-http://114.254.38.234:8888/968629306
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 赛场原声 02:15
-http://111.196.128.44:20000/968629306
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25
-http://219.156.94.94:4022/968654401
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25
-http://171.119.206.17:6000/968654401
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25
-http://171.119.206.49:6000/968654401
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25
-http://60.4.28.229:8077/968654401
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25
-http://144.255.16.190:6688/968654401
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25
-http://115.171.216.32:4000/968654401
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25
-http://114.254.38.234:8888/968654401
-#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 智能解说 02:25
-http://111.196.128.44:20000/968654401
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 刘一臻 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 刘一臻 02:30
-http://219.156.94.94:4022/968628799
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 刘一臻 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 刘一臻 02:30
-http://171.119.206.17:6000/968628799
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 刘一臻 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 刘一臻 02:30
-http://171.119.206.49:6000/968628799
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 刘一臻 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 刘一臻 02:30
-http://60.4.28.229:8077/968628799
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 刘一臻 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 刘一臻 02:30
-http://144.255.16.190:6688/968628799
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 刘一臻 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 刘一臻 02:30
-http://115.171.216.32:4000/968628799
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 刘一臻 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 刘一臻 02:30
-http://114.254.38.234:8888/968628799
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 刘一臻 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 刘一臻 02:30
-http://111.196.128.44:20000/968628799
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 赛场原声 02:30
-http://219.156.94.94:4022/968628785
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 赛场原声 02:30
-http://171.119.206.17:6000/968628785
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 赛场原声 02:30
-http://171.119.206.49:6000/968628785
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 赛场原声 02:30
-http://60.4.28.229:8077/968628785
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 赛场原声 02:30
-http://144.255.16.190:6688/968628785
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 赛场原声 02:30
-http://115.171.216.32:4000/968628785
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 赛场原声 02:30
-http://114.254.38.234:8888/968628785
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 赛场原声 02:30
-http://111.196.128.44:20000/968628785
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 智能解说 02:40
-http://219.156.94.94:4022/968654462
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 智能解说 02:40
-http://171.119.206.17:6000/968654462
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 智能解说 02:40
-http://171.119.206.49:6000/968654462
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 智能解说 02:40
-http://60.4.28.229:8077/968654462
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 智能解说 02:40
-http://144.255.16.190:6688/968654462
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 智能解说 02:40
-http://115.171.216.32:4000/968654462
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 智能解说 02:40
-http://114.254.38.234:8888/968654462
-#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 智能解说 02:40
-http://111.196.128.44:20000/968654462
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 张昊泽 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 张昊泽 02:30
-http://219.156.94.94:4022/968625609
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 张昊泽 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 张昊泽 02:30
-http://171.119.206.17:6000/968625609
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 张昊泽 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 张昊泽 02:30
-http://171.119.206.49:6000/968625609
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 张昊泽 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 张昊泽 02:30
-http://60.4.28.229:8077/968625609
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 张昊泽 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 张昊泽 02:30
-http://144.255.16.190:6688/968625609
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 张昊泽 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 张昊泽 02:30
-http://115.171.216.32:4000/968625609
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 张昊泽 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 张昊泽 02:30
-http://114.254.38.234:8888/968625609
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 张昊泽 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 张昊泽 02:30
-http://111.196.128.44:20000/968625609
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 赛场原声 02:30
-http://219.156.94.94:4022/968625586
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 赛场原声 02:30
-http://171.119.206.17:6000/968625586
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 赛场原声 02:30
-http://171.119.206.49:6000/968625586
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 赛场原声 02:30
-http://60.4.28.229:8077/968625586
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 赛场原声 02:30
-http://144.255.16.190:6688/968625586
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 赛场原声 02:30
-http://115.171.216.32:4000/968625586
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 赛场原声 02:30
-http://114.254.38.234:8888/968625586
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 赛场原声 02:30
-http://111.196.128.44:20000/968625586
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 智能解说 02:40
-http://219.156.94.94:4022/968654433
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 智能解说 02:40
-http://171.119.206.17:6000/968654433
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 智能解说 02:40
-http://171.119.206.49:6000/968654433
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 智能解说 02:40
-http://60.4.28.229:8077/968654433
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 智能解说 02:40
-http://144.255.16.190:6688/968654433
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 智能解说 02:40
-http://115.171.216.32:4000/968654433
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 智能解说 02:40
-http://114.254.38.234:8888/968654433
-#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 智能解说 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 智能解说 02:40
-http://111.196.128.44:20000/968654433
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45
-http://219.156.94.94:4022/968625646
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45
-http://171.119.206.17:6000/968625646
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45
-http://171.119.206.49:6000/968625646
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45
-http://60.4.28.229:8077/968625646
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45
-http://144.255.16.190:6688/968625646
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45
-http://115.171.216.32:4000/968625646
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45
-http://114.254.38.234:8888/968625646
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 刘焕 02:45
-http://111.196.128.44:20000/968625646
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45
-http://219.156.94.94:4022/968625671
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45
-http://171.119.206.17:6000/968625671
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45
-http://171.119.206.49:6000/968625671
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45
-http://60.4.28.229:8077/968625671
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45
-http://144.255.16.190:6688/968625671
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45
-http://115.171.216.32:4000/968625671
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45
-http://114.254.38.234:8888/968625671
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 英文原声 02:45
-http://111.196.128.44:20000/968625671
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45
-http://219.156.94.94:4022/968625915
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45
-http://171.119.206.17:6000/968625915
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45
-http://171.119.206.49:6000/968625915
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45
-http://60.4.28.229:8077/968625915
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45
-http://144.255.16.190:6688/968625915
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45
-http://115.171.216.32:4000/968625915
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45
-http://114.254.38.234:8888/968625915
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 赛场原声 02:45
-http://111.196.128.44:20000/968625915
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55
-http://219.156.94.94:4022/968654505
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55
-http://171.119.206.17:6000/968654505
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55
-http://171.119.206.49:6000/968654505
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55
-http://60.4.28.229:8077/968654505
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55
-http://144.255.16.190:6688/968654505
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55
-http://115.171.216.32:4000/968654505
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55
-http://114.254.38.234:8888/968654505
-#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 智能解说 02:55
-http://111.196.128.44:20000/968654505
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 洪宇青 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 洪宇青 02:45
-http://219.156.94.94:4022/968626596
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 洪宇青 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 洪宇青 02:45
-http://171.119.206.17:6000/968626596
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 洪宇青 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 洪宇青 02:45
-http://171.119.206.49:6000/968626596
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 洪宇青 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 洪宇青 02:45
-http://60.4.28.229:8077/968626596
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 洪宇青 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 洪宇青 02:45
-http://144.255.16.190:6688/968626596
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 洪宇青 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 洪宇青 02:45
-http://115.171.216.32:4000/968626596
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 洪宇青 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 洪宇青 02:45
-http://114.254.38.234:8888/968626596
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 洪宇青 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 洪宇青 02:45
-http://111.196.128.44:20000/968626596
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 赛场原声 02:45
-http://219.156.94.94:4022/968626574
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 赛场原声 02:45
-http://171.119.206.17:6000/968626574
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 赛场原声 02:45
-http://171.119.206.49:6000/968626574
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 赛场原声 02:45
-http://60.4.28.229:8077/968626574
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 赛场原声 02:45
-http://144.255.16.190:6688/968626574
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 赛场原声 02:45
-http://115.171.216.32:4000/968626574
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 赛场原声 02:45
-http://114.254.38.234:8888/968626574
-#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 赛场原声 02:45
-http://111.196.128.44:20000/968626574
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 宋俊潼 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 宋俊潼 03:55
-http://219.156.94.94:4022/968571512
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 宋俊潼 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 宋俊潼 03:55
-http://171.119.206.17:6000/968571512
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 宋俊潼 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 宋俊潼 03:55
-http://171.119.206.49:6000/968571512
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 宋俊潼 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 宋俊潼 03:55
-http://60.4.28.229:8077/968571512
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 宋俊潼 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 宋俊潼 03:55
-http://144.255.16.190:6688/968571512
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 宋俊潼 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 宋俊潼 03:55
-http://115.171.216.32:4000/968571512
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 宋俊潼 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 宋俊潼 03:55
-http://114.254.38.234:8888/968571512
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 宋俊潼 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 宋俊潼 03:55
-http://111.196.128.44:20000/968571512
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 英文原声 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 英文原声 03:55
-http://219.156.94.94:4022/968571499
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 英文原声 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 英文原声 03:55
-http://171.119.206.17:6000/968571499
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 英文原声 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 英文原声 03:55
-http://171.119.206.49:6000/968571499
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 英文原声 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 英文原声 03:55
-http://60.4.28.229:8077/968571499
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 英文原声 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 英文原声 03:55
-http://144.255.16.190:6688/968571499
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 英文原声 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 英文原声 03:55
-http://115.171.216.32:4000/968571499
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 英文原声 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 英文原声 03:55
-http://114.254.38.234:8888/968571499
-#EXTINF:-1 tvg-id="雄鹿VS公牛" tvg-name="NBA 雄鹿VS公牛 英文原声 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS公牛 英文原声 03:55
-http://111.196.128.44:20000/968571499
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30
+http://219.156.94.94:4022/968678840
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30
+http://171.119.206.17:6000/968678840
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30
+http://171.119.206.49:6000/968678840
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30
+http://60.4.28.229:8077/968678840
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30
+http://144.255.16.190:6688/968678840
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30
+http://115.171.216.32:4000/968678840
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30
+http://114.254.38.234:8888/968678840
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（英文原声）（二） 15:30
+http://111.196.128.44:20000/968678840
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30
+http://219.156.94.94:4022/968679219
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30
+http://171.119.206.17:6000/968679219
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30
+http://171.119.206.49:6000/968679219
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30
+http://60.4.28.229:8077/968679219
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30
+http://144.255.16.190:6688/968679219
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30
+http://115.171.216.32:4000/968679219
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30
+http://114.254.38.234:8888/968679219
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】二号场地（赛场原声）（二） 15:30
+http://111.196.128.44:20000/968679219
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30
+http://219.156.94.94:4022/968679640
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30
+http://171.119.206.17:6000/968679640
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30
+http://171.119.206.49:6000/968679640
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30
+http://60.4.28.229:8077/968679640
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30
+http://144.255.16.190:6688/968679640
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30
+http://115.171.216.32:4000/968679640
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30
+http://114.254.38.234:8888/968679640
+#EXTINF:-1 tvg-id="胡哲安挺进四强 凤凰组合逆转晋级" tvg-name="BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安挺进四强 凤凰组合逆转晋级 【全场回放】一号场地（赛场原声）（二） 15:30
+http://111.196.128.44:20000/968679640
+#EXTINF:-1 tvg-id="马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森" tvg-name="斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00
+http://219.156.94.94:4022/968682897
+#EXTINF:-1 tvg-id="马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森" tvg-name="斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00
+http://171.119.206.17:6000/968682897
+#EXTINF:-1 tvg-id="马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森" tvg-name="斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00
+http://171.119.206.49:6000/968682897
+#EXTINF:-1 tvg-id="马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森" tvg-name="斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00
+http://60.4.28.229:8077/968682897
+#EXTINF:-1 tvg-id="马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森" tvg-name="斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00
+http://144.255.16.190:6688/968682897
+#EXTINF:-1 tvg-id="马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森" tvg-name="斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00
+http://115.171.216.32:4000/968682897
+#EXTINF:-1 tvg-id="马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森" tvg-name="斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00
+http://114.254.38.234:8888/968682897
+#EXTINF:-1 tvg-id="马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森" tvg-name="斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 马克·威廉姆斯6-4吉尔伯特 杰克·琼斯6-5唐纳森 【回放】大卫·吉尔伯特4-6马克·威廉姆斯（杨江浩） 02:00
+http://111.196.128.44:20000/968682897
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25
+http://219.156.94.94:4022/968681424
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25
+http://171.119.206.17:6000/968681424
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25
+http://171.119.206.49:6000/968681424
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25
+http://60.4.28.229:8077/968681424
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25
+http://144.255.16.190:6688/968681424
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25
+http://115.171.216.32:4000/968681424
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25
+http://114.254.38.234:8888/968681424
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（李霄） 02:25
+http://111.196.128.44:20000/968681424
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25
+http://219.156.94.94:4022/968681467
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25
+http://171.119.206.17:6000/968681467
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25
+http://171.119.206.49:6000/968681467
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25
+http://60.4.28.229:8077/968681467
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25
+http://144.255.16.190:6688/968681467
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25
+http://115.171.216.32:4000/968681467
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25
+http://114.254.38.234:8888/968681467
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智慧观赛） 02:25
+http://111.196.128.44:20000/968681467
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25
+http://219.156.94.94:4022/968682569
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25
+http://171.119.206.17:6000/968682569
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25
+http://171.119.206.49:6000/968682569
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25
+http://60.4.28.229:8077/968682569
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25
+http://144.255.16.190:6688/968682569
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25
+http://115.171.216.32:4000/968682569
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25
+http://114.254.38.234:8888/968682569
+#EXTINF:-1 tvg-id="斯图加特VS门兴格拉德巴赫" tvg-name="德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 斯图加特VS门兴格拉德巴赫 全场回放（AI智能解说） 02:25
+http://111.196.128.44:20000/968682569
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40
+http://219.156.94.94:4022/968682356
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40
+http://171.119.206.17:6000/968682356
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40
+http://171.119.206.49:6000/968682356
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40
+http://60.4.28.229:8077/968682356
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40
+http://144.255.16.190:6688/968682356
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40
+http://115.171.216.32:4000/968682356
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40
+http://114.254.38.234:8888/968682356
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放（刘一臻） 02:40
+http://111.196.128.44:20000/968682356
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放 02:40
+http://219.156.94.94:4022/968682533
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放 02:40
+http://171.119.206.17:6000/968682533
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放 02:40
+http://171.119.206.49:6000/968682533
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放 02:40
+http://60.4.28.229:8077/968682533
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放 02:40
+http://144.255.16.190:6688/968682533
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放 02:40
+http://115.171.216.32:4000/968682533
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放 02:40
+http://114.254.38.234:8888/968682533
+#EXTINF:-1 tvg-id="布雷斯特VS尼斯" tvg-name="法甲 布雷斯特VS尼斯 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-今天",法甲 布雷斯特VS尼斯 全场回放 02:40
+http://111.196.128.44:20000/968682533
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40
+http://219.156.94.94:4022/968681837
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40
+http://171.119.206.17:6000/968681837
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40
+http://171.119.206.49:6000/968681837
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40
+http://60.4.28.229:8077/968681837
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40
+http://144.255.16.190:6688/968681837
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40
+http://115.171.216.32:4000/968681837
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40
+http://114.254.38.234:8888/968681837
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放（张昊泽） 02:40
+http://111.196.128.44:20000/968681837
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放 02:40
+http://219.156.94.94:4022/968682473
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放 02:40
+http://171.119.206.17:6000/968682473
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放 02:40
+http://171.119.206.49:6000/968682473
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放 02:40
+http://60.4.28.229:8077/968682473
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放 02:40
+http://144.255.16.190:6688/968682473
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放 02:40
+http://115.171.216.32:4000/968682473
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放 02:40
+http://114.254.38.234:8888/968682473
+#EXTINF:-1 tvg-id="都灵VS蒙扎" tvg-name="意甲 都灵VS蒙扎 全场回放 02:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS蒙扎 全场回放 02:40
+http://111.196.128.44:20000/968682473
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55
+http://219.156.94.94:4022/968682004
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55
+http://171.119.206.17:6000/968682004
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55
+http://171.119.206.49:6000/968682004
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55
+http://60.4.28.229:8077/968682004
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55
+http://144.255.16.190:6688/968682004
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55
+http://115.171.216.32:4000/968682004
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55
+http://114.254.38.234:8888/968682004
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（刘焕） 02:55
+http://111.196.128.44:20000/968682004
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55
+http://219.156.94.94:4022/968681852
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55
+http://171.119.206.17:6000/968681852
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55
+http://171.119.206.49:6000/968681852
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55
+http://60.4.28.229:8077/968681852
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55
+http://144.255.16.190:6688/968681852
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55
+http://115.171.216.32:4000/968681852
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55
+http://114.254.38.234:8888/968681852
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智能解说） 02:55
+http://111.196.128.44:20000/968681852
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55
+http://219.156.94.94:4022/968682095
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55
+http://171.119.206.17:6000/968682095
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55
+http://171.119.206.49:6000/968682095
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55
+http://60.4.28.229:8077/968682095
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55
+http://144.255.16.190:6688/968682095
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55
+http://115.171.216.32:4000/968682095
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55
+http://114.254.38.234:8888/968682095
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放（AI智慧观赛） 02:55
+http://111.196.128.44:20000/968682095
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55
+http://219.156.94.94:4022/968682973
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55
+http://171.119.206.17:6000/968682973
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55
+http://171.119.206.49:6000/968682973
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55
+http://60.4.28.229:8077/968682973
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55
+http://144.255.16.190:6688/968682973
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55
+http://115.171.216.32:4000/968682973
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55
+http://114.254.38.234:8888/968682973
+#EXTINF:-1 tvg-id="伊普斯维奇VS诺丁汉森林" tvg-name="英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伊普斯维奇VS诺丁汉森林 全场回放 02:55
+http://111.196.128.44:20000/968682973
+#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45
+http://219.156.94.94:4022/968681854
+#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45
+http://171.119.206.17:6000/968681854
+#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45
+http://171.119.206.49:6000/968681854
+#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45
+http://60.4.28.229:8077/968681854
+#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45
+http://144.255.16.190:6688/968681854
+#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45
+http://115.171.216.32:4000/968681854
+#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45
+http://114.254.38.234:8888/968681854
+#EXTINF:-1 tvg-id="阿拉维斯VS马拉加" tvg-name="西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 阿拉维斯VS马拉加 全场回放（洪宇青） 02:45
+http://111.196.128.44:20000/968681854
 #EXTINF:-1 tvg-id="莫干山跑山赛" tvg-name="莫干山跑山赛 莫干山跑山赛 解说 05:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/22/100000001569106ae932.png" group-title="体育-今天",莫干山跑山赛 莫干山跑山赛 解说 05:30
 http://219.156.94.94:4022/968632413
 #EXTINF:-1 tvg-id="莫干山跑山赛" tvg-name="莫干山跑山赛 莫干山跑山赛 解说 05:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/22/100000001569106ae932.png" group-title="体育-今天",莫干山跑山赛 莫干山跑山赛 解说 05:30
@@ -5695,37 +5647,37 @@ http://115.171.216.32:4000/968634429
 http://114.254.38.234:8888/968634429
 #EXTINF:-1 tvg-id="北京理工VS厦门飞鹭" tvg-name="中乙 北京理工VS厦门飞鹭 赛场原声 15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="体育-今天",中乙 北京理工VS厦门飞鹭 赛场原声 15:20
 http://111.196.128.44:20000/968634429
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30
 http://219.156.94.94:4022/968536475
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30
 http://171.119.206.17:6000/968536475
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30
 http://171.119.206.49:6000/968536475
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30
 http://60.4.28.229:8077/968536475
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30
 http://144.255.16.190:6688/968536475
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30
 http://115.171.216.32:4000/968536475
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30
 http://114.254.38.234:8888/968536475
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地 15:30
 http://111.196.128.44:20000/968536475
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30
 http://219.156.94.94:4022/968536535
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30
 http://171.119.206.17:6000/968536535
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30
 http://171.119.206.49:6000/968536535
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30
 http://60.4.28.229:8077/968536535
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30
 http://144.255.16.190:6688/968536535
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30
 http://115.171.216.32:4000/968536535
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30
 http://114.254.38.234:8888/968536535
-#EXTINF:-1 tvg-id="法国羽毛球公开赛第五日" tvg-name="BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 法国羽毛球公开赛第五日 1号场地英文视角 15:30
+#EXTINF:-1 tvg-id="芳新组合出战 胡哲安冲击决赛" tvg-name="BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 芳新组合出战 胡哲安冲击决赛 1号场地英文视角 15:30
 http://111.196.128.44:20000/968536535
 #EXTINF:-1 tvg-id="中国速度攀岩系列赛(江苏昆山站)" tvg-name="攀岩系列赛 中国速度攀岩系列赛(江苏昆山站) 江苏昆山站 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg" group-title="体育-今天",攀岩系列赛 中国速度攀岩系列赛(江苏昆山站) 江苏昆山站 15:30
 http://219.156.94.94:4022/968632198
