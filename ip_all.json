@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/10/26 02:42:34",
+  "update_time": "2026/10/26 06:16:34",
   "statistics": {
     "total_processed": 7468,
-    "valid_ip_count": 51,
-    "duplicate_ip_count": 6570
+    "valid_ip_count": 50,
+    "duplicate_ip_count": 6468
   },
   "ip_list": {
     "hencu": [
@@ -33,9 +33,6 @@
     ],
     "shct": [
       "223.167.230.155:4022"
-    ],
-    "cqct": [
-      "113.251.74.243:8012"
     ],
     "jsct": [
       "121.237.245.192:8888"
