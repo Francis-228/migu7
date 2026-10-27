@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/10/27 17:34:34",
+  "update_time": "2026/10/27 23:42:13",
   "statistics": {
-    "total_processed": 8052,
+    "total_processed": 7926,
     "valid_ip_count": 54,
-    "duplicate_ip_count": 6890
+    "duplicate_ip_count": 6765
   },
   "ip_list": {
     "hencu": [
