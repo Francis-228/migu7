@@ -409,18 +409,16 @@ ${replace}/969107960
 ${replace}/969107961
 #EXTINF:-1 tvg-id="阿耶瓦底女足VS神户雌狮女足" tvg-name="亚冠女足 阿耶瓦底女足VS神户雌狮女足 全场回放（胡小凡） 20:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png" group-title="体育-昨天",亚冠女足 阿耶瓦底女足VS神户雌狮女足 全场回放（胡小凡） 20:15
 ${replace}/969107115
-#EXTINF:-1 tvg-id="阿尔卡达格VS戈尔戈哈尔锡尔詹" tvg-name="亚冠二级 阿尔卡达格VS戈尔戈哈尔锡尔詹 全场回放（智能解说） 21:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-昨天",亚冠二级 阿尔卡达格VS戈尔戈哈尔锡尔詹 全场回放（智能解说） 21:40
-${replace}/969108708
+#EXTINF:-1 tvg-id="阿尔卡达格VS戈尔戈哈尔锡尔詹" tvg-name="亚冠二级 阿尔卡达格VS戈尔戈哈尔锡尔詹 全场回放（乔迁） 21:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-昨天",亚冠二级 阿尔卡达格VS戈尔戈哈尔锡尔詹 全场回放（乔迁） 21:40
+${replace}/969119071
 #EXTINF:-1 tvg-id="阿尔卡达格VS戈尔戈哈尔锡尔詹" tvg-name="亚冠二级 阿尔卡达格VS戈尔戈哈尔锡尔詹 全场回放（AI智慧观赛） 21:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-昨天",亚冠二级 阿尔卡达格VS戈尔戈哈尔锡尔詹 全场回放（AI智慧观赛） 21:40
 ${replace}/969108768
+#EXTINF:-1 tvg-id="阿尔卡达格VS戈尔戈哈尔锡尔詹" tvg-name="亚冠二级 阿尔卡达格VS戈尔戈哈尔锡尔詹 全场回放（智能解说） 21:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-昨天",亚冠二级 阿尔卡达格VS戈尔戈哈尔锡尔詹 全场回放（智能解说） 21:40
+${replace}/969108708
 #EXTINF:-1 tvg-id="纳萨夫女足VS北京京坛女足" tvg-name="亚冠女足 纳萨夫女足VS北京京坛女足 全场回放（兰子非） 22:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png" group-title="体育-昨天",亚冠女足 纳萨夫女足VS北京京坛女足 全场回放（兰子非） 22:15
 ${replace}/969117162
-#EXTINF:-1 tvg-id="纳萨夫女足VS北京京坛女足" tvg-name="亚冠女足 纳萨夫女足VS北京京坛女足 全场回放 22:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png" group-title="体育-昨天",亚冠女足 纳萨夫女足VS北京京坛女足 全场回放 22:15
-${replace}/969117168
 #EXTINF:-1 tvg-id="东孟加拉女足VS华川国民体育振兴公团女足" tvg-name="亚冠女足 东孟加拉女足VS华川国民体育振兴公团女足 全场回放（魏欣怡） 22:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png" group-title="体育-昨天",亚冠女足 东孟加拉女足VS华川国民体育振兴公团女足 全场回放（魏欣怡） 22:15
 ${replace}/969114783
-#EXTINF:-1 tvg-id="东孟加拉女足VS华川国民体育振兴公团女足" tvg-name="亚冠女足 东孟加拉女足VS华川国民体育振兴公团女足 全场回放 22:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png" group-title="体育-昨天",亚冠女足 东孟加拉女足VS华川国民体育振兴公团女足 全场回放 22:15
-${replace}/969116219
 #EXTINF:-1 tvg-id="赖扬VS阿尔纳达" tvg-name="亚冠二级 赖扬VS阿尔纳达 全场回放（鹿中原） 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 赖扬VS阿尔纳达 全场回放（鹿中原） 23:45
 ${replace}/969116936
 #EXTINF:-1 tvg-id="科威特竞技VS纳萨夫" tvg-name="亚冠二级 科威特竞技VS纳萨夫 全场回放（吴子越） 23:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 科威特竞技VS纳萨夫 全场回放（吴子越） 23:55
@@ -433,22 +431,14 @@ ${replace}/969116996
 ${replace}/969118050
 #EXTINF:-1 tvg-id="阿布扎比统一VS永恒体育" tvg-name="亚冠二级 阿布扎比统一VS永恒体育 全场回放（AI智慧观赛） 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 阿布扎比统一VS永恒体育 全场回放（AI智慧观赛） 23:45
 ${replace}/969116666
-#EXTINF:-1 tvg-id="沙宾·温特迎首胜 林锺勋让二追三晋级" tvg-name="WTT 沙宾·温特迎首胜 林锺勋让二追三晋级 赵曦 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 沙宾·温特迎首胜 林锺勋让二追三晋级 赵曦 01:30
-${replace}/968854149
-#EXTINF:-1 tvg-id="沙宾·温特迎首胜 林锺勋让二追三晋级" tvg-name="WTT 沙宾·温特迎首胜 林锺勋让二追三晋级 赛场原声 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 沙宾·温特迎首胜 林锺勋让二追三晋级 赛场原声 01:30
-${replace}/968854110
-#EXTINF:-1 tvg-id="沙宾·温特迎首胜 林锺勋让二追三晋级" tvg-name="WTT 沙宾·温特迎首胜 林锺勋让二追三晋级 智能字幕 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 沙宾·温特迎首胜 林锺勋让二追三晋级 智能字幕 01:30
-${replace}/968857028
-#EXTINF:-1 tvg-id="布赖代合作VS费萨里体育" tvg-name="亚冠二级 布赖代合作VS费萨里体育 洪宇青 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 布赖代合作VS费萨里体育 洪宇青 02:00
-${replace}/968879838
-#EXTINF:-1 tvg-id="布赖代合作VS费萨里体育" tvg-name="亚冠二级 布赖代合作VS费萨里体育 赛场原声 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 布赖代合作VS费萨里体育 赛场原声 02:00
-${replace}/968880441
-#EXTINF:-1 tvg-id="穆哈拉格VS阿布扎比半岛足球俱乐部" tvg-name="亚冠二级 穆哈拉格VS阿布扎比半岛足球俱乐部 周楚雄 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 穆哈拉格VS阿布扎比半岛足球俱乐部 周楚雄 02:00
-${replace}/968879909
-#EXTINF:-1 tvg-id="穆哈拉格VS阿布扎比半岛足球俱乐部" tvg-name="亚冠二级 穆哈拉格VS阿布扎比半岛足球俱乐部 赛场原声 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 穆哈拉格VS阿布扎比半岛足球俱乐部 赛场原声 02:00
-${replace}/968879893
-#EXTINF:-1 tvg-id="穆哈拉格VS阿布扎比半岛足球俱乐部" tvg-name="亚冠二级 穆哈拉格VS阿布扎比半岛足球俱乐部 智能解说 02:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 穆哈拉格VS阿布扎比半岛足球俱乐部 智能解说 02:10
-${replace}/968916810
+#EXTINF:-1 tvg-id="布赖代合作VS费萨里体育" tvg-name="亚冠二级 布赖代合作VS费萨里体育 全场回放（洪宇青） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 布赖代合作VS费萨里体育 全场回放（洪宇青） 02:00
+${replace}/969120164
+#EXTINF:-1 tvg-id="穆哈拉格VS阿布扎比半岛足球俱乐部" tvg-name="亚冠二级 穆哈拉格VS阿布扎比半岛足球俱乐部 全场回放（周楚雄） 02:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 穆哈拉格VS阿布扎比半岛足球俱乐部 全场回放（周楚雄） 02:10
+${replace}/969120405
+#EXTINF:-1 tvg-id="穆哈拉格VS阿布扎比半岛足球俱乐部" tvg-name="亚冠二级 穆哈拉格VS阿布扎比半岛足球俱乐部 全场回放（AI智慧观赛） 02:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 穆哈拉格VS阿布扎比半岛足球俱乐部 全场回放（AI智慧观赛） 02:10
+${replace}/969120412
+#EXTINF:-1 tvg-id="穆哈拉格VS阿布扎比半岛足球俱乐部" tvg-name="亚冠二级 穆哈拉格VS阿布扎比半岛足球俱乐部 全场回放（智能解说） 02:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 穆哈拉格VS阿布扎比半岛足球俱乐部 全场回放（智能解说） 02:10
+${replace}/969120423
 #EXTINF:-1 tvg-id="奇才VS老鹰" tvg-name="NBA 奇才VS老鹰 刘芳宇 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 奇才VS老鹰 刘芳宇 07:55
 ${replace}/968993113
 #EXTINF:-1 tvg-id="奇才VS老鹰" tvg-name="NBA 奇才VS老鹰 英文原声 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 奇才VS老鹰 英文原声 07:55
@@ -457,6 +447,8 @@ ${replace}/968993103
 ${replace}/968992999
 #EXTINF:-1 tvg-id="活塞VS76人" tvg-name="NBA 活塞VS76人 英文原声 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 活塞VS76人 英文原声 07:55
 ${replace}/968992972
+#EXTINF:-1 tvg-id="活塞VS76人" tvg-name="NBA 活塞VS76人 同看雄鹿vs凯尔特人 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 活塞VS76人 同看雄鹿vs凯尔特人 08:25
+${replace}/968993246
 #EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第232期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 咪咕体育日报 第232期 08:00
 ${replace}/968818200
 #EXTINF:-1 tvg-id="篮网VS黄蜂" tvg-name="NBA 篮网VS黄蜂 张泽欣 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 篮网VS黄蜂 张泽欣 08:25
@@ -467,6 +459,8 @@ ${replace}/968987327
 ${replace}/968993246
 #EXTINF:-1 tvg-id="凯尔特人VS雄鹿" tvg-name="NBA 凯尔特人VS雄鹿 英文原声 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 凯尔特人VS雄鹿 英文原声 08:25
 ${replace}/968993221
+#EXTINF:-1 tvg-id="凯尔特人VS雄鹿" tvg-name="NBA 凯尔特人VS雄鹿 同看76人vs活塞 07:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 凯尔特人VS雄鹿 同看76人vs活塞 07:30
+${replace}/968992999
 #EXTINF:-1 tvg-id="尼克斯VS公牛" tvg-name="NBA 尼克斯VS公牛 吴博文 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 尼克斯VS公牛 吴博文 08:25
 ${replace}/968987400
 #EXTINF:-1 tvg-id="尼克斯VS公牛" tvg-name="NBA 尼克斯VS公牛 英文原声 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 尼克斯VS公牛 英文原声 08:25
