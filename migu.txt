@@ -4095,54 +4095,54 @@ http://144.255.16.190:6688/969150072
 http://144.255.31.42:6688/969150072
 #EXTINF:-1 tvg-id="巴吞联VS大埔" tvg-name="亚冠二级 巴吞联VS大埔 全场回放（吴子越） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-昨天",亚冠二级 巴吞联VS大埔 全场回放（吴子越） 20:00
 http://115.171.216.32:4000/969150072
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30
-http://219.156.94.94:4022/968854316
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30
-http://219.156.35.203:4022/968854316
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30
-http://171.119.206.17:6000/968854316
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30
-http://171.119.206.49:6000/968854316
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30
-http://60.4.28.229:8077/968854316
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30
-http://144.255.16.190:6688/968854316
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30
-http://144.255.31.42:6688/968854316
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 高文清 01:30
-http://115.171.216.32:4000/968854316
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30
-http://219.156.94.94:4022/968854226
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30
-http://219.156.35.203:4022/968854226
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30
-http://171.119.206.17:6000/968854226
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30
-http://171.119.206.49:6000/968854226
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30
-http://60.4.28.229:8077/968854226
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30
-http://144.255.16.190:6688/968854226
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30
-http://144.255.31.42:6688/968854226
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 赛场原声 01:30
-http://115.171.216.32:4000/968854226
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30
-http://219.156.94.94:4022/968857020
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30
-http://219.156.35.203:4022/968857020
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30
-http://171.119.206.17:6000/968857020
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30
-http://171.119.206.49:6000/968857020
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30
-http://60.4.28.229:8077/968857020
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30
-http://144.255.16.190:6688/968857020
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30
-http://144.255.31.42:6688/968857020
-#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空冲八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空冲八强 智能字幕 01:30
-http://115.171.216.32:4000/968857020
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30
+http://219.156.94.94:4022/969158479
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30
+http://219.156.35.203:4022/969158479
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30
+http://171.119.206.17:6000/969158479
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30
+http://171.119.206.49:6000/969158479
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30
+http://60.4.28.229:8077/969158479
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30
+http://144.255.16.190:6688/969158479
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30
+http://144.255.31.42:6688/969158479
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（高文清） 01:30
+http://115.171.216.32:4000/969158479
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30
+http://219.156.94.94:4022/969158606
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30
+http://219.156.35.203:4022/969158606
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30
+http://171.119.206.17:6000/969158606
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30
+http://171.119.206.49:6000/969158606
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30
+http://60.4.28.229:8077/969158606
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30
+http://144.255.16.190:6688/969158606
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30
+http://144.255.31.42:6688/969158606
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放 01:30
+http://115.171.216.32:4000/969158606
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30
+http://219.156.94.94:4022/969158472
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30
+http://219.156.35.203:4022/969158472
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30
+http://171.119.206.17:6000/969158472
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30
+http://171.119.206.49:6000/969158472
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30
+http://60.4.28.229:8077/969158472
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30
+http://144.255.16.190:6688/969158472
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30
+http://144.255.31.42:6688/969158472
+#EXTINF:-1 tvg-id="温瑞博3-0王楚钦 松岛辉空挺进八强" tvg-name="WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 温瑞博3-0王楚钦 松岛辉空挺进八强 全场回放（英文解说智能字幕） 01:30
+http://115.171.216.32:4000/969158472
 #EXTINF:-1 tvg-id="环四姑娘山超级越野跑" tvg-name="跑步系列赛 环四姑娘山超级越野跑 解说 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/11/4/10000000157810680041.png" group-title="体育-今天",跑步系列赛 环四姑娘山超级越野跑 解说 07:00
 http://219.156.94.94:4022/969098973
 #EXTINF:-1 tvg-id="环四姑娘山超级越野跑" tvg-name="跑步系列赛 环四姑娘山超级越野跑 解说 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/11/4/10000000157810680041.png" group-title="体育-今天",跑步系列赛 环四姑娘山超级越野跑 解说 07:00
@@ -4175,6 +4175,22 @@ http://144.255.16.190:6688/968818166
 http://144.255.31.42:6688/968818166
 #EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第233期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 咪咕体育日报 第233期 08:00
 http://115.171.216.32:4000/968818166
+#EXTINF:-1 tvg-id="北京国际武术大赛第一比赛日" tvg-name="北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/11/4/10000000157710601af5.png" group-title="体育-今天",北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00
+http://219.156.94.94:4022/969096991
+#EXTINF:-1 tvg-id="北京国际武术大赛第一比赛日" tvg-name="北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/11/4/10000000157710601af5.png" group-title="体育-今天",北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00
+http://219.156.35.203:4022/969096991
+#EXTINF:-1 tvg-id="北京国际武术大赛第一比赛日" tvg-name="北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/11/4/10000000157710601af5.png" group-title="体育-今天",北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00
+http://171.119.206.17:6000/969096991
+#EXTINF:-1 tvg-id="北京国际武术大赛第一比赛日" tvg-name="北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/11/4/10000000157710601af5.png" group-title="体育-今天",北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00
+http://171.119.206.49:6000/969096991
+#EXTINF:-1 tvg-id="北京国际武术大赛第一比赛日" tvg-name="北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/11/4/10000000157710601af5.png" group-title="体育-今天",北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00
+http://60.4.28.229:8077/969096991
+#EXTINF:-1 tvg-id="北京国际武术大赛第一比赛日" tvg-name="北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/11/4/10000000157710601af5.png" group-title="体育-今天",北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00
+http://144.255.16.190:6688/969096991
+#EXTINF:-1 tvg-id="北京国际武术大赛第一比赛日" tvg-name="北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/11/4/10000000157710601af5.png" group-title="体育-今天",北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00
+http://144.255.31.42:6688/969096991
+#EXTINF:-1 tvg-id="北京国际武术大赛第一比赛日" tvg-name="北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/11/4/10000000157710601af5.png" group-title="体育-今天",北京国际武术大赛 北京国际武术大赛第一比赛日 解说 09:00
+http://115.171.216.32:4000/969096991
 #EXTINF:-1 tvg-id="单打第一、二阶段" tvg-name="中国乒协会员联赛 单打第一、二阶段 赛场原声 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png" group-title="体育-今天",中国乒协会员联赛 单打第一、二阶段 赛场原声 08:30
 http://219.156.94.94:4022/969127975
 #EXTINF:-1 tvg-id="单打第一、二阶段" tvg-name="中国乒协会员联赛 单打第一、二阶段 赛场原声 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png" group-title="体育-今天",中国乒协会员联赛 单打第一、二阶段 赛场原声 08:30
@@ -4271,6 +4287,22 @@ http://144.255.16.190:6688/968987946
 http://144.255.31.42:6688/968987946
 #EXTINF:-1 tvg-id="勇士VS热火" tvg-name="NBA 勇士VS热火 拜月宁 10:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS热火 拜月宁 10:55
 http://115.171.216.32:4000/968987946
+#EXTINF:-1 tvg-id="勇士VS热火" tvg-name="NBA 勇士VS热火 魔术vs太阳 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS热火 魔术vs太阳 09:30
+http://219.156.94.94:4022/968988809
+#EXTINF:-1 tvg-id="勇士VS热火" tvg-name="NBA 勇士VS热火 魔术vs太阳 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS热火 魔术vs太阳 09:30
+http://219.156.35.203:4022/968988809
+#EXTINF:-1 tvg-id="勇士VS热火" tvg-name="NBA 勇士VS热火 魔术vs太阳 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS热火 魔术vs太阳 09:30
+http://171.119.206.17:6000/968988809
+#EXTINF:-1 tvg-id="勇士VS热火" tvg-name="NBA 勇士VS热火 魔术vs太阳 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS热火 魔术vs太阳 09:30
+http://171.119.206.49:6000/968988809
+#EXTINF:-1 tvg-id="勇士VS热火" tvg-name="NBA 勇士VS热火 魔术vs太阳 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS热火 魔术vs太阳 09:30
+http://60.4.28.229:8077/968988809
+#EXTINF:-1 tvg-id="勇士VS热火" tvg-name="NBA 勇士VS热火 魔术vs太阳 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS热火 魔术vs太阳 09:30
+http://144.255.16.190:6688/968988809
+#EXTINF:-1 tvg-id="勇士VS热火" tvg-name="NBA 勇士VS热火 魔术vs太阳 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS热火 魔术vs太阳 09:30
+http://144.255.31.42:6688/968988809
+#EXTINF:-1 tvg-id="勇士VS热火" tvg-name="NBA 勇士VS热火 魔术vs太阳 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS热火 魔术vs太阳 09:30
+http://115.171.216.32:4000/968988809
 #EXTINF:-1 tvg-id="勇士VS热火" tvg-name="NBA 勇士VS热火 英文原声 10:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS热火 英文原声 10:55
 http://219.156.94.94:4022/968987933
 #EXTINF:-1 tvg-id="勇士VS热火" tvg-name="NBA 勇士VS热火 英文原声 10:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS热火 英文原声 10:55
