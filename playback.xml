@@ -87,13 +87,22 @@
     <programme channel="CCTV1综合" start="20261107190000 +0800" stop="20261107193855 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261107193855 +0800" stop="20261107200500 +0800">
+    <programme channel="CCTV1综合" start="20261107193855 +0800" stop="20261107200105 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261107200500 +0800" stop="20261107214940 +0800">
-        <title lang="zh">专题节目-1</title>
+    <programme channel="CCTV1综合" start="20261107200105 +0800" stop="20261107200500 +0800">
+        <title lang="zh">前情提要-伟大的长征-第50集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261107214940 +0800" stop="20261107220000 +0800">
+    <programme channel="CCTV1综合" start="20261107200500 +0800" stop="20261107205320 +0800">
+        <title lang="zh">伟大的长征第50集</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20261107205320 +0800" stop="20261107205625 +0800">
+        <title lang="zh">前情提要-伟大的长征-第51集</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20261107205625 +0800" stop="20261107215150 +0800">
+        <title lang="zh">伟大的长征第51集</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20261107215150 +0800" stop="20261107220000 +0800">
         <title lang="zh">三餐四季-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20261107220000 +0800" stop="20261107223700 +0800">
@@ -11736,47 +11745,62 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20261107000000 +0800" stop="20261107060300 +0800">
-        <title lang="zh">喜羊羊与灰太狼之遨游神秘洋</title>
+    <programme channel="嘉佳卡通" start="20261107000000 +0800" stop="20261107060200 +0800">
+        <title lang="zh">喜羊羊与灰太狼之发明大作战</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20261107060300 +0800" stop="20261107081300 +0800">
+    <programme channel="嘉佳卡通" start="20261107060200 +0800" stop="20261107081200 +0800">
         <title lang="zh">猪猪侠之竞速小英雄</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20261107081300 +0800" stop="20261107091600 +0800">
+    <programme channel="嘉佳卡通" start="20261107081200 +0800" stop="20261107092000 +0800">
         <title lang="zh">疯狂小糖</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20261107091600 +0800" stop="20261107111700 +0800">
-        <title lang="zh">超级飞侠(十九)</title>
+    <programme channel="嘉佳卡通" start="20261107092000 +0800" stop="20261107095500 +0800">
+        <title lang="zh">嗨小喇叭之少年大本营</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20261107111700 +0800" stop="20261107141100 +0800">
-        <title lang="zh">奶龙之搞怪大作战二</title>
+    <programme channel="嘉佳卡通" start="20261107095500 +0800" stop="20261107101100 +0800">
+        <title lang="zh">疯狂小糖</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20261107141100 +0800" stop="20261107160800 +0800">
-        <title lang="zh">奇妙萌可之魔法甜心</title>
+    <programme channel="嘉佳卡通" start="20261107101100 +0800" stop="20261107111100 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄十</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20261107160800 +0800" stop="20261107164300 +0800">
-        <title lang="zh">奶龙之奇妙冒险</title>
+    <programme channel="嘉佳卡通" start="20261107111100 +0800" stop="20261107111400 +0800">
+        <title lang="zh">2026蕃尼蕃尼之嘉有好朋友</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20261107164300 +0800" stop="20261107183500 +0800">
+    <programme channel="嘉佳卡通" start="20261107111400 +0800" stop="20261107113800 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄十</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261107113800 +0800" stop="20261107141300 +0800">
+        <title lang="zh">飞狗莫柯之家有小短腿</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261107141300 +0800" stop="20261107150400 +0800">
+        <title lang="zh">疯狂小糖</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261107150400 +0800" stop="20261107151000 +0800">
+        <title lang="zh">嘉佳全能星-2026遇见中华诗词之美</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261107151000 +0800" stop="20261107154900 +0800">
+        <title lang="zh">疯狂小糖</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261107154900 +0800" stop="20261107182900 +0800">
         <title lang="zh">奶龙搞怪大作战</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20261107183500 +0800" stop="20261107185900 +0800">
+    <programme channel="嘉佳卡通" start="20261107182900 +0800" stop="20261107185200 +0800">
         <title lang="zh">超级飞侠之奇芯宝藏二</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20261107185900 +0800" stop="20261107193400 +0800">
+    <programme channel="嘉佳卡通" start="20261107185200 +0800" stop="20261107192800 +0800">
         <title lang="zh">超级飞侠(二十)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20261107193400 +0800" stop="20261107194500 +0800">
+    <programme channel="嘉佳卡通" start="20261107192800 +0800" stop="20261107193900 +0800">
         <title lang="zh">咖宝车神之星卫战队(上)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20261107194500 +0800" stop="20261107210900 +0800">
-        <title lang="zh">喜羊羊与灰太狼之决战次时代</title>
+    <programme channel="嘉佳卡通" start="20261107193900 +0800" stop="20261107200600 +0800">
+        <title lang="zh">喜羊羊与灰太狼之异国大营救</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20261107210900 +0800" stop="20261107211200 +0800">
-        <title lang="zh">嗨!小喇叭-运动会开幕式(二)</title>
+    <programme channel="嘉佳卡通" start="20261107200600 +0800" stop="20261107201700 +0800">
+        <title lang="zh">红领巾爱广东第二季</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20261107211200 +0800" stop="20261108000000 +0800">
-        <title lang="zh">喜羊羊与灰太狼之决战次时代</title>
+    <programme channel="嘉佳卡通" start="20261107201700 +0800" stop="20261108000000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之异国大营救</title>
     </programme>
     <channel id="经典动画大集合">
         <display-name lang="zh">经典动画大集合</display-name>
