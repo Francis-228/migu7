@@ -84,22 +84,22 @@
     <programme channel="CCTV1综合" start="20261115190000 +0800" stop="20261115193810 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261115193810 +0800" stop="20261115195920 +0800">
+    <programme channel="CCTV1综合" start="20261115193810 +0800" stop="20261115195935 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261115195920 +0800" stop="20261115200200 +0800">
+    <programme channel="CCTV1综合" start="20261115195935 +0800" stop="20261115200200 +0800">
         <title lang="zh">前情提要-伟大的长征-第60集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261115200200 +0800" stop="20261115205255 +0800">
+    <programme channel="CCTV1综合" start="20261115200200 +0800" stop="20261115205150 +0800">
         <title lang="zh">伟大的长征第60集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261115205255 +0800" stop="20261115214640 +0800">
+    <programme channel="CCTV1综合" start="20261115205150 +0800" stop="20261115214605 +0800">
         <title lang="zh">2026花开中国-7 福建福州</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261115214640 +0800" stop="20261115215355 +0800">
+    <programme channel="CCTV1综合" start="20261115214605 +0800" stop="20261115215305 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261115215355 +0800" stop="20261115220000 +0800">
+    <programme channel="CCTV1综合" start="20261115215305 +0800" stop="20261115220000 +0800">
         <title lang="zh">三餐四季-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20261115220000 +0800" stop="20261115223600 +0800">
@@ -228,10 +228,10 @@
     <programme channel="CCTV3综艺" start="20261115012345 +0800" stop="20261115024545 +0800">
         <title lang="zh">银龄欣风采-1</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261115024545 +0800" stop="20261115040235 +0800">
+    <programme channel="CCTV3综艺" start="20261115024545 +0800" stop="20261115040245 +0800">
         <title lang="zh">全民畅舞-21</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261115040235 +0800" stop="20261115052245 +0800">
+    <programme channel="CCTV3综艺" start="20261115040245 +0800" stop="20261115052245 +0800">
         <title lang="zh">CMG夏日歌会-陕西榆林站-重播版</title>
     </programme>
     <programme channel="CCTV3综艺" start="20261115052245 +0800" stop="20261115053245 +0800">
@@ -712,10 +712,10 @@
         <title lang="zh">兵器面面观-环球兵器大事件-2026-46</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20261115215245 +0800" stop="20261115224315 +0800">
-        <title lang="zh">伟大的长征-(高清文件重播版)-1/60</title>
+        <title lang="zh">伟大的长征-（高清文件重播版）-第1集</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20261115224315 +0800" stop="20261115233945 +0800">
-        <title lang="zh">伟大的长征-(高清文件重播版)-2/60</title>
+        <title lang="zh">伟大的长征-（高清文件重播版）-第2集</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20261115233945 +0800" stop="20261115235900 +0800">
         <title lang="zh">兵器面面观-环球兵器大事件-2026-46</title>
